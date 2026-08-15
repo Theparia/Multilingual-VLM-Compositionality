@@ -21,7 +21,6 @@ data/
 output/
   sc/                           Stored aggregate and per-sample SC predictions
   scpp/                         Stored aggregate and per-sample SC++ predictions
-report/                         LaTeX source, compiled PDF, and figure assets
 requirements.txt
 ```
 
