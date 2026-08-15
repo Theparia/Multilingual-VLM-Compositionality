@@ -1,0 +1,80 @@
+[
+  {
+    "sample_id": "14",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک حمام کوچک با کاشی‌های سرامیکی، شامل یک توالت با نشیمنگاه مشکی.",
+    "caption2": "یک حمام کوچک با کاشی‌های سرامیکی، شامل یک توالت با نشیمنگاه مشکی."
+  },
+  {
+    "sample_id": "45",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک سگ در یک مبل در اتاق نشیمن استراحت می‌کند.",
+    "negative_caption": "یک سگ در یک مبل در اتاق نشیمن استراحت می‌کند."
+  },
+  {
+    "sample_id": "52",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند.",
+    "caption2": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند."
+  },
+  {
+    "sample_id": "180",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "سه نفر در حال اسکی بر روی یک تپه پوشیده از برف هستند.",
+    "caption2": "سه نفر در حال اسکی بر روی یک تپه پوشیده از برف هستند."
+  },
+  {
+    "sample_id": "260",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "تصویری از گروهی از پسران و جوانان، در یک عکس جمعی.",
+    "negative_caption": "تصویری از گروهی از پسران و جوانان، در یک عکس جمعی."
+  },
+  {
+    "sample_id": "341",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "دو حیوان زبره و یک حیوان دیگر که در چمن‌ها علف می‌خورند.",
+    "negative_caption": "دو حیوان زبره و یک حیوان دیگر که در چمن‌ها علف می‌خورند."
+  },
+  {
+    "sample_id": "538",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک دوچرخه در کنار تخت در یک اتاق قرار دارد.",
+    "negative_caption": "یک دوچرخه در کنار تخت در یک اتاق قرار دارد."
+  },
+  {
+    "sample_id": "551",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک ظرف حاوی ناهار آماده و بسته‌بندی شده.",
+    "caption2": "یک ظرف حاوی ناهار آماده و بسته‌بندی شده."
+  },
+  {
+    "sample_id": "555",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فرد مسن که در حال اسکی کردن در یک شیب است.",
+    "caption2": "یک فرد مسن که در حال اسکی کردن در یک شیب است."
+  },
+  {
+    "sample_id": "602",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک پرنده کوچک که روی پشتی یک نیمکت چوبی نشسته است.",
+    "caption2": "یک پرنده کوچک که روی پشتی یک نیمکت چوبی نشسته است."
+  },
+  {
+    "sample_id": "608",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک غرفه در بازار که انواع مختلف میوه‌ها را عرضه می‌کند.",
+    "caption2": "یک غرفه در بازار که انواع مختلف میوه‌ها را عرضه می‌کند."
+  },
+  {
+    "sample_id": "689",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک نفر زیر یک چتر رنگارنگ نشسته است.",
+    "caption2": "یک نفر زیر یک چتر رنگارنگ نشسته است."
+  },
+  {
+    "sample_id": "780",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دو نفر روی تخت دراز کشیده‌اند.",
+    "caption2": "دو نفر روی تخت دراز کشیده‌اند."
+  }
+]

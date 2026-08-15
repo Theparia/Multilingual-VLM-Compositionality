@@ -1,0 +1,20 @@
+[
+  {
+    "sample_id": "260",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Niños y jóvenes varones en una foto de grupo.",
+    "negative_caption": "Niños y jóvenes varones en una foto de grupo."
+  },
+  {
+    "sample_id": "263",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Fotografía en blanco y negro de un tractor en una playa, junto a barcos.",
+    "negative_caption": "Fotografía en blanco y negro de un tractor en una playa, junto a barcos."
+  },
+  {
+    "sample_id": "757",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Una mujer de cabello rubio y gafas está jugando a un videojuego.",
+    "negative_caption": "Una mujer de cabello rubio y gafas está jugando a un videojuego."
+  }
+]

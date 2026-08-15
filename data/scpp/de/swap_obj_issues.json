@@ -1,0 +1,26 @@
+[
+  {
+    "sample_id": "2",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person bereitet eine Pizza zu, während eine andere Person zusieht.",
+    "negative_caption": "Eine Person bereitet eine Pizza zu, während eine andere Person zusieht."
+  },
+  {
+    "sample_id": "8",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person, die einen Spielecontroller hält, und eine andere Person, die zusieht.",
+    "negative_caption": "Eine Person, die einen Spielecontroller hält, und eine andere Person, die zusieht."
+  },
+  {
+    "sample_id": "145",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein alter, roter Wagen steht vor einem Flugzeug.",
+    "caption2": "Ein alter, roter Wagen steht vor einem Flugzeug."
+  },
+  {
+    "sample_id": "180",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Der Surfer fährt die Welle seitlich entlang des Strandes.",
+    "caption2": "Der Surfer fährt die Welle seitlich entlang des Strandes."
+  }
+]

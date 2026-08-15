@@ -1,0 +1,74 @@
+[
+  {
+    "sample_id": "22",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک میز که روی آن سیب، پرتقال و موز قرار دارند.",
+    "negative_caption": "یک میز که روی آن سیب، پرتقال و موز قرار دارند."
+  },
+  {
+    "sample_id": "79",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "این ورزشکار از برنده شدن در مسابقه بسیار خوشحال است.",
+    "negative_caption": "این ورزشکار از برنده شدن در مسابقه بسیار خوشحال است."
+  },
+  {
+    "sample_id": "196",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "مردی که یک ژاکت و کلاه پوشیده، به دوربین نگاه می‌کند.",
+    "negative_caption": "مردی که یک ژاکت و کلاه پوشیده، به دوربین نگاه می‌کند."
+  },
+  {
+    "sample_id": "388",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک وعده غذایی متنوع که روی یک بشقاب قرار دارد و در کنار آن یک لیوان شیر سفید دیده می‌شود.",
+    "negative_caption": "یک وعده غذایی متنوع که روی یک بشقاب قرار دارد و در کنار آن یک لیوان شیر سفید دیده می‌شود."
+  },
+  {
+    "sample_id": "463",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "گله‌ای از گوسفندان که در کنار یک توده علوفه در حال چرا هستند.",
+    "negative_caption": "گله‌ای از گوسفندان که در کنار یک توده علوفه در حال چرا هستند."
+  },
+  {
+    "sample_id": "511",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک گوسفند کوچک زیر یک ستون چوبی حصار ایستاده است.",
+    "negative_caption": "یک گوسفند کوچک زیر یک ستون چوبی حصار ایستاده است."
+  },
+  {
+    "sample_id": "522",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "تصویری از یک قابلمه حاوی سوپ سبزیجات، همراه با یک قاشق چوبی، روی یک اجاق گاز استیل.",
+    "negative_caption": "تصویری از یک قابلمه حاوی سوپ سبزیجات، همراه با یک قاشق چوبی، روی یک اجاق گاز استیل."
+  },
+  {
+    "sample_id": "611",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "مردان بر روی گروهی از گوسفندان نظارت دارند.",
+    "negative_caption": "مردان بر روی گروهی از گوسفندان نظارت دارند."
+  },
+  {
+    "sample_id": "654",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک سینک و آینه بزرگ در حمام، همراه با یک سشوار که روی دیوار نصب شده است.",
+    "negative_caption": "یک سینک و آینه بزرگ در حمام، همراه با یک سشوار که روی دیوار نصب شده است."
+  },
+  {
+    "sample_id": "987",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک قایق که در آب شناور است.",
+    "negative_caption": "یک قایق که در آب شناور است."
+  },
+  {
+    "sample_id": "1099",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک حمام و یک سرویس بهداشتی در یک اتاق کوچک.",
+    "negative_caption": "یک حمام و یک سرویس بهداشتی در یک اتاق کوچک."
+  },
+  {
+    "sample_id": "1155",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "دو پرنده روی ظرف غذا ایستاده‌اند.",
+    "negative_caption": "دو پرنده روی ظرف غذا ایستاده‌اند."
+  }
+]

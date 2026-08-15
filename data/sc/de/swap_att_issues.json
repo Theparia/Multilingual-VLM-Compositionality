@@ -1,0 +1,14 @@
+[
+  {
+    "sample_id": "154",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Person steht auf einer Treppe und hält eine Schale mit gegrillten Würstchen auf Brötchen in der Hand.",
+    "negative_caption": "Eine Person steht auf einer Treppe und hält eine Schale mit gegrillten Würstchen auf Brötchen in der Hand."
+  },
+  {
+    "sample_id": "593",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Frau, die auf einer Bank sitzt, und eine Frau, die hinter der Bank an einem Bushaltestell steht.",
+    "negative_caption": "Eine Frau, die auf einer Bank sitzt, und eine Frau, die hinter der Bank an einem Bushaltestell steht."
+  }
+]

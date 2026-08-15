@@ -1,0 +1,194 @@
+[
+  {
+    "sample_id": "9",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Katze steht auf einem Tisch und trinkt Wasser aus einer Glas.",
+    "negative_caption": "Eine Katze steht auf einem Tisch und trinkt Wasser aus einer Glas."
+  },
+  {
+    "sample_id": "31",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Vier Schalen mit Snacks, bestehend aus Gemüse und Crackern.",
+    "caption2": "Vier Schalen mit Snacks, bestehend aus Gemüse und Crackern."
+  },
+  {
+    "sample_id": "70",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Mann hält ein silbernes, zusammenklappbares Handy vor sein Gesicht.",
+    "caption2": "Ein Mann hält ein silbernes, zusammenklappbares Handy vor sein Gesicht."
+  },
+  {
+    "sample_id": "304",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein Schüssel enthält eine Suppe mit Brokkoli und anderen Gemüsesorten.",
+    "negative_caption": "Ein Schüssel enthält eine Suppe mit Brokkoli und anderen Gemüsesorten."
+  },
+  {
+    "sample_id": "386",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein großer, runder Kuchen liegt auf einer Platte.",
+    "negative_caption": "Ein großer, runder Kuchen liegt auf einer Platte."
+  },
+  {
+    "sample_id": "390",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Mann trinkt Wasser aus einer roten Flasche.",
+    "caption2": "Ein Mann trinkt Wasser aus einer roten Flasche."
+  },
+  {
+    "sample_id": "420",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Eisbär, der im Wasser mit Bällen spielt.",
+    "caption2": "Ein Eisbär, der im Wasser mit Bällen spielt."
+  },
+  {
+    "sample_id": "426",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Mann, der auf einen geöffneten Laptop starrt.",
+    "caption2": "Ein Mann, der auf einen geöffneten Laptop starrt."
+  },
+  {
+    "sample_id": "456",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Frau schlägt mit einem Schläger einen Ball.",
+    "negative_caption": "Eine Frau schlägt mit einem Schläger einen Ball."
+  },
+  {
+    "sample_id": "531",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei Personen sitzen an einem Tisch und essen.",
+    "caption2": "Zwei Personen sitzen an einem Tisch und essen."
+  },
+  {
+    "sample_id": "637",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Mann betrachtet einen Wagen, der mit Bananen gefüllt ist.",
+    "caption2": "Ein Mann betrachtet einen Wagen, der mit Bananen gefüllt ist."
+  },
+  {
+    "sample_id": "663",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Frau steht und blickt auf etwas.",
+    "caption2": "Eine Frau steht und blickt auf etwas."
+  },
+  {
+    "sample_id": "705",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Zwei Würstchen auf einer weißen Platte, garniert mit einem Stück Petersilie.",
+    "negative_caption": "Zwei Würstchen auf einer weißen Platte, garniert mit einem Stück Petersilie."
+  },
+  {
+    "sample_id": "732",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Teddybär, der wie aus Holz aussieht.",
+    "caption2": "Ein Teddybär, der wie aus Holz aussieht."
+  },
+  {
+    "sample_id": "745",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Drei Männer sitzen an einem Tisch und frühstücken.",
+    "caption2": "Drei Männer sitzen an einem Tisch und frühstücken."
+  },
+  {
+    "sample_id": "749",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei erwachsene Hände berühren gemeinsam Handys, während eine dritte Person zusieht.",
+    "caption2": "Zwei erwachsene Hände berühren gemeinsam Handys, während eine dritte Person zusieht."
+  },
+  {
+    "sample_id": "762",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Das Giraffen steht im Schatten des Baumes.",
+    "caption2": "Das Giraffen steht im Schatten des Baumes."
+  },
+  {
+    "sample_id": "807",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein leerer Teller mit einem Gabel liegt zwischen zwei Kindern.",
+    "negative_caption": "Ein leerer Teller mit einem Gabel liegt zwischen zwei Kindern."
+  },
+  {
+    "sample_id": "826",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Jemand hält eine schwarze Platte, auf der zwei Pizzastücke liegen.",
+    "caption2": "Jemand hält eine schwarze Platte, auf der zwei Pizzastücke liegen."
+  },
+  {
+    "sample_id": "841",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Katze auf einem Stuhl, mit etwas auf dem Kopf.",
+    "negative_caption": "Eine Katze auf einem Stuhl, mit etwas auf dem Kopf."
+  },
+  {
+    "sample_id": "913",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Mann sitzt auf einer Bank in einem Zug, mit einer Einkaufstasche neben sich.",
+    "caption2": "Ein Mann sitzt auf einer Bank in einem Zug, mit einer Einkaufstasche neben sich."
+  },
+  {
+    "sample_id": "953",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Tennisspieler, der gerade einen Schlag ausgeführt hat.",
+    "caption2": "Ein Tennisspieler, der gerade einen Schlag ausgeführt hat."
+  },
+  {
+    "sample_id": "970",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Es gibt eine Schüssel mit verschiedenen Gemüsesorten.",
+    "caption2": "Es gibt eine Schüssel mit verschiedenen Gemüsesorten."
+  },
+  {
+    "sample_id": "1023",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein frisch verheiratetes Paar, das neben einer Vier-Schichten-Hochzeitstorte steht.",
+    "caption2": "Ein frisch verheiratetes Paar, das neben einer Vier-Schichten-Hochzeitstorte steht."
+  },
+  {
+    "sample_id": "1046",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein junger Mann steht vor dem Bildschirm eines Laptops.",
+    "caption2": "Ein junger Mann steht vor dem Bildschirm eines Laptops."
+  },
+  {
+    "sample_id": "1074",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Es wird ein Basketballspiel ausgetragen.",
+    "caption2": "Es wird ein Basketballspiel ausgetragen."
+  },
+  {
+    "sample_id": "1222",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Schaf mit kurzem Fell steht unter einem Zaun.",
+    "caption2": "Ein Schaf mit kurzem Fell steht unter einem Zaun."
+  },
+  {
+    "sample_id": "1326",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein Teller mit verschiedenen Arten von Speisen.",
+    "negative_caption": "Ein Teller mit verschiedenen Arten von Speisen."
+  },
+  {
+    "sample_id": "1339",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Katze sitzt auf der Toilettenschüssel.",
+    "caption2": "Eine Katze sitzt auf der Toilettenschüssel."
+  },
+  {
+    "sample_id": "1403",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus.",
+    "caption2": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus."
+  },
+  {
+    "sample_id": "1411",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Sportmannschaft posiert in einem Park.",
+    "caption2": "Eine Sportmannschaft posiert in einem Park."
+  },
+  {
+    "sample_id": "1550",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein weißer Bus mit der Aufschrift \"41 Crosstown\" auf der Vorderseite.",
+    "caption2": "Ein weißer Bus mit der Aufschrift \"41 Crosstown\" auf der Vorderseite."
+  }
+]

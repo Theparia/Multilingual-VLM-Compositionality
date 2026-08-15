@@ -1,0 +1,302 @@
+[
+  {
+    "sample_id": "44",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک نوجوان در حال اسکیت سواری در کنار یک دیوار سیمانی است.",
+    "negative_caption": "یک نوجوان در حال اسکیت سواری در کنار یک دیوار سیمانی است."
+  },
+  {
+    "sample_id": "68",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک فرد با لباس آبی، بدون کفش، که روی یک صندلی در وسط اتاق، با پاها به هم گره داده نشسته است.",
+    "negative_caption": "یک فرد با لباس آبی، بدون کفش، که روی یک صندلی در وسط اتاق، با پاها به هم گره داده نشسته است."
+  },
+  {
+    "sample_id": "92",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دوچرخه‌سواران در خیابان با هم رانندگی می‌کنند.",
+    "caption2": "دوچرخه‌سواران در خیابان با هم رانندگی می‌کنند."
+  },
+  {
+    "sample_id": "94",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فرد با اسکی در حال پایین رفتن از یک تپه است.",
+    "caption2": "یک فرد با اسکی در حال پایین رفتن از یک تپه است."
+  },
+  {
+    "sample_id": "114",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک حمام با دیوارها به رنگ آبی و کاشی‌های به رنگ صورتی.",
+    "negative_caption": "یک حمام با دیوارها به رنگ آبی و کاشی‌های به رنگ صورتی."
+  },
+  {
+    "sample_id": "148",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گروهی از سگ‌هایی که در چمن نشسته‌اند.",
+    "caption2": "گروهی از سگ‌هایی که در چمن نشسته‌اند."
+  },
+  {
+    "sample_id": "167",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک بازیکن بیسبال که پیراهن قرمز پوشیده، آماده است تا توپ را بزند.",
+    "caption2": "یک بازیکن بیسبال که پیراهن قرمز پوشیده، آماده است تا توپ را بزند."
+  },
+  {
+    "sample_id": "223",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک پیتزا با سبزیجات و پنیر که روی یک تخته قرار دارد.",
+    "negative_caption": "یک پیتزا با سبزیجات و پنیر که روی یک تخته قرار دارد."
+  },
+  {
+    "sample_id": "243",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد.",
+    "negative_caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد."
+  },
+  {
+    "sample_id": "243",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد.",
+    "caption2": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد."
+  },
+  {
+    "sample_id": "243",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد.",
+    "caption2": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد."
+  },
+  {
+    "sample_id": "257",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک کودک شمع‌های کیک تولد را خاموش می‌کند.",
+    "negative_caption": "یک کودک شمع‌های کیک تولد را خاموش می‌کند."
+  },
+  {
+    "sample_id": "259",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک سگ که روی یک صندلی زیر یک نقاشی نشسته است.",
+    "caption2": "یک سگ که روی یک صندلی زیر یک نقاشی نشسته است."
+  },
+  {
+    "sample_id": "307",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "در کنار یک علامت \"توقف\"، تابلی با نوشته \"باکانالیا\" قرار دارد.",
+    "negative_caption": "در کنار یک علامت \"توقف\"، تابلی با نوشته \"باکانالیا\" قرار دارد."
+  },
+  {
+    "sample_id": "339",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک فرد در حال اسکیت سواری در خیابان است.",
+    "negative_caption": "یک فرد در حال اسکیت سواری در خیابان است."
+  },
+  {
+    "sample_id": "347",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "دو نفر که روی یک مبل نشسته و در حال تماشای تلویزیون هستند.",
+    "negative_caption": "دو نفر که روی یک مبل نشسته و در حال تماشای تلویزیون هستند."
+  },
+  {
+    "sample_id": "369",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گروهی از کودکان که لباس رسمی پوشیده‌اند و یک تخته سیاه در دست دارند.",
+    "caption2": "گروهی از کودکان که لباس رسمی پوشیده‌اند و یک تخته سیاه در دست دارند."
+  },
+  {
+    "sample_id": "389",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "تصویری از یک اتاق که در آن یک درخت کریسمس تزئین شده است.",
+    "caption2": "تصویری از یک اتاق که در آن یک درخت کریسمس تزئین شده است."
+  },
+  {
+    "sample_id": "444",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "سه صندلی که در یک اتاق، نزدیک یک آینه، قرار دارند.",
+    "negative_caption": "سه صندلی که در یک اتاق، نزدیک یک آینه، قرار دارند."
+  },
+  {
+    "sample_id": "458",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک هواپیمای تجاری با پره، که در هوا پرواز می‌کند.",
+    "caption2": "یک هواپیمای تجاری با پره، که در هوا پرواز می‌کند."
+  },
+  {
+    "sample_id": "461",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک گربه، پاهای جلویی خود را روی نشیمنگاه توالت قرار داده است.",
+    "negative_caption": "یک گربه، پاهای جلویی خود را روی نشیمنگاه توالت قرار داده است."
+  },
+  {
+    "sample_id": "507",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است.",
+    "negative_caption": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است."
+  },
+  {
+    "sample_id": "507",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است.",
+    "caption2": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است."
+  },
+  {
+    "sample_id": "507",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است.",
+    "caption2": "یک فرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است."
+  },
+  {
+    "sample_id": "514",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک لپ‌تاپ که روی یک میز سفید قرار دارد.",
+    "negative_caption": "یک لپ‌تاپ که روی یک میز سفید قرار دارد."
+  },
+  {
+    "sample_id": "549",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک فرد که در کنار پیاده‌رو ایستاده و با فرزندش در کنارش است.",
+    "negative_caption": "یک فرد که در کنار پیاده‌رو ایستاده و با فرزندش در کنارش است."
+  },
+  {
+    "sample_id": "621",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فرد مسن که در حال اسکی کردن در یک شیب است.",
+    "caption2": "یک فرد مسن که در حال اسکی کردن در یک شیب است."
+  },
+  {
+    "sample_id": "624",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "تصویری از یک میز با میوه‌هایی که روی آن قرار دارند.",
+    "caption2": "تصویری از یک میز با میوه‌هایی که روی آن قرار دارند."
+  },
+  {
+    "sample_id": "669",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک گربه تبی کوچک که پشت یک دوچرخه ایستاده و در مقابل یک دیوار قرار دارد.",
+    "negative_caption": "یک گربه تبی کوچک که پشت یک دوچرخه ایستاده و در مقابل یک دیوار قرار دارد."
+  },
+  {
+    "sample_id": "679",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گروهی از موتورسواران در یک خیابان شهری جمع شده‌اند.",
+    "caption2": "گروهی از موتورسواران در یک خیابان شهری جمع شده‌اند."
+  },
+  {
+    "sample_id": "701",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک نفر روی یک موتورسیکلت با یک قسمت جانبی نشسته است.",
+    "caption2": "یک نفر روی یک موتورسیکلت با یک قسمت جانبی نشسته است."
+  },
+  {
+    "sample_id": "737",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "کسی در حال پخت یک غذای سبزیجات سرخ شده برای شام است.",
+    "caption2": "کسی در حال پخت یک غذای سبزیجات سرخ شده برای شام است."
+  },
+  {
+    "sample_id": "767",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "چند عدد چمدان بسیار زیبا و باکیفیت.",
+    "caption2": "چند عدد چمدان بسیار زیبا و باکیفیت."
+  },
+  {
+    "sample_id": "781",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "چهار ورزشکار موج‌سواری در حال تلاش برای سوار شدن بر موج هستند.",
+    "caption2": "چهار ورزشکار موج‌سواری در حال تلاش برای سوار شدن بر موج هستند."
+  },
+  {
+    "sample_id": "819",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد.",
+    "caption2": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد."
+  },
+  {
+    "sample_id": "826",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند.",
+    "caption2": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند."
+  },
+  {
+    "sample_id": "864",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک جفت خواهر و برادر که در حال حمام کردن هستند.",
+    "caption2": "یک جفت خواهر و برادر که در حال حمام کردن هستند."
+  },
+  {
+    "sample_id": "934",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "چند اسب در خیابان ایستاده‌اند.",
+    "caption2": "چند اسب در خیابان ایستاده‌اند."
+  },
+  {
+    "sample_id": "979",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "افراد در حال سوار شدن بر اسب و عبور از رودخانه هستند.",
+    "negative_caption": "افراد در حال سوار شدن بر اسب و عبور از رودخانه هستند."
+  },
+  {
+    "sample_id": "1019",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "برخی از بازیکنان بیسبال که در سکوی استراحت نشسته و در حال تماشای یک مسابقه هستند.",
+    "negative_caption": "برخی از بازیکنان بیسبال که در سکوی استراحت نشسته و در حال تماشای یک مسابقه هستند."
+  },
+  {
+    "sample_id": "1056",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک گربه در حال نوشیدن چیزی از یک لیوان است.",
+    "caption2": "یک گربه در حال نوشیدن چیزی از یک لیوان است."
+  },
+  {
+    "sample_id": "1190",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک تکه پیتزا با یک لایه سس روی آن.",
+    "negative_caption": "یک تکه پیتزا با یک لایه سس روی آن."
+  },
+  {
+    "sample_id": "1192",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گروهی از افراد در فروشگاه Best Buy مشغول بازی ویدئو هستند.",
+    "caption2": "گروهی از افراد در فروشگاه Best Buy مشغول بازی ویدئو هستند."
+  },
+  {
+    "sample_id": "1221",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "این مجموعه کامپیوتری شامل دو مانیتور و یک کیبورد ارگونومیک است.",
+    "caption2": "این مجموعه کامپیوتری شامل دو مانیتور و یک کیبورد ارگونومیک است."
+  },
+  {
+    "sample_id": "1248",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "درپوش توالت باز است.",
+    "caption2": "درپوش توالت باز است."
+  },
+  {
+    "sample_id": "1257",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "شخصی که یک کلاه و عینک آفتابی به همراه یک پیراهن با گره قرمز دارد.",
+    "negative_caption": "شخصی که یک کلاه و عینک آفتابی به همراه یک پیراهن با گره قرمز دارد."
+  },
+  {
+    "sample_id": "1299",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک جوان، یک تکه پیتزا را در دهان خود دارد.",
+    "caption2": "یک جوان، یک تکه پیتزا را در دهان خود دارد."
+  },
+  {
+    "sample_id": "1309",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک گوسفند در حال بالا رفتن از یک تپه است.",
+    "negative_caption": "یک گوسفند در حال بالا رفتن از یک تپه است."
+  },
+  {
+    "sample_id": "1324",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک گربه سیاه که داخل سینک حمام نشسته است.",
+    "caption2": "یک گربه سیاه که داخل سینک حمام نشسته است."
+  },
+  {
+    "sample_id": "1355",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "سه نفر که دور یک میز نشسته‌اند و صبحانه می‌خورند.",
+    "negative_caption": "سه نفر که دور یک میز نشسته‌اند و صبحانه می‌خورند."
+  }
+]

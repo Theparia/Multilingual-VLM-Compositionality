@@ -1,0 +1,2207 @@
+{
+  "0": {
+    "filename": "000000222235.jpg",
+    "caption": "Un gato está sentado sobre sus patas traseras y golpea la planta.",
+    "caption2": "El gato golpea la planta mientras está sentado sobre sus patas traseras.",
+    "negative_caption": "Un gato está sentado sobre la planta y le da patadas a sus patas traseras.",
+    "source_caption": "A cat sits on its hind legs, and swats at the plant.",
+    "source_negative_caption": "A cat sits on the plant, and swats at its hind legs.",
+    "source_caption2": "The cat swats at the plant while sitting on its hind legs."
+  },
+  "1": {
+    "filename": "000000480021.jpg",
+    "caption": "Una persona en una motocicleta está saludando a dos personas.",
+    "caption2": "Una persona está saludando a dos otras personas mientras va en moto.",
+    "negative_caption": "Dos personas en una motocicleta están saludando a alguien.",
+    "source_caption": "A person on a motorcycle is waving at two people.",
+    "source_negative_caption": "Two people on a motorcycle are waving at a person.",
+    "source_caption2": "A person is waving at two other people while being on a motorcycle."
+  },
+  "2": {
+    "filename": "000000287347.jpg",
+    "caption": "Una persona prepara una pizza mientras otra la observa.",
+    "caption2": "Una persona observa cómo otra persona prepara una pizza.",
+    "negative_caption": "Una persona prepara una pizza mientras otra la observa.",
+    "source_caption": "A person prepares a pizza while a person watches.",
+    "source_negative_caption": "A person prepares a pizza while a person watches.",
+    "source_caption2": "A person watches as another person is preparing a pizza."
+  },
+  "3": {
+    "filename": "000000177934.jpg",
+    "caption": "Las niñas están lavando una motocicleta, mientras que los hombres observan.",
+    "caption2": "Las chicas están lavando la motocicleta, mientras que los hombres la observan.",
+    "negative_caption": "Un hombre está lavando una motocicleta mientras unas chicas observan.",
+    "source_caption": "Girls wash a motorcycle while men look on.",
+    "source_negative_caption": "Men wash a motorcycle while girls look on.",
+    "source_caption2": "The motorcycle is being washed by girls while men observe."
+  },
+  "4": {
+    "filename": "000000579635.jpg",
+    "caption": "Un surfista está surfeando las olas mientras un velero navega en el fondo.",
+    "caption2": "Un velero se ve en el fondo, mientras que un surfista está surfeando las olas.",
+    "negative_caption": "Un velero navega sobre las olas, mientras que un surfista se desliza en el fondo.",
+    "source_caption": "A surfer is riding the waves as a sailboat sails in the background.",
+    "source_negative_caption": "A sailboat is riding the waves as a surfer surfs in the background.",
+    "source_caption2": "A sailboat is sailing in the background while a surfer is riding the waves."
+  },
+  "5": {
+    "filename": "000000051309.jpg",
+    "caption": "Tres caballos grandes comiendo heno, mientras que un caballo pequeño está de pie detrás.",
+    "caption2": "Un pequeño caballo está de pie detrás de tres caballos grandes que están comiendo heno.",
+    "negative_caption": "Un pequeño caballo comiendo heno, mientras que tres caballos más grandes están de pie detrás.",
+    "source_caption": "Three large horses eating hay while a small horse stands behind.",
+    "source_negative_caption": "A small horse eating hay while three large horses stand behind.",
+    "source_caption2": "a small horse stands behind three large horses that are eating hay."
+  },
+  "6": {
+    "filename": "000000415238.jpg",
+    "caption": "Un cuadro que representa un jarrón con una margarita sobre una mesa.",
+    "caption2": "Un jarrón con una margarita está colocado sobre una mesa en una pintura.",
+    "negative_caption": "Un cuadro de un girasol con un jarrón sobre una mesa.",
+    "source_caption": "A painting of a vase with a sunflower on a table.",
+    "source_negative_caption": "A painting of a sunflower with a vase on a table.",
+    "source_caption2": "A vase containing a sunflower is positioned on a table in a painting."
+  },
+  "7": {
+    "filename": "000000179214.jpg",
+    "caption": "Una pizza con varias verduras sobre una caja de almacenamiento.",
+    "caption2": "Una pizza cubierta con diferentes verduras se coloca sobre un recipiente de almacenamiento.",
+    "negative_caption": "Un recipiente para guardar alimentos con varios ingredientes vegetales sobre una pizza.",
+    "source_caption": "A pizza with several vegetable toppings sitting on a storage tub.",
+    "source_negative_caption": "A storage tub with several vegetable toppings sitting on a pizza.",
+    "source_caption2": "A pizza topped with various vegetable is placed on top of a storage tub."
+  },
+  "8": {
+    "filename": "000000489764.jpg",
+    "caption": "Una persona sosteniendo un mando de juego, con otra persona observando.",
+    "caption2": "Una persona observa mientras otra persona sostiene un mando de juego.",
+    "negative_caption": "Una persona sosteniendo un mando de juego, con otra persona observando.",
+    "source_caption": "A person holding a game controller with a person looking on.",
+    "source_negative_caption": "A person holding a game controller with a person looking on.",
+    "source_caption2": "A person is looking on while another person holds a game controller."
+  },
+  "9": {
+    "filename": "000000187055.jpg",
+    "caption": "Una persona con una pelota, frente a un niño con una raqueta.",
+    "caption2": "Una persona que sostiene una pelota está de pie frente a un niño que sostiene una raqueta.",
+    "negative_caption": "Un niño con una pelota, frente a una persona con una raqueta.",
+    "source_caption": "A person with a ball facing a child with a racquet.",
+    "source_negative_caption": "A child with a ball facing a person with a racquet.",
+    "source_caption2": "A person holding a ball is standing in front of a child holding a racquet."
+  },
+  "10": {
+    "filename": "000000313034.jpg",
+    "caption": "Una persona con una camisa verde está de pie junto a un niño que sostiene un trozo de pastel en un plato.",
+    "caption2": "Un niño sosteniendo un plato con una porción de pastel está situado junto a una persona de pie, que lleva una camisa verde.",
+    "negative_caption": "Un niño con una camisa verde está de pie junto a una persona que sostiene un trozo de pastel en un plato.",
+    "source_caption": "A person in a green shirt stands by a child holding a piece of cake on a plate.",
+    "source_negative_caption": "A child in a green shirt stands by a person holding a piece of cake on a plate.",
+    "source_caption2": "a child holding a plate with a piece of cake is positioned next to a standing person wearing a green shirt."
+  },
+  "11": {
+    "filename": "000000281754.jpg",
+    "caption": "Un niño sosteniendo un paraguas sobre la cabeza de una persona.",
+    "caption2": "Un niño sostiene un paraguas sobre la cabeza de una persona.",
+    "negative_caption": "Una persona sosteniendo un paraguas sobre la cabeza de un niño.",
+    "source_caption": "A child holding up an umbrella over a person's head.",
+    "source_negative_caption": "A person holding up an umbrella over a child's head.",
+    "source_caption2": "an umbrella is held over a person's head by a child."
+  },
+  "12": {
+    "filename": "000000334309.jpg",
+    "caption": "Una persona tomando una foto con la mano derecha y comiendo con la mano izquierda.",
+    "caption2": "Una persona está comiendo al mismo tiempo con la mano izquierda y tomando una foto con la mano derecha.",
+    "negative_caption": "Una persona tomando una foto con la mano izquierda y comiendo con la mano derecha.",
+    "source_caption": "A person taking a photo with his right hand and eating food with his left hand.",
+    "source_negative_caption": "A person taking a photo with his left hand and eating food with his right hand.",
+    "source_caption2": "A person is simultaneously eating food with their left hand and taking a photo with their right hand."
+  },
+  "13": {
+    "filename": "000000074200.jpg",
+    "caption": "Tres tablas de snowboard detrás de trofeos en una ventana.",
+    "caption2": "Tres tablas de snowboard están expuestas detrás de trofeos en una ventana.",
+    "negative_caption": "Tres trofeos colocados detrás de tablas de snowboard en una ventana.",
+    "source_caption": "Three snow boards behind trophies in a window.",
+    "source_negative_caption": "Three trophies behind snow boards in a window.",
+    "source_caption2": "Three snowboards are displayed behind trophies in a window."
+  },
+  "14": {
+    "filename": "000000209753.jpg",
+    "caption": "Una persona con grandes pendientes de forma de lágrima negra y un vestido negro mira su teléfono móvil.",
+    "caption2": "Una persona, con un vestido negro y grandes pendientes de forma de lágrima negra, está mirando su teléfono móvil.",
+    "negative_caption": "Una persona con un teléfono móvil y un vestido negro mira sus grandes pendientes negros en forma de lágrima.",
+    "source_caption": "A person with large black tear drop earrings and a black dress looks at their cell phone.",
+    "source_negative_caption": "A person with a cell phone and a black dress looks at their large black tear drop earrings.",
+    "source_caption2": "A person looking at their cell phone is wearing a black dress and large black tear-drop earrings."
+  },
+  "15": {
+    "filename": "000000227898.jpg",
+    "caption": "Una escena de calle con un caballo tirando de un carruaje blanco.",
+    "caption2": "Un carruaje blanco está siendo tirado por un caballo en una calle.",
+    "negative_caption": "Una escena de calle con un carruaje blanco tirado por un caballo.",
+    "source_caption": "A street scene with a horse pulling a white carriage.",
+    "source_negative_caption": "A street scene with a white carriage pulling a horse.",
+    "source_caption2": "A white carriage is being pulled by a horse on a street."
+  },
+  "16": {
+    "filename": "000000141597.jpg",
+    "caption": "Una furgoneta de carga estacionada frente a un coche elegante.",
+    "caption2": "Un coche inteligente está estacionado detrás de una furgoneta de carga, que es muy grande.",
+    "negative_caption": "Un coche inteligente estacionado frente a una gran furgoneta de carga.",
+    "source_caption": "A cargo van parked in front of a smart car.",
+    "source_negative_caption": "A smart car parked in front of a large cargo van.",
+    "source_caption2": "A smart car is parked behind a cargo van which is huge."
+  },
+  "17": {
+    "filename": "000000338624.jpg",
+    "caption": "Una persona pasea un perro frente a una fila de sillas, ubicadas frente a una tienda.",
+    "caption2": "Una persona está fuera de una tienda, paseando un perro frente a filas de sillas.",
+    "negative_caption": "Un perro guía a una persona por delante de filas de sillas, frente a una tienda.",
+    "source_caption": "A person walks a dog past rows of chairs outside a store.",
+    "source_negative_caption": "A dog walks a person past rows of chairs outside a store.",
+    "source_caption2": "A person is outside a store walking a dog past rows of chairs."
+  },
+  "18": {
+    "filename": "000000360097.jpg",
+    "caption": "Las maletas están organizadas en grupos sobre una plataforma de hormigón.",
+    "caption2": "Las maletas se colocan sobre una plataforma de hormigón y se organizan en grupos.",
+    "negative_caption": "Se dispone de plataformas de hormigón organizadas en grupos, con equipaje sobre ellas.",
+    "source_caption": "Luggage is arranged in groups  on a concrete  platform.",
+    "source_negative_caption": "A concrete platform is arranged in groups with luggage on it.",
+    "source_caption2": "Luggage is placed on a concrete platform and is organized in groups."
+  },
+  "19": {
+    "filename": "000000289516.jpg",
+    "caption": "Un reloj se encuentra sobre arbustos verdes, bajo un cielo azul.",
+    "caption2": "El reloj está situado sobre arbustos verdes, que se encuentran debajo de un cielo azul.",
+    "negative_caption": "Bushes verdes se encuentran sobre un reloj, bajo un cielo azul.",
+    "source_caption": "A clock sits above green bushes under a blue sky.",
+    "source_negative_caption": "Green bushes sit above a clock under a blue sky.",
+    "source_caption2": "The clock is positioned above green bushes, which are situated under a blue sky."
+  },
+  "20": {
+    "filename": "000000528399.jpg",
+    "caption": "Platos con pasteles y sándwiches junto a un tazón de sopa.",
+    "caption2": "El tazón de sopa se coloca junto a bandejas con sándwiches y pasteles.",
+    "negative_caption": "Un cuenco de pasteles y sándwiches junto a bandejas con sopa.",
+    "source_caption": "Trays of pastries and sandwiches beside a bowl of soup.",
+    "source_negative_caption": "A bowl of pastries and sandwiches beside trays of soup.",
+    "source_caption2": "The bowl of soup is placed beside trays of sandwiches and pastries."
+  },
+  "21": {
+    "filename": "000000427160.jpg",
+    "caption": "Un niño con un uniforme de béisbol azul corriendo para realizar una jugada y sacar a otro niño con un uniforme rojo.",
+    "caption2": "Un niño con un uniforme de béisbol rojo está siendo eliminado por otro niño con un uniforme de béisbol azul mientras corren.",
+    "negative_caption": "Un niño con un uniforme de béisbol rojo corriendo para realizar una jugada y sacar a otro niño con un uniforme azul.",
+    "source_caption": "A child in a blue baseball uniform running to tag out a child in a red uniform.",
+    "source_negative_caption": "A child in a red baseball uniform running to tag out a child in a blue uniform.",
+    "source_caption2": "A child in a red baseball uniform is being tagged out by a child in a blue baseball uniform while running."
+  },
+  "22": {
+    "filename": "000000482970.jpg",
+    "caption": "Una computadora portátil abierta y altavoces sobre un escritorio.",
+    "caption2": "Se pueden ver altavoces y un portátil abierto sobre una mesa.",
+    "negative_caption": "Micrófonos colocados encima de un portátil abierto sobre una mesa.",
+    "source_caption": "An open laptop and speakers on top of a desk.",
+    "source_negative_caption": "Speakers on top of an open laptop on a desk.",
+    "source_caption2": "Speakers and an open laptop are positioned on top of a desk."
+  },
+  "23": {
+    "filename": "000000052507.jpg",
+    "caption": "Una persona sosteniendo una tabla de surf en un cuerpo de agua.",
+    "caption2": "Una persona está en un cuerpo de agua, sosteniendo una tabla de surf.",
+    "negative_caption": "Una tabla de surf que sostiene a una persona en el agua.",
+    "source_caption": "a person holding a surf board in a body of water.",
+    "source_negative_caption": "A surf board holding a person in a body of water.",
+    "source_caption2": "A person is in a body of water holding a surfboard."
+  },
+  "24": {
+    "filename": "000000569976.jpg",
+    "caption": "Un niño pequeño recibiendo el secado del cabello de una persona que está detrás de él.",
+    "caption2": "Una persona está de pie detrás de un niño pequeño mientras le secan el pelo.",
+    "negative_caption": "Una persona secándose el pelo con una toalla, mientras un niño pequeño está de pie detrás de ella.",
+    "source_caption": "Small child getting their hair dried with a person standing behind them. ",
+    "source_negative_caption": "A person getting his hair dried with a small child standing behind him.",
+    "source_caption2": "A person stands behind a small child as she gets their hair dried."
+  },
+  "25": {
+    "filename": "000000565989.jpg",
+    "caption": "Estatuas en el segundo piso de un edificio, situadas debajo de un reloj.",
+    "caption2": "El reloj está situado encima de las estatuas, que se encuentran en el segundo piso del edificio.",
+    "negative_caption": "Un reloj en el segundo piso de un edificio, ubicado debajo de estatuas.",
+    "source_caption": "Statues on the second floor of a building, sitting below a clock.",
+    "source_negative_caption": "A clock on the second floor of a building, sitting below statues.",
+    "source_caption2": "The clock is situated above the statues, which are positioned on the second floor of the building."
+  },
+  "26": {
+    "filename": "000000524850.jpg",
+    "caption": "Personas subiendo a un autobús desde un avión en la pista de aterrizaje.",
+    "caption2": "Personas que se bajan de un autobús desde un avión que está estacionado en la pista de aterrizaje.",
+    "negative_caption": "Personas subiendo a un avión desde un autobús en la plataforma de aterrizaje.",
+    "source_caption": "People getting on to a bus from an airplane on the tarmac",
+    "source_negative_caption": "People getting on to an airplane from a bus on the tarmac.",
+    "source_caption2": "Individuals are boarding a bus from an airplane that is situated on the tarmac."
+  },
+  "27": {
+    "filename": "000000414638.jpg",
+    "caption": "Pasteles blancos sobre un plato blanco, con cubiertos.",
+    "caption2": "Los pasteles blancos están colocados sobre un plato blanco, acompañados de cubiertos.",
+    "negative_caption": "Cubiertos sobre una fuente blanca con pasteles blancos.",
+    "source_caption": "White pastries sitting on top of a white plate with silverware.",
+    "source_negative_caption": "Silverware sitting on top of a white plate with white pastries.",
+    "source_caption2": "White pastries are arranged on top of a white plate with silverware."
+  },
+  "28": {
+    "filename": "000000493286.jpg",
+    "caption": "Un coche rojo antiguo frente a un avión de prop de la época militar.",
+    "caption2": "Un coche antiguo de color rojo está aparcado frente a un avión de prop de época.",
+    "negative_caption": "Un avión de prop, de estilo antiguo, frente a un coche rojo clásico.",
+    "source_caption": "A vintage red car in front of a vintage army prop plane.",
+    "source_negative_caption": "A vintage army prop plane in front of a vintage red car.",
+    "source_caption2": "A vintage car that is red in color is parked in front of a vintage army prop plane."
+  },
+  "29": {
+    "filename": "000000183648.jpg",
+    "caption": "Una persona acaricia a un elefante mientras un par de personas observan.",
+    "caption2": "Unos cuantos observan a un elefante siendo acariciado por una persona.",
+    "negative_caption": "Unos cuantos individuos acarician a un elefante mientras una persona observa.",
+    "source_caption": "A person pats an elephant as a couple people watch.",
+    "source_negative_caption": "A couple people pat an elephant as a person watches.",
+    "source_caption2": " a couple of people are observing an elephant being patted by a person."
+  },
+  "30": {
+    "filename": "000000066561.jpg",
+    "caption": "Una imagen de una cabra bebé de pie y una cabra adulta sentada en un campo.",
+    "caption2": "Una fotografía de una cabra madre sentada, mientras una cría de cabra está de pie en un campo.",
+    "negative_caption": "Una imagen de una cabra adulta de pie y una cría sentada en un campo.",
+    "source_caption": "A view of a baby goat standing and a mother goat sitting in a field.",
+    "source_negative_caption": "A view of a mother goat standing and a baby goat sitting in a field.",
+    "source_caption2": "A photograph of a mother goat sitting while a baby goat is standing in a field."
+  },
+  "31": {
+    "filename": "000000213035.jpg",
+    "caption": "Dos manos sostienen cada una un teléfono móvil, mientras que otra mano, en el fondo, sostiene un vaso.",
+    "caption2": "Dos manos, cada una sosteniendo un teléfono móvil, están colocadas frente a otra mano en el fondo, que sostiene un vaso.",
+    "negative_caption": "Dos manos sostienen cada una un vaso, mientras que otra mano, en el fondo, sostiene un teléfono móvil.",
+    "source_caption": "Two sets of hands are each holding a cell phone while another hand in the background is holding a glass.",
+    "source_negative_caption": "Two sets of hands are each holding a glass while another hand in the background is holding a cell phone.",
+    "source_caption2": "Two sets of hands, each holding a cell phone, are positioned in front of another hand in the background that is holding a glass."
+  },
+  "32": {
+    "filename": "000000078843.jpg",
+    "caption": "El joven está besando a la joven en la parte superior de su cabeza.",
+    "caption2": "Una joven está siendo besada por un joven en la parte superior de su cabeza.",
+    "negative_caption": "La joven está besando al joven en la parte superior de su cabeza.",
+    "source_caption": "The young man is kissing the young woman on top of her head.",
+    "source_negative_caption": "The young woman is kissing the young man on top of his head.",
+    "source_caption2": "The young women is being kissed the young man on top of her head."
+  },
+  "33": {
+    "filename": "000000241326.jpg",
+    "caption": "Un gato está acostado en el sofá y un perro está acostado en el suelo, frente a él.",
+    "caption2": "El perro está tumbado en el suelo, frente al sofá, y el gato está tumbado en el sofá.",
+    "negative_caption": "Un perro está acostado en el sofá y un gato está acostado en el suelo, frente a él.",
+    "source_caption": "A cat is laying on sofa and the dog is laying on the floor in front.",
+    "source_negative_caption": "A dog is laying on sofa and the cat is laying on the floor in front.",
+    "source_caption2": "The dog is lying on the floor in front of the sofa, and the cat is lying on the sofa."
+  },
+  "34": {
+    "filename": "000000474344.jpg",
+    "caption": "Un hombre sostiene un bate mientras una mujer lo observa.",
+    "caption2": "Una mujer observa mientras un hombre sostiene un bate.",
+    "negative_caption": "Una mujer sostiene un bate mientras un hombre la observa.",
+    "source_caption": "A man holds a bat while a woman watches.",
+    "source_negative_caption": "A woman holds a bat while a man watches.",
+    "source_caption2": "A woman watches while a man holds a bat."
+  },
+  "35": {
+    "filename": "000000092091.jpg",
+    "caption": "Un niño pequeño jugando con un osito de peluche y masticando un cepillo de dientes.",
+    "caption2": "Un niño pequeño está masticando un cepillo de dientes mientras juega con un osito de peluche.",
+    "negative_caption": "Un niño pequeño jugando con un cepillo de dientes y masticando un osito de peluche.",
+    "source_caption": "A little child playing with a teddy bear and chewing on a toothbrush.",
+    "source_negative_caption": "A little child playing with a toothbrush and chewing on a teddy bear.",
+    "source_caption2": "A yound child is chewing on a toothbrush while playing with a teddy bear."
+  },
+  "36": {
+    "filename": "000000035963.jpg",
+    "caption": "Una estatua con dos animales de peluche encima, ubicada en un pequeño montículo de tierra.",
+    "caption2": "Se coloca una estatua en un pequeño montículo de tierra, con dos animales de peluche colocados encima.",
+    "negative_caption": "Dos peluches con una estatua encima, sentados en un pequeño montículo de tierra.",
+    "source_caption": "A statue with two stuffed animals on top of it sitting in a patch of dirt.",
+    "source_negative_caption": "Two stuffed animals with a statue on top of them sitting in a patch of dirt.",
+    "source_caption2": "A statue  is placed in a patch of dirt with two stuffed animals positioned on top of it."
+  },
+  "37": {
+    "filename": "000000232348.jpg",
+    "caption": "Un tostador está colocado en una estantería de la cocina, frente a una batidora.",
+    "caption2": "Un tostador está colocado frente a una batidora, sobre una estantería de la cocina.",
+    "negative_caption": "Una batidora está colocada en una estantería de la cocina, frente a un tostador.",
+    "source_caption": "A toaster sits on a kitchen shelf in front of a blender.",
+    "source_negative_caption": "A blender sits on a kitchen shelf in front of a toaster.",
+    "source_caption2": "A toaster is placed in front of a blender on top of a kitchen shelf."
+  },
+  "38": {
+    "filename": "000000241326.jpg",
+    "caption": "Un gato sentado en un sofá, con un perro en el suelo.",
+    "caption2": "El perro está posicionado en el suelo, mientras que el gato está sentado en el sofá.",
+    "negative_caption": "Un perro sentado en un sofá, con un gato en el suelo.",
+    "source_caption": "A cat sitting on a couch with a dog on the floor.",
+    "source_negative_caption": "A dog sitting on a couch with a cat on the floor.",
+    "source_caption2": "The dog is positioned on the floor while the cat is seated on the couch."
+  },
+  "39": {
+    "filename": "000000159458.jpg",
+    "caption": "Un perro está sentado en una cama ordenada, mientras que alguien lo observa.",
+    "caption2": "La persona está observando a un perro sentado en una cama limpia y ordenada.",
+    "negative_caption": "Alguien está sentado en una cama perfectamente hecha, mientras un perro observa.",
+    "source_caption": "A dog is sitting on a neatly made bed while someone looks on. ",
+    "source_negative_caption": "Someone is sitting on a neatly made bed while a dog looks on.",
+    "source_caption2": "The person is observing a dog sitting on a clean and made bed."
+  },
+  "40": {
+    "filename": "000000046048.jpg",
+    "caption": "Un niño pequeño sentado encima de una cama, junto a una lámpara.",
+    "caption2": "Un niño pequeño está sentado en una cama, junto a una lámpara.",
+    "negative_caption": "Una lámpara colocada sobre una cama, junto a un niño pequeño.",
+    "source_caption": "A little child sitting on top of a bed next to a lamp.",
+    "source_negative_caption": "A lamp sitting on top of a bed next to a little child.",
+    "source_caption2": "A young  child next to a lamp is sitting on a bed."
+  },
+  "41": {
+    "filename": "000000259597.jpg",
+    "caption": "Un niño está grabando una actuación de varias personas utilizando un teléfono móvil.",
+    "caption2": "Un niño está grabando con un teléfono móvil la actuación de varias personas.",
+    "negative_caption": "Varias personas están grabando una actuación de un niño pequeño con un teléfono móvil.",
+    "source_caption": "A young child is recording a performance on a cellphone of several people.",
+    "source_negative_caption": "Several people are recording a performance on a cellphone of a young child.",
+    "source_caption2": "Peformance by several people is being recorded by a young child on a cellphone."
+  },
+  "42": {
+    "filename": "000000355610.jpg",
+    "caption": "Una fotografía en blanco y negro de un oso de peluche, vestido con una camiseta que dice \"manéjalo con cuidado\", y un pequeño oveja de peluche.",
+    "caption2": "Una fotografía en blanco y negro de un pequeño oveja de peluche, junto con un osito de peluche con una camisa que dice \"manejear con cuidado\".",
+    "negative_caption": "Una fotografía en blanco y negro de un pequeño oveja de peluche con una camiseta que dice \"manéjalo con cuidado\" y un oso de peluche.",
+    "source_caption": "A black and white photograph of a stuffed teddy bear wearing a shirt that reads handle with care and a small stuffed sheep.",
+    "source_negative_caption": "A black and white photograph of a small stuffed sheep wearing a shirt that reads handle with care and a stuffed teddy bear.",
+    "source_caption2": "A monochrome photo of a small stuffed sheep along with a stuffed teddy bear wearing a shirt that reads handle with care."
+  },
+  "43": {
+    "filename": "000000179174.jpg",
+    "caption": "Una gran pila de maletas y equipaje en un acera, con personas detrás.",
+    "caption2": "Personas ubicadas detrás de una gran pila de maletas y maletines colocados en un acera.",
+    "negative_caption": "Un grupo grande de personas en un acera, con maletas y equipaje detrás.",
+    "source_caption": "A large stack of trunks and luggage on a sidewalk with people behind it.",
+    "source_negative_caption": "A large group of people on a sidewalk with trunks and luggage behind them.",
+    "source_caption2": "people positioned behind a huge pile of luggage and trunks placed on a sidewalk."
+  },
+  "44": {
+    "filename": "000000007511.jpg",
+    "caption": "Una persona volando un avión de papel en la playa, mientras otros corren por la arena.",
+    "caption2": "La gente camina por la arena mientras otra persona vuela una cometa en la playa.",
+    "negative_caption": "Otros están volando un avión de papel en la playa, mientras que una persona corre por la arena.",
+    "source_caption": "person flying a kite on the beach while others run along the sand.",
+    "source_negative_caption": "Others flying a kite on the beach while a person runs along the sand.",
+    "source_caption2": "people are running along the sand while a person is flying a kite on the beach."
+  },
+  "45": {
+    "filename": "000000102805.jpg",
+    "caption": "Una persona sosteniendo un frisbee en un estacionamiento cerca del agua.",
+    "caption2": "Una persona en un estacionamiento cerca del agua está sosteniendo un frisbee.",
+    "negative_caption": "Una persona cerca de un frisbee en un estacionamiento, sosteniendo un vaso de agua.",
+    "source_caption": "A person holding a frisbee in a parking lot near water.",
+    "source_negative_caption": "A person near a frisbee in a parking lot holding water.",
+    "source_caption2": "A person in a parking lot close to water is holding a frisbee."
+  },
+  "46": {
+    "filename": "000000509260.jpg",
+    "caption": "Una televisión antigua muestra un juego de ordenador clásico frente a dos estanterías.",
+    "caption2": "Una televisión antigua está colocada frente a dos estanterías y muestra un juego de ordenador antiguo.",
+    "negative_caption": "Dos estanterías antiguas muestran un juego de ordenador antiguo frente a un televisor.",
+    "source_caption": "An old television set is displaying an old computer game in front of two bookshelves.",
+    "source_negative_caption": "Two old bookshelves are displaying an old computer game in front of a television set.",
+    "source_caption2": "An old television set is positioned in front of two bookshelves and displaying an old computer game."
+  },
+  "47": {
+    "filename": "000000140840.jpg",
+    "caption": "Varios globos aerostáticos están en el suelo, con algunas personas en el fondo.",
+    "caption2": "Con algunas personas en el fondo, se pueden ver varios globos volando en el suelo.",
+    "negative_caption": "Varias personas están sentadas en el suelo, con algunos globos aerostáticos al fondo.",
+    "source_caption": "Several kites sit on the ground, with a few people in the background.",
+    "source_negative_caption": "Several people sit on the ground, with a few kites in the background.",
+    "source_caption2": "with a few people in the background, several kites are visible on the ground."
+  },
+  "48": {
+    "filename": "000000499181.jpg",
+    "caption": "Un aparcamiento de autoservicio con un edificio detrás y una intersección frente a él.",
+    "caption2": "Hay un aparcamiento de autoservicio ubicado frente a un edificio y detrás de una intersección.",
+    "negative_caption": "Un aparcamiento de autoservicio con una intersección detrás y un edificio frente.",
+    "source_caption": "A self service parking lot with a building behind it and an intersection in front of it.",
+    "source_negative_caption": "A self service parking lot with an intersection behind it and a building in front of it.",
+    "source_caption2": "A self-service parking lot is situated in front of a building and behind an intersection."
+  },
+  "49": {
+    "filename": "000000022969.jpg",
+    "caption": "Un jirafa grande mira a otro jirafa más pequeño, que está mirando por encima de una valla.",
+    "caption2": "Un jirafa más pequeño está mirando por encima de una valla, mientras que un jirafa más grande lo observa.",
+    "negative_caption": "Un jirafa más pequeño mira a un jirafa más grande que está mirando por encima de una valla.",
+    "source_caption": "A large giraffe looks at a smaller giraffe looking over a fence.",
+    "source_negative_caption": "A smaller giraffe looks at a larger giraffe looking over a fence.",
+    "source_caption2": "A smaller giraffe is looking over a fence while a larger giraffe looks at it."
+  },
+  "50": {
+    "filename": "000000397327.jpg",
+    "caption": "Se muestra un baño blanco con una toalla azul.",
+    "caption2": "Se muestra un baño blanco con una toalla de color azul.",
+    "negative_caption": "Se muestra un baño azul con una toalla blanca.",
+    "source_caption": "A white bathroom is shown with a blue towel.",
+    "source_negative_caption": "A blue bathroom is shown with a white towel.",
+    "source_caption2": "A white bathroom featuring a towel which is blue in color is shown."
+  },
+  "51": {
+    "filename": "000000482436.jpg",
+    "caption": "Una mujer está sentada en un mostrador, mientras que un hombre la observa a través de una ventana.",
+    "caption2": "Una mujer está sentada en un mostrador, mientras que un hombre la observa a través de una ventana.",
+    "negative_caption": "Un hombre está sentado en un mostrador, mientras que una mujer lo observa a través de una ventana.",
+    "source_caption": "A woman sits at a counter while a man looks at her through a window.",
+    "source_negative_caption": "A man sits at a counter while a woman looks at him through a window.",
+    "source_caption2": "A woman is seated at a counter while a man observes her through a window."
+  },
+  "52": {
+    "filename": "000000520077.jpg",
+    "caption": "Una pila de libros al azar se coloca frente a una computadora.",
+    "caption2": "Una pila de libros diversos se encuentra frente a una computadora.",
+    "negative_caption": "Una computadora se coloca frente a una pila de libros al azar.",
+    "source_caption": "A stack of random books are placed in front of a computer.",
+    "source_negative_caption": "A computer is placed in front of a stack of random books.",
+    "source_caption2": "A pile of random books is positioned in front of a computer."
+  },
+  "53": {
+    "filename": "000000094157.jpg",
+    "caption": "Una imponente torre de relojería, ricamente decorada, se eleva sobre otro rascacielos.",
+    "caption2": "Una torre de reloj, debido a su tamaño y su diseño elaborado, se eleva sobre los demás rascacielos.",
+    "negative_caption": "Otro rascacielos grande y ornamentado se alza sobre una torre con reloj.",
+    "source_caption": "A large, ornate clock tower rises above another skyscraper.",
+    "source_negative_caption": "Another large, ornate skyscraper rises above a clock tower.",
+    "source_caption2": "A clock tower, being large and ornate, stands above the other skyscraper."
+  },
+  "54": {
+    "filename": "000000141597.jpg",
+    "caption": "El coche, que es muy pequeño, está aparcado detrás del autobús.",
+    "caption2": "El autobús está estacionado frente a un coche muy pequeño.",
+    "negative_caption": "El autobús está estacionado detrás del coche, que es extremadamente pequeño.",
+    "source_caption": "The extremely small car is parked behind the bus.",
+    "source_negative_caption": "The bus is parked behind the extremely small car.",
+    "source_caption2": "The bus is parked in front of the extremely small car."
+  },
+  "55": {
+    "filename": "000000164363.jpg",
+    "caption": "Un reloj blanco con números romanos, rodeado por una pintura.",
+    "caption2": "El reloj, con números romanos y un rostro blanco, está rodeado de una pintura.",
+    "negative_caption": "Un cuadro con números romanos, rodeados por un reloj con esfera blanca.",
+    "source_caption": "A white faced clock with roman numerals surrounded by a painting.",
+    "source_negative_caption": "A painting with roman numerals surrounded by a white faced clock.",
+    "source_caption2": "The clock, with Roman numerals and a white face, is surrounded by a painting."
+  },
+  "56": {
+    "filename": "000000405972.jpg",
+    "caption": "Un elefante guía a un pequeño elefante hacia una puerta.",
+    "caption2": "Un bebé elefante es guiado por un elefante adulto hacia una puerta.",
+    "negative_caption": "Un elefante bebé guía a otro elefante hacia una puerta.",
+    "source_caption": "An elephant leads a baby elephant towards a door.",
+    "source_negative_caption": "A baby elephant leads an elephant towards a door.",
+    "source_caption2": "The baby elephant is led by an elephant towards a door."
+  },
+  "57": {
+    "filename": "000000241326.jpg",
+    "caption": "Un gato sentado en el sofá, con un perro acostado en el suelo.",
+    "caption2": "El perro está tumbado en el suelo, mientras que el gato está sentado en el sofá.",
+    "negative_caption": "Un perro sentado en el sofá y un gato acostado en el suelo.",
+    "source_caption": "A cat sitting on the couch with a dog laying on the floor.",
+    "source_negative_caption": "A dog sitting on the couch with a cat laying on the floor.",
+    "source_caption2": "The dog is lying on the floor while the cat is sitting on the couch."
+  },
+  "58": {
+    "filename": "000000340930.jpg",
+    "caption": "Las tijeras con mangos naranjas están dentro de un recipiente junto con bolígrafos.",
+    "caption2": "El recipiente con bolígrafos contiene tijeras con empuñadura naranja.",
+    "negative_caption": "Las bolígrafos con empuñaduras naranjas están dentro de un recipiente junto con unas tijeras.",
+    "source_caption": "Scissors with orange handles are in a container with pens.",
+    "source_negative_caption": "Pens with orange handles are in a container with scissors.",
+    "source_caption2": "The container with pens contains orange-handled scissors."
+  },
+  "59": {
+    "filename": "000000173044.jpg",
+    "caption": "Una torre alta con un reloj se encuentra frente a un rascacielos.",
+    "caption2": "Una torre alta que contiene un reloj está ubicada frente a un rascacielos.",
+    "negative_caption": "Un rascacielos con un reloj se encuentra frente a una torre alta.",
+    "source_caption": "A tall tower with a clock stands in front of a skyscraper.",
+    "source_negative_caption": "A skyscraper with a clock stands in front of a tall tower.",
+    "source_caption2": "A tall tower that contains a clock is positioned in front of a skyscraper."
+  },
+  "60": {
+    "filename": "000000327592.jpg",
+    "caption": "una persona sosteniendo un plato con comida en una mano y una cuchara en la otra.",
+    "caption2": "Una persona sosteniendo un tenedor en una mano y una fuente con comida en la otra.",
+    "negative_caption": "Una persona sosteniendo un tenedor con comida en una mano y un plato en la otra.",
+    "source_caption": "a person holding a plate with food on it in one hand and  a spoon in the other.",
+    "source_negative_caption": "A person holding a spoon with food on it in one hand and a plate in the other.",
+    "source_caption2": "A person a spoon in one hand while holding a plate containing food in the other hand."
+  },
+  "61": {
+    "filename": "000000453166.jpg",
+    "caption": "Personas militares están recibiendo premios mientras están de pie junto a una persona con traje.",
+    "caption2": "La persona vestida con traje está al lado de personas militares que están de pie y sostienen premios.",
+    "negative_caption": "Una persona con traje está sosteniendo premios, mientras está de pie junto a personas militares.",
+    "source_caption": "Military people are holding awards while standing next to a person in a suit.",
+    "source_negative_caption": "A person in a suit is holding awards while standing next to military people.",
+    "source_caption2": "The person wearing suit is adjacent to military people who are standing and holding awards."
+  },
+  "62": {
+    "filename": "000000564127.jpg",
+    "caption": "Un inodoro blanco con un asiento negro sobre un suelo de baldosas.",
+    "caption2": "Un asiento negro se encuentra encima de un inodoro blanco, que está colocado sobre un suelo de baldosas.",
+    "negative_caption": "Un inodoro negro con un asiento blanco sobre un suelo de baldosas.",
+    "source_caption": "A white toilet with a black seat on top of a tiled floor.",
+    "source_negative_caption": "A black toilet with a white seat on top of a tiled floor.",
+    "source_caption2": "A black seat sits on top of a white toilet, which is positioned on a tiled floor."
+  },
+  "63": {
+    "filename": "000000506707.jpg",
+    "caption": "Una persona con una camisa blanca y pantalones grises camina hacia un área con césped, mientras que niños con uniformes de béisbol y un árbitro están cerca.",
+    "caption2": "Niños con uniformes de béisbol y un árbitro están cerca de una persona que lleva pantalones grises y una camisa blanca, y se dirigen hacia un área con césped.",
+    "negative_caption": "Niños con camisas blancas y pantalones grises caminan hacia un área con césped, mientras que una persona con uniforme de béisbol y un árbitro están cerca.",
+    "source_caption": "A person in a white shirt and gray pants walks toward a grassy area as kids in baseball uniforms and an umpire are near him.",
+    "source_negative_caption": "Kids in a white shirt and gray pants walk toward a grassy area as a person in baseball uniforms and an umpire are near them.",
+    "source_caption2": "kids in baseball uniforms and an umpire are close to a person wearing gray pants and white shirt walks toward a grassy area."
+  },
+  "64": {
+    "filename": "000000240250.jpg",
+    "caption": "Una persona sosteniendo un tenedor y extendiendo la mano hacia una porción de pizza.",
+    "caption2": "Una persona está alcanzando una porción de pizza mientras sostiene un tenedor.",
+    "negative_caption": "Una persona sosteniendo una porción de pizza y extendiendo la mano hacia un tenedor.",
+    "source_caption": "A person holding a fork and reaching for a slice of pizza.",
+    "source_negative_caption": "A person holding a slice of pizza and reaching for a fork.",
+    "source_caption2": "A person is reaching for a pizza slice while holding a fork."
+  },
+  "65": {
+    "filename": "000000546475.jpg",
+    "caption": "Una persona sosteniendo un bebé mientras está de pie frente a un espejo.",
+    "caption2": "La persona está de pie frente a un espejo, sosteniendo un bebé.",
+    "negative_caption": "Un bebé sosteniendo a una persona mientras está de pie frente a un espejo.",
+    "source_caption": "A person holding a baby while standing in front of a mirror.",
+    "source_negative_caption": "A baby holding a person while standing in front of a mirror.",
+    "source_caption2": "The person is standing in front of a mirror while holding a baby."
+  },
+  "66": {
+    "filename": "000000385029.jpg",
+    "caption": "Una persona cortando una pizza junto a una ensalada y botellas de vino sobre una mesa de madera.",
+    "caption2": "Una persona está cortando una pizza junto a botellas de vino y una ensalada sobre una mesa de madera.",
+    "negative_caption": "Una persona cortando una ensalada junto a una pizza y botellas de vino sobre una mesa de madera.",
+    "source_caption": "A person cutting a pizza next to a salad and bottles of wine on wooden table.",
+    "source_negative_caption": "A person cutting a salad next to a pizza and bottles of wine on wooden table.",
+    "source_caption2": "A person is slicing pizza adjacent to bottles of wine and a salad on a table made of wood."
+  },
+  "67": {
+    "filename": "000000021503.jpg",
+    "caption": "Galletas cubiertas con una crema, colocadas en un plato, listas para comer.",
+    "caption2": "Los crackers, colocados en un plato, están cubiertos con una crema y están listos para ser consumidos.",
+    "negative_caption": "Una base cubierta con galletas, sobre un plato, lista para comer.",
+    "source_caption": "Crackers coated with spread, sitting on a plate, ready to eat.",
+    "source_negative_caption": "Spread coated with crackers, sitting on a plate, ready to eat.",
+    "source_caption2": "Crackers positioned on a plate are coated with spread and are ready to be consumed."
+  },
+  "68": {
+    "filename": "000000335800.jpg",
+    "caption": "Un letrero de calle con banderas y un edificio de gran altura al fondo.",
+    "caption2": "Un edificio de gran altura se encuentra en el fondo de un letrero de calle con banderas.",
+    "negative_caption": "Un edificio de gran altura con banderas y un letrero de calle de fondo.",
+    "source_caption": "A street sign with flags and a high rise building in the background.",
+    "source_negative_caption": "A high rise building with flags and a street sign in the background.",
+    "source_caption2": "A high rise building is positioned in the background of a street sign with flags."
+  },
+  "69": {
+    "filename": "000000193162.jpg",
+    "caption": "Una persona está justo detrás de una vaca en un pasto verde.",
+    "caption2": "La vaca está ubicada en un pasto verde, con una persona situada justo detrás de ella.",
+    "negative_caption": "Una vaca está justo detrás de una persona en un pasto verde.",
+    "source_caption": "A person is right behind a cow on green grass.",
+    "source_negative_caption": "A cow is right behind a person on green grass.",
+    "source_caption2": "The cow is situated on green grass with a person positioned right behind it."
+  },
+  "70": {
+    "filename": "000000055022.jpg",
+    "caption": "Las bicicletas están dispuestas en fila en el suelo de la tienda.",
+    "caption2": "Las bicicletas están dispuestas en fila en el suelo de la tienda.",
+    "negative_caption": "La tienda está llena de bicicletas dispuestas en el suelo.",
+    "source_caption": "Bikes are lined up in the store on the floor",
+    "source_negative_caption": "The store is lined up with bikes on the floor.",
+    "source_caption2": "Bikes are placed in a row on the floor in the store."
+  },
+  "71": {
+    "filename": "000000011122.jpg",
+    "caption": "El cartel de \"alto\" está detrás de la valla, en lugar de en la calle.",
+    "caption2": "En lugar de estar en la calle, el semáforo está ubicado detrás de la valla.",
+    "negative_caption": "La valla está detrás del semáforo, en lugar de en la acera.",
+    "source_caption": "The stop sign is behind the fence instead of on the street.",
+    "source_negative_caption": "The fence is behind the stop sign instead of on the street.",
+    "source_caption2": "instead of on the street, a stop sign is positioned behind the fence."
+  },
+  "72": {
+    "filename": "000000172571.jpg",
+    "caption": "Una pizza con una masa gruesa, servida en un plato, acompañada de una copa de vino.",
+    "caption2": "Una pizza con una masa gruesa se corta en porciones y se coloca en un plato, y junto a ella se sirve el vino.",
+    "negative_caption": "Un vaso de vino sobre un plato, junto a una pizza con una corteza gruesa.",
+    "source_caption": "A thick crust cut pizza on a plate with wine by its side.",
+    "source_negative_caption": "A glass of wine on a plate with a thick crust cut pizza by its side.",
+    "source_caption2": "A pizza with a thick crust is sliced and placed on a plate, and wine is positioned beside it."
+  },
+  "73": {
+    "filename": "000000012667.jpg",
+    "caption": "Una banana sobre un teléfono, sobre una mesa.",
+    "caption2": "Un teléfono con una banana colocada encima, sobre una mesa.",
+    "negative_caption": "Un teléfono colocado sobre una banana sobre una mesa.",
+    "source_caption": "A banana placed on a phone on a table.",
+    "source_negative_caption": "A phone placed on a banana on a table.",
+    "source_caption2": "A phone with a banana placed on top of it, positioned on a table."
+  },
+  "74": {
+    "filename": "000000357742.jpg",
+    "caption": "Persona esquiando en una pendiente cubierta de nieve, con cables suspendidos.",
+    "caption2": "La persona está esquiando en una pendiente cubierta de nieve, con cables tendidos sobre ella.",
+    "negative_caption": "Pendientes nevadas con una persona esquiando sobre cables.",
+    "source_caption": "Person skiing on snowy slopes with wires above",
+    "source_negative_caption": "Snowy slopes with a person skiing above wires.",
+    "source_caption2": "The person is skiing on slopes covered with snow with wires above them."
+  },
+  "75": {
+    "filename": "000000087470.jpg",
+    "caption": "Un rebaño de ganado caminando por una carretera, seguido por un vaquero.",
+    "caption2": "Un vaquero está siguiendo a un rebaño de ganado que camina por una carretera.",
+    "negative_caption": "Un vaquero caminando por una carretera, siendo seguido por un rebaño de ganado.",
+    "source_caption": "A herd of cattle walking down a road being followed by a cowboy.",
+    "source_negative_caption": "A cowboy walking down a road being followed by a herd of cattle.",
+    "source_caption2": "A cowboy is following a herd of cattle walking down a road."
+  },
+  "76": {
+    "filename": "000000414170.jpg",
+    "caption": "Tres personas en un sendero cubierto de nieve, dos esquiando y una caminando.",
+    "caption2": "Tres personas caminan por un sendero cubierto de nieve, dos de ellas esquiando y la tercera caminando.",
+    "negative_caption": "Tres personas en un sendero cubierto de nieve, una esquiando, las otras dos caminando.",
+    "source_caption": "Three people on packed snow trail, two skiing, one walking.",
+    "source_negative_caption": "Three people on packed snow trail, one skiing, two walking.",
+    "source_caption2": "Three individuals are on a packed snow trail with two of them skiing and the third one walking."
+  },
+  "77": {
+    "filename": "000000412240.jpg",
+    "caption": "Un perro sentado detrás de un par de zapatos negros.",
+    "caption2": "Un par de zapatos negros están colocados frente a un perro.",
+    "negative_caption": "Un par de zapatos negros, situados detrás de un perro.",
+    "source_caption": "A dog sitting behind a pair of black shoes.",
+    "source_negative_caption": "A pair of black shoes sitting behind a dog.",
+    "source_caption2": "A pair of black shoes is positioned in front of a dog."
+  },
+  "78": {
+    "filename": "000000571943.jpg",
+    "caption": "Un semáforo montado en un poste de metal, cerca de un árbol.",
+    "caption2": "Se instala un semáforo en un poste de metal, situado junto a un árbol.",
+    "negative_caption": "Un semáforo instalado en un árbol, cerca de un poste de metal.",
+    "source_caption": "A traffic light on a metal pole by a tree.",
+    "source_negative_caption": "A traffic light on a tree by a metal pole.",
+    "source_caption2": "A traffic light is placed on a metal pole adjacent to a tree."
+  },
+  "79": {
+    "filename": "000000535523.jpg",
+    "caption": "Una máquina para hacer bagels está produciendo bagels, mientras que otras personas trabajan en segundo plano.",
+    "caption2": "Mientras que la gente realiza tareas de apoyo, una máquina para hacer bagels está preparando bagels.",
+    "negative_caption": "La gente está preparando bagels mientras una máquina para hacer bagels funciona en segundo plano.",
+    "source_caption": "A bagel machine is making bagels while people work in the background.",
+    "source_negative_caption": "People are making bagels while a bagel machine works in the background.",
+    "source_caption2": "While people work in the background, a bagel machine is preparing bagels."
+  },
+  "80": {
+    "filename": "000000455157.jpg",
+    "caption": "Una persona sentada en un banco y una mesa de madera, con un paraguas abierto sobre la mesa.",
+    "caption2": "Un paraguas colocado sobre una mesa donde una persona está sentada en un banco de madera.",
+    "negative_caption": "Una persona sentada en una mesa y un banco, con un paraguas abierto apoyado en el banco.",
+    "source_caption": "A person sitting at a wooden bench and table with an open umbrella sitting on the table.",
+    "source_negative_caption": "A person sitting at a table and bench with an open umbrella sitting on the bench.",
+    "source_caption2": "an umbrella that is placed on a table where a person is seated on a wooden bench."
+  },
+  "81": {
+    "filename": "000000088265.jpg",
+    "caption": "Un caballo tirando de un carruaje por un camino estrecho.",
+    "caption2": "Un carruaje está siendo tirado por un caballo en un sendero estrecho.",
+    "negative_caption": "Un carruaje tirado por un caballo en un sendero estrecho.",
+    "source_caption": "A horse pulling a carriage on a narrow path.",
+    "source_negative_caption": "A carriage pulling a horse on a narrow path.",
+    "source_caption2": "A carriage is being pulled by a horse on a narrow path."
+  },
+  "82": {
+    "filename": "000000433915.jpg",
+    "caption": "Una pantalla de vídeo que muestra los rostros de una pareja de personas.",
+    "caption2": "Una pantalla de vídeo que muestra los rostros de dos personas.",
+    "negative_caption": "Retratos de dos personas, con una pantalla de video detrás de ellas.",
+    "source_caption": "A video screen with faces of a couple of persons on it.",
+    "source_negative_caption": "Faces of a couple of persons with a video screen behind them.",
+    "source_caption2": "A video screen displaying the faces of a couple of individuals."
+  },
+  "83": {
+    "filename": "000000157601.jpg",
+    "caption": "Una persona de ascendencia asiática comiendo un sándwich en una mesa junto a dos vasos de bebidas calientes.",
+    "caption2": "Una persona de ascendencia asiática está sentada en una mesa, junto a dos tazas de bebidas calientes, mientras come un sándwich.",
+    "negative_caption": "Una persona de ascendencia asiática bebiendo dos tazas de bebidas calientes en una mesa junto a un sándwich.",
+    "source_caption": "A person of Asian heritage eating a sandwich at a table with two cups of hot beverages.",
+    "source_negative_caption": "A person of Asian heritage drinking two cups of hot beverages at a table with a sandwich.",
+    "source_caption2": "A person belonging to Asian heritage is seated at a table with two cups of hot beverages while eating a sandwich."
+  },
+  "84": {
+    "filename": "000000383842.jpg",
+    "caption": "Esta mujer está utilizando controles, y esos hombres la están observando.",
+    "caption2": "Esta mujer está utilizando los controles, y esos hombres la están observando.",
+    "negative_caption": "Esos hombres están utilizando mandos, y esta mujer los está observando.",
+    "source_caption": "this lady is using controllers and those men are watching",
+    "source_negative_caption": "Those men are using controllers and this lady is watching.",
+    "source_caption2": "Controllers are being used by this lady and those men are watching her."
+  },
+  "85": {
+    "filename": "000000306733.jpg",
+    "caption": "Una foto de un baño con una planta de helecho cerca del lavabo y una fotografía de una ciudad sobre el inodoro.",
+    "caption2": "Una fotografía de un baño que incluye un lavabo con una planta de helecho cerca, y una representación de una ciudad situada sobre el inodoro.",
+    "negative_caption": "Una foto de un baño, con una fotografía de una ciudad cerca del lavabo y una planta de helecho sobre el inodoro.",
+    "source_caption": "A picture of a bathroom with a fern plant near the sink and a photo of a city above the toilet. ",
+    "source_negative_caption": "A picture of a bathroom with a photo of a city near the sink and a fern plant above the toilet.",
+    "source_caption2": "A photograph of a bathroom featuring a sink with a fern plant nearby, and a depiction of a city situated above the toilet."
+  },
+  "86": {
+    "filename": "000000066135.jpg",
+    "caption": "Un tren en la estación, sin pasajeros a su alrededor.",
+    "caption2": "En la estación, hay un tren vacío, sin pasajeros a su alrededor.",
+    "negative_caption": "Pasajeros en la estación, esperando un tren que no llega.",
+    "source_caption": "A train at the station with no passengers around.",
+    "source_negative_caption": "Passengers at the station with no train around.",
+    "source_caption2": "At the station, there is a train with no passengers nearby."
+  },
+  "87": {
+    "filename": "000000489842.jpg",
+    "caption": "Muchos niños se sientan alrededor de una persona disfrazada de Papá Noel.",
+    "caption2": "Una persona está vestida como Papá Noel y está rodeada por muchos niños que están sentados.",
+    "negative_caption": "Una persona disfrazada de Papá Noel está rodeada de muchos niños.",
+    "source_caption": "Many children sit around a person in a Santa costume.",
+    "source_negative_caption": "A person in a Santa costume sits around many children.",
+    "source_caption2": "A person is in a Santa costume and is surrounded by many children who are sitting."
+  },
+  "88": {
+    "filename": "000000086582.jpg",
+    "caption": "Un objeto tejido colocado sobre un portátil en un escritorio.",
+    "caption2": "Un objeto tejido está colocado encima de un portátil, que a su vez está sobre una mesa.",
+    "negative_caption": "Una computadora portátil sobre un objeto de tejido en un escritorio.",
+    "source_caption": "A knit item sitting on a laptop on a desk.",
+    "source_negative_caption": "A laptop sitting on a knit item on a desk.",
+    "source_caption2": "A knit item is positioned on top of a laptop, which is placed on a desk."
+  },
+  "89": {
+    "filename": "000000119452.jpg",
+    "caption": "Una banana sobre una pila de naranjas y otras frutas.",
+    "caption2": "Las naranjas y otras frutas están colocadas debajo de las bananas.",
+    "negative_caption": "Naranjas colocadas encima de una banana y otras frutas.",
+    "source_caption": "A banana sitting on top of oranges and other fruit.",
+    "source_negative_caption": "Oranges sitting on top of a banana and other fruit.",
+    "source_caption2": "The oranges and other fruit are positioned underneath the banana."
+  },
+  "90": {
+    "filename": "000000045472.jpg",
+    "caption": "Una mesa con cinco vasos rojos, una piña y algunas naranjas sobre un plato.",
+    "caption2": "En una mesa, hay un plato con algunas naranjas, cinco vasos rojos y una piña.",
+    "negative_caption": "Un plato con cinco vasos rojos, una piña y algunas naranjas sobre una mesa.",
+    "source_caption": "A table with five red cups, a pineapple and some oranges on a plate",
+    "source_negative_caption": "A plate with five red cups, a pineapple and some oranges on a table.",
+    "source_caption2": "A plate with some oranges, five red cups, and a pineapple are placed on a table."
+  },
+  "91": {
+    "filename": "000000210789.jpg",
+    "caption": "Una persona adulta de pie detrás de un niño pequeño, sosteniendo un paraguas.",
+    "caption2": "Un adulto con un paraguas está de pie detrás de un niño pequeño.",
+    "negative_caption": "Un niño pequeño de pie detrás de un adulto, sosteniendo un paraguas.",
+    "source_caption": "An adult standing behind a little child while holding an umbrella.",
+    "source_negative_caption": "A little child standing behind an adult while holding an umbrella.",
+    "source_caption2": "An adult holding an umbrella stands behind a little child."
+  },
+  "92": {
+    "filename": "000000011511.jpg",
+    "caption": "Una escultura de dos personas sentadas en un banco, con sus bolsos en el suelo, mientras otras personas están de pie en una fila detrás de ellas.",
+    "caption2": "Un banco muestra una escultura de dos personas sentadas sobre él, con sus bolsos en el suelo, mientras que personas están de pie en una fila detrás de ellas.",
+    "negative_caption": "Una escultura que representa a personas de pie en fila en un banco, con sus bolsos en el suelo, mientras que dos personas están sentadas detrás de ellas.",
+    "source_caption": "A sculpture of two persons stting on a bench with their purses on the ground while people standing in a line behind them. ",
+    "source_negative_caption": "A sculpture of people standing in a line on a bench with their purses on the ground while two persons sit behind them.",
+    "source_caption2": "A bench contains a sculpture of two persons sitting on it with their purses on the ground, while people stand in a line behind them."
+  },
+  "93": {
+    "filename": "000000167240.jpg",
+    "caption": "Un jarrón con flores rojas, junto a un mapa.",
+    "caption2": "Un mapa que acompaña a un jarrón con flores rojas.",
+    "negative_caption": "Un jarrón con un mapa impreso en él, junto a flores rojas.",
+    "source_caption": "A vase with red flowers on it next to a map.",
+    "source_negative_caption": "A vase with a map on it next to red flowers.",
+    "source_caption2": "A map adjacent to a vase with red flowers on it."
+  },
+  "94": {
+    "filename": "000000266981.jpg",
+    "caption": "Vista exterior del MGM Grand en Las Vegas, con personas sentadas y caminando.",
+    "caption2": "El MGM Grand en Las Vegas es visible desde el exterior, con personas sentadas y caminando.",
+    "negative_caption": "Vista exterior de la gente en Las Vegas, con el MGM Grand visible y personas caminando.",
+    "source_caption": "Outside view of the MGM Grand in Las Vegas with people sitting and walking.",
+    "source_negative_caption": "Outside view of the people in Las Vegas with the MGM Grand sitting and walking.",
+    "source_caption2": "The MGM Grand in Las Vegas is visible from an outside perspective, with individuals sitting and walking around."
+  },
+  "95": {
+    "filename": "000000112110.jpg",
+    "caption": "una persona de pie sobre una plataforma de hormigón, levantando la pierna sobre una maleta.",
+    "caption2": "Una persona levanta una pierna sobre una maleta mientras está de pie sobre un suelo de hormigón.",
+    "negative_caption": "Una persona de pie junto a una maleta levanta la pierna sobre el hormigón.",
+    "source_caption": "a person standing on cement lift their leg over a brief case",
+    "source_negative_caption": "a person standing on a briefcase lifts their leg over cement.",
+    "source_caption2": "A person elevates their leg over a briefcase while standing on a cement."
+  },
+  "96": {
+    "filename": "000000266981.jpg",
+    "caption": "Dos hombres están sentados junto a su maleta mientras una mujer pasa.",
+    "caption2": "Una mujer camina mientras un par de hombres están sentados junto a sus maletas.",
+    "negative_caption": "Una mujer está sentada junto a su maleta mientras dos hombres pasan.",
+    "source_caption": "A couple of guys are sitting with their luggage bag as a lady walks on. ",
+    "source_negative_caption": "A lady is sitting with her luggage bag as a couple of guys walk on.",
+    "source_caption2": "A lady walks on while a couple of guys are sitting with their luggage bag."
+  },
+  "97": {
+    "filename": "000000345466.jpg",
+    "caption": "Un jugador de béisbol lanza una bola mientras los demás observan desde la grada.",
+    "caption2": "La gente observa desde la grada mientras un jugador de béisbol lanza una bola.",
+    "negative_caption": "Otros lanzan una pelota mientras un jugador de béisbol observa desde la banca.",
+    "source_caption": "A baseball player throws a pitch while others watch from the dugout.",
+    "source_negative_caption": "Others throw a pitch while a baseball player watches from the dugout.",
+    "source_caption2": "People watch from the dugout while a baseball player throws a pitch."
+  },
+  "98": {
+    "filename": "000000570448.jpg",
+    "caption": "Una persona está de pie en un barco de pesca mientras la marea llega desde la orilla en una playa desolada.",
+    "caption2": "La marea llega a la orilla de una playa vacía, con una persona en un barco de pesca.",
+    "negative_caption": "Una persona está de pie en la orilla mientras la marea llega desde un barco pesquero en una playa desolada.",
+    "source_caption": "A person stands on a fishing boat as the tide rolls in from the shore on a desolate beach.",
+    "source_negative_caption": "A person stands on the shore as the tide rolls in from a fishing boat on a desolate beach.",
+    "source_caption2": "The tide comes in from the shore on an empty beach with a person on a fishing boat."
+  },
+  "99": {
+    "filename": "000000440184.jpg",
+    "caption": "Cuatro personas juegan una partida de tenis de dobles mixtos, mientras que otra persona observa.",
+    "caption2": "Mientras una persona observa, cuatro otras personas participan en un partido de tenis de dobles mixto.",
+    "negative_caption": "Una persona juega una partida de tenis de dobles mixtos, mientras que otras cuatro personas observan.",
+    "source_caption": "Four people play a game of mixed doubles tennis while another person looks on.",
+    "source_negative_caption": "A person plays a game of mixed doubles tennis while another four people look on.",
+    "source_caption2": "while a person observes, four other individuals engage in a game of mixed doubles tennis."
+  },
+  "100": {
+    "filename": "000000038829.jpg",
+    "caption": "Hay dos personas en bicicleta y una tercera en un patinete.",
+    "caption2": "Una persona está en un patinete, mientras que otras dos personas están en una bicicleta.",
+    "negative_caption": "Una persona está en bicicleta y otras dos en un scooter.",
+    "source_caption": "Two persons are on a bicycle and a third is on a scooter.",
+    "source_negative_caption": "A third person is on a bicycle and two are on a scooter.",
+    "source_caption2": "A person is on a scooter while two other individuals are on a bike."
+  },
+  "101": {
+    "filename": "000000379800.jpg",
+    "caption": "Un locomotora de tren naranja se desplaza por la vía, con un vagón de tren detrás.",
+    "caption2": "El vagón de tren sigue al motor de tren naranja, que se desplaza por la vía.",
+    "negative_caption": "Un vagón de tren naranja se desplaza por la vía, con un motor de tren detras.",
+    "source_caption": "An orange train engine moves down the track with one train car behind it.",
+    "source_negative_caption": "One orange train car moves down the track with a train engine behind it.",
+    "source_caption2": "The train car follows the orange train engine moving down the track."
+  },
+  "102": {
+    "filename": "000000579893.jpg",
+    "caption": "Un cartel de \"alto\" rojo con dos señales de tráfico verdes encima.",
+    "caption2": "Hay dos señales de tráfico verdes colocadas encima de una señal roja de \"alto\".",
+    "negative_caption": "Dos señales de tráfico verdes con un cartel de \"alto\" rojo encima.",
+    "source_caption": "A red stop sign with two green street signs on top of it.",
+    "source_negative_caption": "Two green street signs with a red stop sign on top of them.",
+    "source_caption2": "two green street signs are positioned on top of a red stop sign."
+  },
+  "103": {
+    "filename": "000000039551.jpg",
+    "caption": "Una persona vistiendo ropa roja, jugando al tenis en una cancha azul y verde.",
+    "caption2": "Una persona vestida de rojo está jugando al tenis en una cancha verde y azul.",
+    "negative_caption": "Una persona con ropa azul y verde, jugando al tenis en una cancha roja.",
+    "source_caption": "A person wearing red playing tennis on a blue and green court.",
+    "source_negative_caption": "A person wearing blue and green playing tennis on a red court.",
+    "source_caption2": "A person wearing red is on a green and blue court playing tennis ."
+  },
+  "104": {
+    "filename": "000000524850.jpg",
+    "caption": "Un autobús recoge y descarga pasajeros junto a un avión.",
+    "caption2": "Un autobús está descargando y subiendo pasajeros junto a un avión.",
+    "negative_caption": "Un avión está descargando y cargando pasajeros junto a un autobús.",
+    "source_caption": "A bus loads and unloads passengers next to a plane.",
+    "source_negative_caption": "A plane loads and unloads passengers next to a bus.",
+    "source_caption2": "A bus is loading and unloading passengers adjacent to a plane."
+  },
+  "105": {
+    "filename": "000000106235.jpg",
+    "caption": "Detrás de la mesa de centro ovalada, hay un sofá de color crema.",
+    "caption2": "La mesa de centro ovalada está colocada frente al sofá de color crema.",
+    "negative_caption": "Detrás del sofá, hay una mesa de centro ovalada de color crema.",
+    "source_caption": "There is a cream colored couch behind the oval coffee table.",
+    "source_negative_caption": "There is an oval cream colored coffee table behind the couch.",
+    "source_caption2": "The oval coffee table is positioned in front of the cream-colored couch."
+  },
+  "106": {
+    "filename": "000000368684.jpg",
+    "caption": "Una habitación con una televisión de fondo y una pantalla de portátil en primer plano.",
+    "caption2": "La habitación, con una pantalla de portátil en primer plano y un televisor en el fondo.",
+    "negative_caption": "Una habitación con una pantalla de portátil en el fondo y una pantalla de televisión en primer plano.",
+    "source_caption": "A room with a tv in the background and a laptop screen in the foreground ",
+    "source_negative_caption": "A room with a laptop screen in the background and a tv screen in the foreground.",
+    "source_caption2": "The room featuring a laptop screen in the foreground and a TV in the background."
+  },
+  "107": {
+    "filename": "000000084674.jpg",
+    "caption": "Una niña sostiene un bebé que está comiendo un bagel, y un niño está de pie junto a ellos.",
+    "caption2": "Un bebé sostiene un bagel, y una niña lo sostiene. Un niño está de pie junto a ellos.",
+    "negative_caption": "Un niño sostiene a un bebé que está comiendo un bagel, mientras una niña está de pie junto a ellos.",
+    "source_caption": "a girl holds a baby eating a bagel with a boy standing next to them",
+    "source_negative_caption": "A boy holds a baby eating a bagel with a girl standing next to them.",
+    "source_caption2": "A baby holding a bagel is being held by a girl, with a boy standing next to them."
+  },
+  "108": {
+    "filename": "000000007816.jpg",
+    "caption": "Una persona en una motocicleta que pasa junto a un grupo de personas detrás de una valla.",
+    "caption2": "Una persona conduce una motocicleta mientras pasa por delante de un grupo de personas que están detrás de una valla.",
+    "negative_caption": "Un grupo de personas en motocicletas pasando junto a una persona que está detrás de una valla.",
+    "source_caption": "A person on a motorcycle driving past a group of people behind a fence.",
+    "source_negative_caption": "A group of people on motorcycles driving past a person behind a fence.",
+    "source_caption2": "A person is driving a motorcycle past a group of individuals who are behind a fence."
+  },
+  "109": {
+    "filename": "000000015278.jpg",
+    "caption": "Un plato blanco con brócoli y una albóndiga encima.",
+    "caption2": "El brócoli y una alubia se colocan encima de un plato blanco.",
+    "negative_caption": "Un bollo relleno de brócoli y servido en un plato blanco.",
+    "source_caption": "A white plate topped with broccoli and a dumpling.",
+    "source_negative_caption": "A dumpling topped with broccoli and a white plate.",
+    "source_caption2": "The broccoli and a dumpling are placed on top of a white plate."
+  },
+  "110": {
+    "filename": "000000277020.jpg",
+    "caption": "Un hombre sentado en un bar, siendo atendido por una mujer.",
+    "caption2": "Una mujer está atendiendo a un hombre que está sentado en un bar.",
+    "negative_caption": "Una mujer sentada en un bar, siendo atendida por un hombre.",
+    "source_caption": "A man sitting at a bar being served by a woman",
+    "source_negative_caption": "A woman sitting at a bar being served by a man.",
+    "source_caption2": "A woman is serving a man who is sitting at a bar."
+  },
+  "111": {
+    "filename": "000000290163.jpg",
+    "caption": "Un niño pequeño de pie frente a un plato de comida.",
+    "caption2": "Un plato lleno de comida está colocado frente a un niño pequeño.",
+    "negative_caption": "Un plato de comida colocado frente a un niño pequeño.",
+    "source_caption": "A young child standing in front of a plate of food.",
+    "source_negative_caption": "A plate of food standing in front of a young child.",
+    "source_caption2": "A plate filled with food is positioned in front of a small child."
+  },
+  "112": {
+    "filename": "000000527960.jpg",
+    "caption": "Un banco de parque verde, debajo de un árbol, en un parque.",
+    "caption2": "El banco de parque verde está ubicado en el parque, debajo del árbol.",
+    "negative_caption": "Un árbol debajo de un banco de parque verde, en un parque.",
+    "source_caption": "A green park bench underneath a tree in a park.",
+    "source_negative_caption": "A tree underneath a green park bench in a park.",
+    "source_caption2": "The green park bench is positioned in the park underneath the tree"
+  },
+  "113": {
+    "filename": "000000561465.jpg",
+    "caption": "Donuts en una caja y un tipo de carne en un plato.",
+    "caption2": "Hay un tipo de carne en un plato, junto con unos donuts en una caja.",
+    "negative_caption": "Una especie de carne en una caja y donas en un plato.",
+    "source_caption": "Donuts in a box and a type of meat on a plate.",
+    "source_negative_caption": "A type of meat in a box and donuts on a plate.",
+    "source_caption2": "a type of meat is on a plate along with donuts in a box."
+  },
+  "114": {
+    "filename": "000000157418.jpg",
+    "caption": "platos con sándwiches junto a una lata de Spam",
+    "caption2": "Una lata de Spam está al lado de los platos con sándwiches.",
+    "negative_caption": "Una lata de Spam junto a sándwiches y platos.",
+    "source_caption": "plates with sandwiches next to a can of spam",
+    "source_negative_caption": "A can of spam with sandwiches next to plates.",
+    "source_caption2": "A can of spam is adjacent to the plates with sandwiches."
+  },
+  "115": {
+    "filename": "000000579655.jpg",
+    "caption": "Una persona sentada frente a varios vasos, hablando por teléfono.",
+    "caption2": "Una persona está conversando por teléfono y se encuentra sentada frente a varios vasos.",
+    "negative_caption": "Varios vasos de vidrio sobre una mesa, frente a una persona que está hablando por teléfono.",
+    "source_caption": "A person sitting in front of several glasses, talking on their phone. ",
+    "source_negative_caption": "Several glasses sitting in front of a person, talking on their phone.",
+    "source_caption2": "A person conversing on their phone is seated in front of several glasses."
+  },
+  "116": {
+    "filename": "000000002592.jpg",
+    "caption": "Una taza blanca con la imagen de un cráneo y huesos de pirata, y un gran cuchillo, colocados sobre una encimera.",
+    "caption2": "Un cuchillo grande y una taza blanca con una imagen de un cráneo y huesos de pirata están colocados sobre una encimera.",
+    "negative_caption": "Un cuchillo grande con la imagen de un cráneo y huesos de pirata en la encimera, junto a una taza blanca.",
+    "source_caption": "a white mug showing pirate skull and bones and a large knife on a counter top.",
+    "source_negative_caption": "A large knife showing pirate skull and bones on a counter top next to a white mug.",
+    "source_caption2": "A large knife and a white mug displaying a pirate skull and bones are positioned on a countertop."
+  },
+  "117": {
+    "filename": "000000451693.jpg",
+    "caption": "Una pequeña pizza con aceitunas se coloca sobre una pila de platos.",
+    "caption2": "Una pequeña pizza cubierta de aceitunas se coloca encima de una pila de platos.",
+    "negative_caption": "Una pila de platos con aceitunas se coloca sobre una pequeña pizza.",
+    "source_caption": "A small pizza with olives is placed on a stack of plates.",
+    "source_negative_caption": "A stack of plates with olives is placed on a small pizza.",
+    "source_caption2": "A small pizza topped with olives is placed on top of a stack of plates."
+  },
+  "118": {
+    "filename": "000000369370.jpg",
+    "caption": "Un sándwich de jamón sobre un plato blanco, con un adorno de col rizada.",
+    "caption2": "Un plato blanco con un sándwich de jamón en la parte superior y una guarnición de col rizada a un lado.",
+    "negative_caption": "Un acompañamiento de col rizada sobre un plato blanco, junto a un sándwich de jamón.",
+    "source_caption": "A ham sandwich on a white plate with a kale garnish.",
+    "source_negative_caption": "A kale garnish on a white plate with a ham sandwich.",
+    "source_caption2": "A white plate with a ham sandwich on top and a kale garnish on the side."
+  },
+  "119": {
+    "filename": "000000396205.jpg",
+    "caption": "Dos vacas en un prado, con una estructura histórica de fondo.",
+    "caption2": "En un prado, dos vacas están pastando mientras que, en el fondo, se puede ver una estructura histórica.",
+    "negative_caption": "Una estructura histórica en un prado, con dos vacas en el fondo.",
+    "source_caption": "Two cows in a meadow with a historic structure in the background.",
+    "source_negative_caption": "A historic structure in a meadow with two cows in the background.",
+    "source_caption2": "In a meadow, two cows are grazing while a historic structure is visible in the background."
+  },
+  "120": {
+    "filename": "000000540280.jpg",
+    "caption": "Una lámpara que está colocada debajo de un toldo.",
+    "caption2": "El paraguas está colocado encima de la luz.",
+    "negative_caption": "Un paraguas que está colocado debajo de una luz.",
+    "source_caption": "A light that is sitting underneath a umbrella.",
+    "source_negative_caption": "An umbrella that is sitting underneath a light.",
+    "source_caption2": "The umbrella is positioned above the light."
+  },
+  "121": {
+    "filename": "000000376365.jpg",
+    "caption": "Un gran jarrón circular se encuentra junto a una vela sobre una mesa.",
+    "caption2": "Un jarrón grande, de forma circular, está colocado junto a una vela sobre una mesa.",
+    "negative_caption": "Una gran vela de diseño, colocada junto a un jarrón sobre una mesa.",
+    "source_caption": "A large orbital vase sits next to a candle on a table.",
+    "source_negative_caption": "A large orbital candle sits next to a vase on a table.",
+    "source_caption2": "A large orbital vase is positioned next to a candle on a table."
+  },
+  "122": {
+    "filename": "000000457078.jpg",
+    "caption": "Una habitación con una computadora de escritorio y una fotografía de un múm.",
+    "caption2": "Una computadora de escritorio y una fotografía de la momia están ubicadas en una habitación.",
+    "negative_caption": "Una habitación con un esqueleto y una fotografía de una computadora de escritorio.",
+    "source_caption": "A room with a desktop computer and a picture of a mummy. ",
+    "source_negative_caption": "A room with a mummy and a picture of a desktop computer.",
+    "source_caption2": "A desktop computer and a picture of the mummy are positioned in a room."
+  },
+  "123": {
+    "filename": "000000509260.jpg",
+    "caption": "Una pequeña televisión frente a una estantería.",
+    "caption2": "La estantería está ubicada detrás de la pequeña televisión.",
+    "negative_caption": "Una estantería frente a una pequeña televisión.",
+    "source_caption": "a small television in front of a bookshelf",
+    "source_negative_caption": "A bookshelf in front of a small television.",
+    "source_caption2": "The bookshelf is positioned behind the small television."
+  },
+  "124": {
+    "filename": "000000385029.jpg",
+    "caption": "Una persona corta una pizza para servirla con ensalada y vino.",
+    "caption2": "Una persona corta una pizza para servirla junto con vino y una ensalada.",
+    "negative_caption": "Una persona corta una ensalada para servirla con pizza y vino.",
+    "source_caption": "A person cuts a pizza to serve with salad and wine.",
+    "source_negative_caption": "A person cuts a salad to serve with pizza and wine.",
+    "source_caption2": "A person slices a pizza to serve alongside wine and a salad."
+  },
+  "125": {
+    "filename": "000000105014.jpg",
+    "caption": "Un cuenco lleno de comida colocado sobre una mesa, junto a un tenedor que descansa sobre un disco circular.",
+    "caption2": "Un disco circular se encuentra debajo de un tenedor, que está situado junto a un cuenco lleno de comida, que está colocado sobre una mesa.",
+    "negative_caption": "Un tenedor lleno de comida, colocado sobre una mesa junto a un cuenco que descansa sobre un disco circular.",
+    "source_caption": "A bowl full of food sitting on a table next to a fork that rests on top of a circular disk.",
+    "source_negative_caption": "A fork full of food sitting on a table next to a bowl that rests on top of a circular disk.",
+    "source_caption2": "A circular disk is below a fork that is positioned adjacent to a bowl full of food that is situated on a table."
+  },
+  "126": {
+    "filename": "000000328959.jpg",
+    "caption": "Un inodoro con asiento negro, junto a una ducha.",
+    "caption2": "La ducha está situada junto al inodoro, que tiene un asiento negro.",
+    "negative_caption": "Un baño con un asiento negro junto al inodoro.",
+    "source_caption": "A toilet with a black seat next to a shower.",
+    "source_negative_caption": "A shower with a black seat next to a toilet.",
+    "source_caption2": "The shower is adjacent to the toilet with a black seat."
+  },
+  "127": {
+    "filename": "000000235836.jpg",
+    "caption": "Un niño pequeño golpeando una pelota de béisbol con un bate, cerca de algunas sillas.",
+    "caption2": "Un niño pequeño está golpeando una bate contra una pelota de béisbol cerca de algunas sillas.",
+    "negative_caption": "Un niño golpeando un bate contra una pelota de béisbol cerca de algunas sillas.",
+    "source_caption": "A young kid hitting a baseball with a bat close to some chairs.",
+    "source_negative_caption": "A young kid hitting a bat with a baseball close to some chairs.",
+    "source_caption2": "A young child is swinging a bat to hit a baseball near some chairs."
+  },
+  "128": {
+    "filename": "000000138954.jpg",
+    "caption": "Un plato blanco sobre una mesa cubierta con frutas y verduras.",
+    "caption2": "La mesa tiene un plato blanco encima, sobre el cual se disponen frutas y verduras.",
+    "negative_caption": "Frutas y verduras sobre una mesa, con una fuente blanca encima.",
+    "source_caption": "A white plate on top of a table topped with fruits and vegetables.",
+    "source_negative_caption": "Fruits and vegetables on top of a table topped with a white plate.",
+    "source_caption2": "The table has a white plate on top of it, with fruits and vegetables arranged on top of the plate."
+  },
+  "129": {
+    "filename": "000000478286.jpg",
+    "caption": "Una farola frente a un tren colorido sobre un puente.",
+    "caption2": "Un tren colorido está sobre un puente, con una farola de la calle justo delante.",
+    "negative_caption": "Un tren colorido frente a una farola en un puente.",
+    "source_caption": "A street light in front of a colorful train on a bridge.",
+    "source_negative_caption": "A colorful train in front of a street light on a bridge.",
+    "source_caption2": "A colorful train is on a bridge with a street light in front of it."
+  },
+  "130": {
+    "filename": "000000107554.jpg",
+    "caption": "Una tabla de surf apoyada en un carretilla en un patio trasero.",
+    "caption2": "Un carretilla con una tabla de surf apoyada está ubicada en un patio trasero.",
+    "negative_caption": "Una carretilla apoyada contra una tabla de surf en un patio trasero.",
+    "source_caption": "A surfboard leaning on a wheelbarrow in a backyard. ",
+    "source_negative_caption": "A wheelbarrow leaning on a surfboard in a backyard.",
+    "source_caption2": "A wheelbarrow with a surfboard leaning on it is positioned in a backyard."
+  },
+  "131": {
+    "filename": "000000459396.jpg",
+    "caption": "Una vaca pastando hierba mientras un toro la observa desde cerca.",
+    "caption2": "Un toro cerca de una vaca mientras ésta come hierba.",
+    "negative_caption": "Un toro pastando hierba mientras una vaca observa desde cerca.",
+    "source_caption": "Cow eating grass while a bull watches nearby",
+    "source_negative_caption": "Bull eating grass while a cow watches nearby.",
+    "source_caption2": "A bull close from close as a cow grazes on the grass."
+  },
+  "132": {
+    "filename": "000000326627.jpg",
+    "caption": "Una calle de la ciudad con un arcoíris de fondo.",
+    "caption2": "Un arcoíris visible en el fondo de una calle de la ciudad.",
+    "negative_caption": "Un arcoíris con una calle de la ciudad al fondo.",
+    "source_caption": "A city street with a rainbow in the background ",
+    "source_negative_caption": "A rainbow with a city street in the background.",
+    "source_caption2": "A rainbow visible in the background of a city street."
+  },
+  "133": {
+    "filename": "000000456496.jpg",
+    "caption": "Una persona sentada frente a la Torre Eiffel, cerca de palomas.",
+    "caption2": "Una persona está rodeada de palomas mientras está sentada frente a la Torre Eiffel.",
+    "negative_caption": "Palomas sentadas frente a la Torre Eiffel, cerca de una persona.",
+    "source_caption": "A person sitting in front of the Eiffel tower near pigeons.",
+    "source_negative_caption": "Pigeons sitting in front of the Eiffel tower near a person.",
+    "source_caption2": "A person is surrounded by pigeons while sitting in front of the Eiffel tower, ."
+  },
+  "134": {
+    "filename": "000000024144.jpg",
+    "caption": "Una pizza sobre una caja de pizza cubierta de queso.",
+    "caption2": "Una pizza está colocada encima de una caja de pizza que está cubierta de queso.",
+    "negative_caption": "Una caja de pizza sobre una pizza cubierta de queso.",
+    "source_caption": "A pizza sitting on top of a pizza box covered in cheese.",
+    "source_negative_caption": "A pizza box sitting on top of a pizza covered in cheese.",
+    "source_caption2": "A pizza is positioned on top of a pizza box that is covered in cheese."
+  },
+  "135": {
+    "filename": "000000117425.jpg",
+    "caption": "Un bebé sosteniendo una cuchara, mirando un cupcake y una vela.",
+    "caption2": "Un bebé está mirando un cupcake y una vela, sosteniendo una cuchara.",
+    "negative_caption": "Un bebé sosteniendo un cupcake, mirando una cuchara y una vela.",
+    "source_caption": "A baby holding a spoon looking at a cupcake and candle.",
+    "source_negative_caption": "A baby holding a cupcake looking at a spoon and candle.",
+    "source_caption2": "A baby is looking at a cupcake and candle while holding a spoon."
+  },
+  "136": {
+    "filename": "000000386210.jpg",
+    "caption": "Una vitrina alta, con algunas frutas y algo de hierba creciendo.",
+    "caption2": "Un estante alto de cristal, con hierba creciendo en su interior y con algunas frutas dentro.",
+    "negative_caption": "Algunas frutas que crecen en hierba, con un estante de cristal alto al lado.",
+    "source_caption": "A tall glass case with some fruits in it and some grass growing",
+    "source_negative_caption": "Some fruits growing in grass with a tall glass case next to it.",
+    "source_caption2": "A tall glass case with some grass growing inside it and with some fruits in it."
+  },
+  "137": {
+    "filename": "000000269316.jpg",
+    "caption": "Cuatro personas jugando al frisbee en un parque.",
+    "caption2": "Cuatro personas están en un parque jugando al frisbee.",
+    "negative_caption": "Un grupo de cuatro personas jugando al frisbee en un parque.",
+    "source_caption": "Four persons playing Ultimate Frisbee in a park.",
+    "source_negative_caption": "A park playing Ultimate Frisbee with four persons.",
+    "source_caption2": "Four persons are in a park playing Ultimate Frisbee."
+  },
+  "138": {
+    "filename": "000000519491.jpg",
+    "caption": "Torre con reloj y una estatua de bronce en la parte superior, en un día soleado.",
+    "caption2": "Una estatua de bronce se encuentra en la parte superior de una torre de reloj en un día soleado.",
+    "negative_caption": "Una estatua de bronce con una torre de reloj en la parte superior, en un día soleado.",
+    "source_caption": "Clock tower with a bronze statue on top on a sunny day. ",
+    "source_negative_caption": "A bronze statue with a clock tower on top on a sunny day.",
+    "source_caption2": "A bronze statue is positioned on top of a clock tower on a sunny day."
+  },
+  "139": {
+    "filename": "000000376625.jpg",
+    "caption": "El vagón de ferrocarril se desplaza por delante de otros vehículos.",
+    "caption2": "El vagón de vía está ubicado delante de otros vehículos.",
+    "negative_caption": "Otros automóviles están circulando delante del tranvía.",
+    "source_caption": "The rail trolley is driving in front of other automobiles. ",
+    "source_negative_caption": "Other automobiles are driving in front of the rail trolley.",
+    "source_caption2": "the rail trolley is positioned ahead of other automobiles."
+  },
+  "140": {
+    "filename": "000000255824.jpg",
+    "caption": "Media docena de éclairs sobre un plato y una taza de café sobre una mesa de madera.",
+    "caption2": "Hay una taza de café sobre una mesa de madera, y a un lado, hay media una eclair sobre un plato.",
+    "negative_caption": "Una taza de café sobre un plato y media una eclair sobre una mesa de madera.",
+    "source_caption": "Half an eclair on a plate and a coffee mug on wooden table.",
+    "source_negative_caption": "A coffee mug on a plate and half an eclair on wooden table.",
+    "source_caption2": "A coffee mug is on a wooden table and half of an eclair are positioned on a plate."
+  },
+  "141": {
+    "filename": "000000373382.jpg",
+    "caption": "Personas sentadas en las gradas, observando a alguien jugar al tenis.",
+    "caption2": "La persona está jugando al tenis mientras otras personas están sentadas en las gradas, observándola.",
+    "negative_caption": "Una persona sentada en las gradas, observando a personas jugar al tenis.",
+    "source_caption": "People sitting in the stands watching a person play tennis.",
+    "source_negative_caption": "A person sitting in the stands watching people play tennis.",
+    "source_caption2": "The person is playing tennis while people are seated in the stands, observing the person."
+  },
+  "142": {
+    "filename": "000000578489.jpg",
+    "caption": "Un niño está jugando con un sistema de videojuegos mientras otros niños lo observan.",
+    "caption2": "Otros niños están observando a un niño que juega con un sistema de videojuegos.",
+    "negative_caption": "Otros niños están jugando con un sistema de videojuegos, mientras que otro niño observa.",
+    "source_caption": "A child is playing a game system while other kids look on.",
+    "source_negative_caption": "Other kids are playing a game system while a child looks on.",
+    "source_caption2": "Other kids are observing a child playing a game system."
+  },
+  "143": {
+    "filename": "000000051326.jpg",
+    "caption": "Tres faroles de Halloween de diferentes formas, uno de los cuales tiene flores.",
+    "caption2": "Se ven tres calabazas talladas, de diferentes formas, y una de ellas está llena de flores.",
+    "negative_caption": "Flores de diferentes formas, una de las cuales contiene tres calabazas talladas (Jack-O-Lanterns).",
+    "source_caption": "Three Jack-O-Laturns of various shapes, one of which has flowers in it.",
+    "source_negative_caption": "Flowers of various shapes, one of which has Three Jack-O-Lanterns in it.",
+    "source_caption2": "Three Jack-o'-lanterns of different shapes are seen where one of them is filled with flowers."
+  },
+  "144": {
+    "filename": "000000120853.jpg",
+    "caption": "Un primer plano de un sándwich con una bebida al fondo.",
+    "caption2": "Una fotografía de primer plano de un sándwich, con una bebida visible en el fondo.",
+    "negative_caption": "Un primer plano de una bebida, con un sándwich en el fondo.",
+    "source_caption": "A close up of a sandwich with a drink in the back.",
+    "source_negative_caption": "A close up of a drink with a sandwich in the back.",
+    "source_caption2": "A close-up photograph of a sandwich with a drink visible in the background."
+  },
+  "145": {
+    "filename": "000000493286.jpg",
+    "caption": "Un coche antiguo de color rojo está ubicado frente a un avión.",
+    "caption2": "Un coche antiguo, de color rojo, está aparcado frente a un avión.",
+    "negative_caption": "Un avión está situado frente a un antiguo coche rojo.",
+    "source_caption": "An antique red car is positioned in front of an airplane. ",
+    "source_negative_caption": "An airplane is positioned in front of an antique red car.",
+    "source_caption2": "An antique car, red in color, is parked in front of an airplane."
+  },
+  "146": {
+    "filename": "000000088462.jpg",
+    "caption": "Un autobús escolar en la calle, detrás de otros vehículos.",
+    "caption2": "Un autobús escolar está estacionado detrás de otros vehículos en la calle.",
+    "negative_caption": "Otros coches en la calle, detrás de un autobús escolar.",
+    "source_caption": "A school bus in the street behind other cars.",
+    "source_negative_caption": "Other cars in the street behind a school bus.",
+    "source_caption2": "A school bus is positioned behind other cars on the street."
+  },
+  "147": {
+    "filename": "000000483531.jpg",
+    "caption": "Dos camas gemelas en una habitación con una imagen de flores encima.",
+    "caption2": "La habitación cuenta con dos camas individuales, y sobre ellas se encuentra una fotografía de flores.",
+    "negative_caption": "Una fotografía de dos flores idénticas, en una habitación con dos camas encima.",
+    "source_caption": "Two twin beds in a room with a picture of flowers above it.",
+    "source_negative_caption": "A picture of twin flowers in a room with two beds above it.",
+    "source_caption2": "The room contains two twin beds, and a picture of flowers is positioned above them."
+  },
+  "148": {
+    "filename": "000000144932.jpg",
+    "caption": "Un bote pequeño remolcando una pequeña barca a través del agua.",
+    "caption2": "Una pequeña embarcación está siendo remolcada por el agua mediante una lancha.",
+    "negative_caption": "Una pequeña embarcación remolcada por una lancha que se desplaza por el agua.",
+    "source_caption": "a tub boat pulling a small barge through the water",
+    "source_negative_caption": "A small barge pulling a tub boat through the water.",
+    "source_caption2": "A small barge is being pulled through the water by a tub boat."
+  },
+  "149": {
+    "filename": "000000167240.jpg",
+    "caption": "Un jarrón azul con un patrón floral naranja está colocado frente a un mapa.",
+    "caption2": "Un mapa está colocado detrás de un jarrón azul con un patrón floral en tonos naranja.",
+    "negative_caption": "Un mapa con un patrón floral en tonos naranja se encuentra frente a un jarrón azul.",
+    "source_caption": "A blue vase with an orange floral patters sits in front of a map.",
+    "source_negative_caption": "A map with an orange floral pattern sits in front of a blue vase.",
+    "source_caption2": "A map is positioned behind a blue vase with an orange floral pattern."
+  },
+  "150": {
+    "filename": "000000088462.jpg",
+    "caption": "Un autobús escolar está esperando en el tráfico detrás de un coche.",
+    "caption2": "Un coche está delante de un autobús escolar que está esperando en el tráfico.",
+    "negative_caption": "Un coche está aparcado en la carretera, esperando en el tráfico detrás de un autobús escolar.",
+    "source_caption": "A school bus waits in traffic behind a car.",
+    "source_negative_caption": "A car waits in traffic behind a school bus.",
+    "source_caption2": "A car is in front of a school bus that is waiting in traffic."
+  },
+  "151": {
+    "filename": "000000054931.jpg",
+    "caption": "Una joven atractiva guía a un caballo gris a través de un pastizal.",
+    "caption2": "Un caballo gris es guiado por una persona joven, que parece atractiva, a través de un corral.",
+    "negative_caption": "Un caballo gris guía a una joven atractiva a través de un pastizal.",
+    "source_caption": "An attractive young person leads a grey horse through a paddock.",
+    "source_negative_caption": "A grey horse leads an attractive young person through a paddock.",
+    "source_caption2": "A grey horse is led by an young person who looks attractive through a paddock."
+  },
+  "152": {
+    "filename": "000000579635.jpg",
+    "caption": "Una persona practicando surf en el océano, con un velero detrás.",
+    "caption2": "Una persona está practicando surf en el océano, con un velero visible en el fondo.",
+    "negative_caption": "Un velero navegando en el océano, con una persona sentada en la proa.",
+    "source_caption": "A person surfing in the ocean with a sail boat behind the person.",
+    "source_negative_caption": "A sail boat surfing in the ocean with a person behind it.",
+    "source_caption2": "with a sail boat positioned in the background, a person is surfing in the ocean."
+  },
+  "153": {
+    "filename": "000000551350.jpg",
+    "caption": "Una mesa de picnic sobre la arena, debajo de un árbol.",
+    "caption2": "Un árbol está situado encima de una mesa de picnic, que está colocada sobre la arena, debajo del árbol.",
+    "negative_caption": "Un árbol en la arena, debajo de una mesa de picnic.",
+    "source_caption": "A picnic table in sand, underneath a tree.",
+    "source_negative_caption": "A tree in sand, underneath a picnic table.",
+    "source_caption2": "A tree is positioned above a picnic table that is situated in sand, underneath it."
+  },
+  "154": {
+    "filename": "000000460333.jpg",
+    "caption": "Un niño pequeño está sentado en una cama, con una silla a su lado.",
+    "caption2": "Una silla está colocada junto a una cama, donde un niño pequeño está sentado.",
+    "negative_caption": "Una silla está colocada sobre una cama, junto a un niño pequeño.",
+    "source_caption": "A little child sits on a bed with a chair next to it.",
+    "source_negative_caption": "A chair sits on a bed with a little child next to it.",
+    "source_caption2": "A chair is positioned adjacent to a bed where a little child is seated."
+  },
+  "155": {
+    "filename": "000000395903.jpg",
+    "caption": "Una persona lleva su tabla de surf cerca de las olas que se acercan.",
+    "caption2": "La tabla de surf se transporta por una persona que se encuentra cerca de las olas que se acercan.",
+    "negative_caption": "Su tabla de surf permite a una persona desplazarse cerca de las olas que se acercan.",
+    "source_caption": "A person carries his surfboard near incoming waves.",
+    "source_negative_caption": "His surfboard carries a person near incoming waves.",
+    "source_caption2": "The surfboard is carried by a person close to incoming waves."
+  },
+  "156": {
+    "filename": "000000219271.jpg",
+    "caption": "La fotografía en blanco y negro muestra un camión inclinando una gran caja de carga.",
+    "caption2": "La gran caja de carga está siendo inclinada por un camión en una fotografía en blanco y negro.",
+    "negative_caption": "La fotografía en blanco y negro muestra una gran caja de carga inclinada sobre un camión.",
+    "source_caption": "The black and white photo shows a truck tilting a large cargo crate.",
+    "source_negative_caption": "The black and white photo shows a large cargo crate tilting a truck.",
+    "source_caption2": "The large cargo crate is being tilted by a truck in a monochrome photograph."
+  },
+  "157": {
+    "filename": "000000464358.jpg",
+    "caption": "Una cama con almohadas apiladas está en un dormitorio, junto a una silla.",
+    "caption2": "Los cojines apilados están sobre una cama en un dormitorio que incluye una silla.",
+    "negative_caption": "Una silla con cojines apilados está en un dormitorio, junto a una cama.",
+    "source_caption": "A bed with stacked pillows is in a bedroom with a chair.",
+    "source_negative_caption": "A chair with stacked pillows is in a bedroom with a bed.",
+    "source_caption2": "The stacked pillows are on a bed in a bedroom featuring a chair."
+  },
+  "158": {
+    "filename": "000000453584.jpg",
+    "caption": "Lo que parece ser un local frente a la playa cuenta con una zona exterior con una barandilla de metal y taburetes altos, todo ello situado sobre un sendero inclinado con una señal y un banco con un logotipo.",
+    "caption2": "La zona exterior del restaurante frente a la playa cuenta con una barandilla de metal y taburetes altos, que están ubicados en un pasillo inclinado con una señal y un banco con un logotipo.",
+    "negative_caption": "Lo que parece ser un local frente a la playa cuenta con una zona exterior con taburetes altos y un pasillo inclinado con una señal y un banco con un logotipo, todo ello sostenido por una barandilla de metal.",
+    "source_caption": "What appears to be a beach-side eatery has an outdoor area with a metal railing and high stools, the whole of which rests on a tilted walkway with a sign and a bench with a logo on it. ",
+    "source_negative_caption": "What appears to be a beach-side eatery has an outdoor area with high stools and a tilted walkway with a sign and a bench with a logo on it, the whole of which rests on a metal railing.",
+    "source_caption2": "The outdoor area of the beach-side eatery has a metal railing and high stools, which are positioned on a tilted walkway with a sign and a bench with a logo on it."
+  },
+  "159": {
+    "filename": "000000465718.jpg",
+    "caption": "Un escritorio de ordenador con dos monitores y una portátil.",
+    "caption2": "Una portátil y dos monitores están colocados encima de un escritorio de ordenador.",
+    "negative_caption": "Dos monitores con una computadora portátil colocada sobre un escritorio de ordenador.",
+    "source_caption": "A computer desk topped with two monitors and a laptop.",
+    "source_negative_caption": "Two monitors topped with a laptop on a computer desk.",
+    "source_caption2": "a laptop and two monitors are positioned on top of a computer desk."
+  },
+  "160": {
+    "filename": "000000016228.jpg",
+    "caption": "Un caballo tirando de un carro con un conductor por el camino.",
+    "caption2": "Un carruaje, con un conductor, está siendo arrastrado por un caballo por el camino.",
+    "negative_caption": "Un conductor tirando de un carro con un caballo por la carretera.",
+    "source_caption": "A horse pulling a wagon with a conductor down the road. ",
+    "source_negative_caption": "A conductor pulling a wagon with a horse down the road.",
+    "source_caption2": "A wagon with a conductor is being pulled down the road by a horse."
+  },
+  "161": {
+    "filename": "000000022892.jpg",
+    "caption": "Un gato sentado sobre una mesa junto a plantas, y un perro afuera, mirando a través de una puerta de cristal corredera.",
+    "caption2": "Un perro está situado fuera de una puerta de cristal corredera, observando el interior donde hay un gato sentado en una mesa junto a plantas.",
+    "negative_caption": "Un perro sentado en una mesa junto a plantas, y un gato fuera de una puerta de cristal corredera, mirando hacia adentro.",
+    "source_caption": "A cat sitting on a table next to plants and a dog outside of a sliding glass door, looking in.",
+    "source_negative_caption": "A dog sitting on a table next to plants and a cat outside of a sliding glass door, looking in.",
+    "source_caption2": "a dog is situated outside of a sliding glass door, observing inside at a cat that is sitting on a table adjacent to plants."
+  },
+  "162": {
+    "filename": "000000002431.jpg",
+    "caption": "Un plato sobre una mesa de madera, lleno de pan.",
+    "caption2": "Una mesa de madera tiene un plato lleno de pan sobre ella.",
+    "negative_caption": "Una mesa de madera con pan encima, junto a un plato.",
+    "source_caption": "A plate on a wooden table full of bread.",
+    "source_negative_caption": "A wooden table with bread on it next to a plate.",
+    "source_caption2": "A wooden table has a plate full of bread on it."
+  },
+  "163": {
+    "filename": "000000185802.jpg",
+    "caption": "Hay un plátano sobre una silla de playa, junto a un pequeño toldo.",
+    "caption2": "El pequeño paraguas está colocado sobre una silla de playa, junto a una banana.",
+    "negative_caption": "Hay un pequeño paraguas sobre una silla de playa, junto a una banana.",
+    "source_caption": "There is a banana on a beach chair with a small umbrella",
+    "source_negative_caption": "There is a small umbrella on a beach chair with a banana.",
+    "source_caption2": "The small umbrella is positioned on a beach chair with a banana."
+  },
+  "164": {
+    "filename": "000000095899.jpg",
+    "caption": "Un lugar de construcción se encuentra frente a un semáforo.",
+    "caption2": "Un cartel de \"alto\" está colocado detrás de una zona de obras.",
+    "negative_caption": "Un área de estacionamiento está ubicada frente a un letrero de construcción.",
+    "source_caption": "a construction site sits in front of a stop sign ",
+    "source_negative_caption": "a stop site sits in front of a construction sign.",
+    "source_caption2": "A stop sign is positioned behind a construction site."
+  },
+  "165": {
+    "filename": "000000136355.jpg",
+    "caption": "Una cocina luminosa, con tulipanes en la mesa y plantas cerca de la ventana.",
+    "caption2": "La cocina es luminosa, con plantas cerca de la ventana y tulipanes colocados sobre la mesa.",
+    "negative_caption": "Una cocina luminosa, con plantas en la mesa y tulipanes junto a la ventana.",
+    "source_caption": "a bright kitchen with tulips on the table and plants by the window ",
+    "source_negative_caption": "A bright kitchen with plants on the table and tulips by the window.",
+    "source_caption2": "The kitchen is bright, with plants by the window and tulips placed on the table."
+  },
+  "166": {
+    "filename": "000000290843.jpg",
+    "caption": "Una persona sentada frente a una computadora portátil, junto a un gato.",
+    "caption2": "Un gato está sentado junto a una persona que está sentada frente a una computadora portátil.",
+    "negative_caption": "Un gato sentado sobre un ordenador portátil, junto a una persona.",
+    "source_caption": "A person sitting on a laptop computer next to a cat.",
+    "source_negative_caption": "A cat sitting on a laptop computer next to a person.",
+    "source_caption2": "A cat is sitting adjacent to a person who is sitting on a laptop computer."
+  },
+  "167": {
+    "filename": "000000036539.jpg",
+    "caption": "Un esquiador se fotografía, mientras que un niño pequeño está en el fondo.",
+    "caption2": "Un niño pequeño aparece en el fondo, mientras que un esquiador se fotografía.",
+    "negative_caption": "Un niño pequeño está posando para la cámara, mientras que un esquiador se encuentra en el fondo.",
+    "source_caption": "A skier is posing for the camera while a young child is in the background. ",
+    "source_negative_caption": "A young child is posing for the camera while a skier is in the background.",
+    "source_caption2": "A young child is positioned in the background while a skier is posing for the camera."
+  },
+  "168": {
+    "filename": "000000578500.jpg",
+    "caption": "Una sala de estar bien iluminada y decorada muestra un vistazo a una puerta de cristal a través del pasillo.",
+    "caption2": "Se puede ver un pequeño vistazo de una puerta de cristal desde el pasillo, en un salón bien decorado y con buena iluminación.",
+    "negative_caption": "Una puerta de cristal, bien iluminada y decorada, permite vislumbrar el salón a través del pasillo.",
+    "source_caption": "A well-lit and well-decorated living room shows a glimpse of a glass front door through the corridor. ",
+    "source_negative_caption": "A well-lit and well-decorated glass front door shows a glimpse of a living room through the corridor.",
+    "source_caption2": "A glimpse of a glass front door can be seen through the corridor in a well-decorated and well-lit living room."
+  },
+  "169": {
+    "filename": "000000014380.jpg",
+    "caption": "El puente blanco se extiende hacia el horizonte mientras el tren de transporte pasa por debajo.",
+    "caption2": "El tren de transporte circula por debajo del puente blanco que se extiende hacia el horizonte.",
+    "negative_caption": "El tren de transporte se extiende hacia el horizonte, mientras que el puente blanco lo atraviesa.",
+    "source_caption": "The white bridge stretches out over the horizon as the transport train travels below it.",
+    "source_negative_caption": "The transport train stretches out over the horizon as the white bridge travels below it.",
+    "source_caption2": "The transport train travels below the white bridge that stretches out over the horizon."
+  },
+  "170": {
+    "filename": "000000188439.jpg",
+    "caption": "Un camión cargado de mercancías se desplaza lentamente por la calle.",
+    "caption2": "El camión, cargado de mercancías, se desplaza por la calle.",
+    "negative_caption": "Un camión con una carga pesada se desplaza lentamente por la calle.",
+    "source_caption": "A truck loaded with cargo slowly creeps down the street.",
+    "source_negative_caption": "Cargo loaded with a truck slowly creeps down the street.",
+    "source_caption2": "The truck that is loaded with cargo moves down the street."
+  },
+  "171": {
+    "filename": "000000460333.jpg",
+    "caption": "Un niño pequeño está sentado en una cama, con una silla a su lado.",
+    "caption2": "Una silla está colocada junto a una cama, donde un niño pequeño está sentado.",
+    "negative_caption": "Un niño pequeño está sentado en una silla, con una cama junto a ella.",
+    "source_caption": "A little child sits on a bed with a chair next to it.",
+    "source_negative_caption": "A little child sits on a chair with a bed next to it.",
+    "source_caption2": "A chair is positioned adjacent to a bed where a little child is seated."
+  },
+  "172": {
+    "filename": "000000395801.jpg",
+    "caption": "Una persona está sentada en un banco mientras otras personas caminan por un acera.",
+    "caption2": "La gente camina por un acera mientras una persona está sentada en un banco.",
+    "negative_caption": "La gente está sentada en un banco mientras una persona camina por la acera.",
+    "source_caption": "A person sits on a bench as people walk down a sidewalk. ",
+    "source_negative_caption": "People sit on a bench as a person walks down a sidewalk.",
+    "source_caption2": "People walk down a sidewalk while a person sits on a bench."
+  },
+  "173": {
+    "filename": "000000144003.jpg",
+    "caption": "Un grupo de personas observando a alguien cortar un pastel.",
+    "caption2": "Una persona está cortando un pastel mientras un grupo de personas lo observa.",
+    "negative_caption": "Una persona que observa a un grupo de personas cortando un pastel.",
+    "source_caption": "A group of people watching a person cutting a cake.",
+    "source_negative_caption": "A person watching a group of people cutting a cake.",
+    "source_caption2": "A person is cutting a cake while a group of people watch the person."
+  },
+  "174": {
+    "filename": "000000533958.jpg",
+    "caption": "Un plato blanco con una tortilla frita, junto a una ensalada.",
+    "caption2": "Un huevo frito está sobre un plato blanco, junto a una ensalada.",
+    "negative_caption": "Una ensalada con una yema de huevo frito, junto a un plato blanco.",
+    "source_caption": "A white plate topped with a fried egg next to a salad.",
+    "source_negative_caption": "A salad topped with a fried egg next to a white plate.",
+    "source_caption2": "A fried egg is on a white plate adjacent to a salad."
+  },
+  "175": {
+    "filename": "000000233139.jpg",
+    "caption": "Hay dos relojes colgados en una pared detrás de un letrero de cristal.",
+    "caption2": "Un letrero de cristal está colocado frente a los dos relojes que están colgados en una pared.",
+    "negative_caption": "Un letrero de cristal está colgado en una pared detrás de dos relojes.",
+    "source_caption": "Two clocks are hung on a wall behind a glass sign.",
+    "source_negative_caption": "A glass sign is hung on a wall behind two clocks.",
+    "source_caption2": "A glass sign is positioned in front of the two clocks that are hung on a wall."
+  },
+  "176": {
+    "filename": "000000104198.jpg",
+    "caption": "Se muestra un letrero de calle en primer plano, con un edificio ornamentado de fondo.",
+    "caption2": "Un edificio ornamentado se encuentra en el fondo, con un letrero de calle visible en primer plano.",
+    "negative_caption": "Se muestra un edificio ornamentado en primer plano, con una señal de calle en el fondo.",
+    "source_caption": "A street sign is pictured at the forefront with an ornate building in the background. ",
+    "source_negative_caption": "An ornate building is pictured at the forefront with a street sign in the background.",
+    "source_caption2": "An ornate building is positioned in the background with a street sign shown in the foreground."
+  },
+  "177": {
+    "filename": "000000462728.jpg",
+    "caption": "Una persona está en las olas del océano, cerca de su tabla de surf, con un perro sobre ella.",
+    "caption2": "La persona está cerca de su tabla de surf en las olas del mar, con un perro posado sobre ella.",
+    "negative_caption": "Un perro está en las olas del océano, cerca de su tabla de surf, junto a una persona.",
+    "source_caption": "A person is in the ocean waves near their surfboard with a dog on it.",
+    "source_negative_caption": "A dog is in the ocean waves near its surfboard with a person on it.",
+    "source_caption2": "The person is near their surfboard in the ocean waves with a dog positioned on it."
+  },
+  "178": {
+    "filename": "000000265816.jpg",
+    "caption": "Un caballo blanco tirando de un carruaje con una persona dentro.",
+    "caption2": "Una persona viaja en un carruaje que es tirado por un caballo blanco.",
+    "negative_caption": "Una persona tirando de un carruaje con un caballo blanco.",
+    "source_caption": "a white horse pulling a carriage with a person on it.",
+    "source_negative_caption": "A person pulling a carriage with a white horse on it.",
+    "source_caption2": "A person is riding in a carriage that is being pulled by a white horse."
+  },
+  "179": {
+    "filename": "000000276055.jpg",
+    "caption": "Una persona sostiene una zanahoria en su mano derecha, mientras que en la otra mano tiene una bebida.",
+    "caption2": "La persona sostiene una bebida en su mano izquierda y una zanahoria en la otra.",
+    "negative_caption": "Una persona sostiene una bebida en su mano derecha y, en la otra, una zanahoria.",
+    "source_caption": "A person holds a carrot in their right hand with a beverage in the other.",
+    "source_negative_caption": "A person holds a beverage in their right hand with a carrot in the other.",
+    "source_caption2": "The person holds a beverage in their left hand and a carrot in their other hand."
+  },
+  "180": {
+    "filename": "000000051314.jpg",
+    "caption": "El surfista está deslizándose por la ola de lado a lado a lo largo de la playa.",
+    "caption2": "El surfista está cabalgando la ola de lado, a lo largo de la playa.",
+    "negative_caption": "La ola lleva al surfista a lo largo de la playa, de lado.",
+    "source_caption": "the surfer is riding the wave sideways along the beach.",
+    "source_negative_caption": "The wave is riding the surfer sideways along the beach.",
+    "source_caption2": "The wave is being ridden by the surfer sideways along the beach."
+  },
+  "181": {
+    "filename": "000000276018.jpg",
+    "caption": "Un grupo de niños sosteniendo osos de peluche y con expresiones felices.",
+    "caption2": "Un grupo de niños se ve muy felices, cada uno sosteniendo un osito de peluche.",
+    "negative_caption": "Un grupo de osos de peluche sosteniendo a niños y con una expresión feliz.",
+    "source_caption": "A group of kids holding teddy bears and looking happy.",
+    "source_negative_caption": "A group of teddy bears holding kids and looking happy.",
+    "source_caption2": "A group of children are looking joyful while each holding a teddy bear."
+  },
+  "182": {
+    "filename": "000000512403.jpg",
+    "caption": "Un jarrón lleno de plumas colocado sobre una mesa, junto a una cortina de flores.",
+    "caption2": "La tela con motivos florales está colocada junto a la mesa, que tiene un jarrón lleno de plumas sobre ella.",
+    "negative_caption": "Un adorno floral con plumas, colocado sobre una mesa junto a un jarrón.",
+    "source_caption": "Vase full of feathers sitting on a table next to a floral drape.",
+    "source_negative_caption": "A floral drape full of feathers sitting on a table next to a vase.",
+    "source_caption2": "The floral drape is positioned adjacent to the table, which has a vase full of feathers sitting on it."
+  },
+  "183": {
+    "filename": "000000086956.jpg",
+    "caption": "Una persona de pie detrás de otra persona que sostiene un bate.",
+    "caption2": "La persona está sosteniendo el bate, mientras que otra persona está de pie detrás de ella.",
+    "negative_caption": "Una persona sostiene un bate y está detrás de otra persona.",
+    "source_caption": "A person standing behind a person holding a bat.",
+    "source_negative_caption": "A person holding a bat stands behind a person.",
+    "source_caption2": "The person is holding the bat while another person is standing behind them."
+  },
+  "184": {
+    "filename": "000000184384.jpg",
+    "caption": "Un pastel de arándanos está sobre un plato y está cubierto con mantequilla.",
+    "caption2": "El pastel de arándanos, cubierto con mantequilla, se coloca en un plato.",
+    "negative_caption": "Hay mantequilla en un plato, cubierta con un pastel de arándanos.",
+    "source_caption": "A bluebery cake is on a plate and is topped with butter.",
+    "source_negative_caption": "Butter is on a plate and is topped with a blueberry cake.",
+    "source_caption2": "The blueberry cake that is topped with butter is placed on a plate."
+  },
+  "185": {
+    "filename": "000000382122.jpg",
+    "caption": "Una iglesia con un reloj se encuentra detrás de un valla.",
+    "caption2": "Detrás de un muro, se encuentra una iglesia con un reloj.",
+    "negative_caption": "Detrás de una iglesia, hay un muro con un reloj.",
+    "source_caption": "A church with a clock stands behind a fence",
+    "source_negative_caption": "A fence with a clock stands behind a church.",
+    "source_caption2": "behind a fence, a church with a clock is positioned."
+  },
+  "186": {
+    "filename": "000000002157.jpg",
+    "caption": "Una mesa cubierta con un pastel decorado con bayas, junto a un plato de sándwiches.",
+    "caption2": "Un pastel cubierto de bayas está colocado junto a un plato de sándwiches sobre una mesa.",
+    "negative_caption": "Una mesa con un plato lleno de sándwiches cubiertos de bayas, junto a un pastel.",
+    "source_caption": "A table topped with a cake covered in berries next to a plate of sandwiches.",
+    "source_negative_caption": "A table topped with a plate of sandwiches covered in berries next to a cake.",
+    "source_caption2": "A cake covered in berries is positioned adjacent to a plate of sandwiches on top of a table."
+  },
+  "187": {
+    "filename": "000000008021.jpg",
+    "caption": "La gente observa a una persona dando una conferencia en una pantalla.",
+    "caption2": "La persona que imparte la conferencia aparece en una pantalla, y la gente la está viendo.",
+    "negative_caption": "Una persona observa a otras personas impartir una conferencia a través de una pantalla.",
+    "source_caption": "People watch a person delivering a lecture on a screen.",
+    "source_negative_caption": "A person watches people delivering a lecture on a screen.",
+    "source_caption2": "The person delivering a lecture is on a screen, and people are watching him."
+  },
+  "188": {
+    "filename": "000000534041.jpg",
+    "caption": "Una persona que le da papas fritas a un niño pequeño en un restaurante.",
+    "caption2": "Un niño pequeño está siendo alimentado con patatas fritas por una persona en un restaurante.",
+    "negative_caption": "Un niño pequeño alimentando a una persona con patatas fritas en un restaurante.",
+    "source_caption": "A person feeding a little child french fries at a restaurant. ",
+    "source_negative_caption": "A little child feeding french fries to a person at a restaurant.",
+    "source_caption2": "A little child is being fed French fries by a person at a restaurant."
+  },
+  "189": {
+    "filename": "000000011813.jpg",
+    "caption": "Una cámara está colocada sobre un trípode, conectado a una portátil.",
+    "caption2": "La computadora portátil está conectada a un trípode, con una cámara colocada encima.",
+    "negative_caption": "Una portátil está colocada sobre un trípode, conectado a una cámara.",
+    "source_caption": "A camera sits on a tripod connected to a laptop.",
+    "source_negative_caption": "A laptop sits on a tripod connected to a camera.",
+    "source_caption2": "The laptop is connected to a tripod with a camera positioned on top of it."
+  },
+  "190": {
+    "filename": "000000374727.jpg",
+    "caption": "Un poste con varios letreros de tráfico frente a un edificio alto.",
+    "caption2": "Un edificio alto se encuentra detrás de un poste que contiene varios letreros de calle.",
+    "negative_caption": "Un edificio alto con varios letreros de calle frente a un poste.",
+    "source_caption": "A pole with multiple street signs in front of a tall building.",
+    "source_negative_caption": "A tall building with multiple street signs in front of a pole.",
+    "source_caption2": "A tall building is behind a pole containing multiple street signs."
+  },
+  "191": {
+    "filename": "000000172856.jpg",
+    "caption": "Un cartel de \"alto\" descolorido con dos letreros de calle encima, en una zona rural.",
+    "caption2": "Un cartel de \"alto\" que está descolorido y tiene dos señales de tráfico encima, se encuentra en una zona rural.",
+    "negative_caption": "Dos señales de tráfico descoloridas con un cartel de \"alto\", en una zona rural.",
+    "source_caption": "A faded stop sign with two street signs above, in a rural area.",
+    "source_negative_caption": "Two faded street signs with a stop sign above, in a rural area.",
+    "source_caption2": "A stop sign that is faded with two street signs above, is positioned in a rural area."
+  },
+  "192": {
+    "filename": "000000099428.jpg",
+    "caption": "Hay dos dispositivos electrónicos encima de la portátil.",
+    "caption2": "Hay una computadora portátil que está ubicada debajo de dos dispositivos electrónicos.",
+    "negative_caption": "Hay una computadora portátil sobre dos dispositivos electrónicos.",
+    "source_caption": "There are two electronic devices on top of the laptop.",
+    "source_negative_caption": "There is a laptop on top of two electronic devices.",
+    "source_caption2": "There is a laptop that is positioned below two electronic devices."
+  },
+  "193": {
+    "filename": "000000168458.jpg",
+    "caption": "Un jarrón con irises morados, colocado junto a un cántaro de cerámica.",
+    "caption2": "Una jarra de cerámica está colocada junto a un jarrón con irises de color púrpura.",
+    "negative_caption": "Un jarrón de cerámica con irises morados, colocado junto a un jarrón.",
+    "source_caption": "A vase with purple iris's sitting next to a ceramic pitcher.",
+    "source_negative_caption": "A ceramic pitcher with purple iris's sitting next to a vase.",
+    "source_caption2": "A ceramic pitcher is positioned adjacent to a vase with purple iris's."
+  },
+  "194": {
+    "filename": "000000084674.jpg",
+    "caption": "Una persona está sosteniendo a un bebé, mientras que otro niño pequeño está al lado de la persona.",
+    "caption2": "Un niño pequeño está de pie junto a una persona que sostiene a un bebé.",
+    "negative_caption": "Un niño pequeño está sosteniendo a un bebé, con otra persona a su lado.",
+    "source_caption": "A person is holding a baby with another young child beside the person.",
+    "source_negative_caption": "A young child is holding a baby with another person beside the child.",
+    "source_caption2": "A young child is standing beside a person who is holding a baby."
+  },
+  "195": {
+    "filename": "000000132408.jpg",
+    "caption": "Dos caballos marrones reman una arado, guiados por una persona que está detrás.",
+    "caption2": "La persona dirige dos caballos marrones que trabajan detrás de una arada.",
+    "negative_caption": "Una persona reme una arado, que es conducida por dos caballos marrones delante.",
+    "source_caption": "Two brown horses pull a plow, steered by a person behind.",
+    "source_negative_caption": "A person pulls a plow, steered by two brown horses in front.",
+    "source_caption2": "The person steers two brown horses from behind that pull a plow."
+  },
+  "196": {
+    "filename": "000000050380.jpg",
+    "caption": "Una persona que guía un poni mientras un niño monta en él.",
+    "caption2": "Un niño está montando en un poni, que está siendo guiado por una persona.",
+    "negative_caption": "Un niño guiando un poni, con una persona montada en él.",
+    "source_caption": "A  person guiding a pony with a child riding on it.",
+    "source_negative_caption": "A child guiding a pony with a person riding on it.",
+    "source_caption2": "A child is riding on a pony, which is being guided by a person."
+  },
+  "197": {
+    "filename": "000000166664.jpg",
+    "caption": "Un coche circula por una carretera y pasa junto a un elefante que está de pie.",
+    "caption2": "Un elefante de pie está situado en la carretera, y un coche que circula por la carretera lo atraviesa.",
+    "negative_caption": "Un elefante en una carretera pasa por delante de un coche estacionado.",
+    "source_caption": "A car on a road passes a standing elephant.",
+    "source_negative_caption": "An elephant on a road passes a standing car.",
+    "source_caption2": "A standing elephant is positioned on the road, and a car on the road passes it."
+  },
+  "198": {
+    "filename": "000000011051.jpg",
+    "caption": "Una mujer colocando una flor en el chaleco de un hombre.",
+    "caption2": "Una mujer está colocando una flor en el chaleco de un hombre.",
+    "negative_caption": "Un hombre colocando una flor en el chaleco de una mujer.",
+    "source_caption": "A woman pinning a flower onto a man's blazer.",
+    "source_negative_caption": "A man pinning a flower onto a woman's blazer.",
+    "source_caption2": "A woman is attaching a flower to a man's blazer."
+  },
+  "199": {
+    "filename": "000000090062.jpg",
+    "caption": "Una vaca negra y blanca está de pie en un pastizal, con leña de fondo.",
+    "caption2": "Con leña de fondo, una vaca blanca y negra está ubicada en un corral.",
+    "negative_caption": "Madera para encender fuego en un corral, con una vaca negra y blanca al fondo.",
+    "source_caption": "A black and white cow stands in a paddock with firewood in the background.",
+    "source_negative_caption": "Firewood stands in a paddock with a black and white cow in the background.",
+    "source_caption2": "with firewood in the background, a white and black cow is positioned in a paddock."
+  },
+  "200": {
+    "filename": "000000513580.jpg",
+    "caption": "Un pequeño avión rojo volando junto a un motociclista en una zona urbana.",
+    "caption2": "Un pequeño avión de color rojo está volando junto al conductor de una motocicleta en una zona urbana.",
+    "negative_caption": "Un motociclista volando junto a un pequeño avión rojo en una zona urbana.",
+    "source_caption": "Small red plane flying next to motorcycle rider in urban area.",
+    "source_negative_caption": "Motorcycle rider flying next to small red plane in urban area.",
+    "source_caption2": "A small plane that is red in color is flying next to the motorcycle rider in an urban area."
+  },
+  "201": {
+    "filename": "000000322574.jpg",
+    "caption": "Pan en una bolsa de papel, junto con patatas fritas en un recipiente de papel, y una bebida a un lado.",
+    "caption2": "Una bolsa de papel que contiene pan está colocada encima del recipiente de papel que contiene patatas fritas, y una bebida se encuentra a un lado.",
+    "negative_caption": "Patatas fritas en una bolsa de papel, sobre una rebanada de pan en un recipiente de papel, con una bebida a un lado.",
+    "source_caption": "Bread in a paper bag on top of french fries in paper container with a drink on the side.",
+    "source_negative_caption": "French fries in a paper bag on top of bread in paper container with a drink on the side.",
+    "source_caption2": "A paper bag containing bread is positioned on top of the paper container containing french fries, and a drink is located on the side."
+  },
+  "202": {
+    "filename": "000000474344.jpg",
+    "caption": "Un hombre está en el plato, listo para batear, mientras juega béisbol. Una mujer lo observa.",
+    "caption2": "Un hombre está en la posición de bateador, listo para jugar al béisbol, mientras una mujer lo observa.",
+    "negative_caption": "Una mujer está en el plato, lista para batear, mientras juega béisbol. Un hombre la observa.",
+    "source_caption": "A man is at bat ready is playing baseball while a woman watches.",
+    "source_negative_caption": "A woman is at bat ready is playing baseball while a man watches.",
+    "source_caption2": "A man is positioned at bat, ready to play baseball while a woman observes."
+  },
+  "203": {
+    "filename": "000000304812.jpg",
+    "caption": "Una persona que lleva una tabla de surf en la playa al atardecer.",
+    "caption2": "Al atardecer, una persona está en la playa, llevando una tabla de surf.",
+    "negative_caption": "Una tabla de surf con una persona sobre ella en la playa al atardecer.",
+    "source_caption": "A person carrying a surfboard on the beach at sunset.",
+    "source_negative_caption": "A surfboard carrying a person on the beach at sunset.",
+    "source_caption2": "At sunset, a person is on the beach carrying a surfboard."
+  },
+  "204": {
+    "filename": "000000507667.jpg",
+    "caption": "Un mapa del metro de Boston impreso en una estatua de una vaca.",
+    "caption2": "Una estatua de una vaca con un mapa impreso del sistema de metro de Boston.",
+    "negative_caption": "Una estatua de una vaca impresa en un mapa del metro de Boston.",
+    "source_caption": "A map of the Boston subway printed on a statue of a cow.",
+    "source_negative_caption": "A statue of a cow printed on a map of the Boston subway.",
+    "source_caption2": "A statue of a cow with a printed map of the Boston subway on it."
+  },
+  "205": {
+    "filename": "000000180101.jpg",
+    "caption": "Un niño preparándose para apagar las velas de cumpleaños, mientras una niña lo observa.",
+    "caption2": "Una niña está observando a un chico preparándose para apagar las velas de su cumpleaños.",
+    "negative_caption": "Una niña preparándose para apagar las velas de cumpleaños, mientras un chico la observa.",
+    "source_caption": "A boy getting ready to blow out birthday candles with a girl watching.",
+    "source_negative_caption": "A girl getting ready to blow out birthday candles with a boy watching.",
+    "source_caption2": "A girl is watching a boy getting ready to blow out birthday candles."
+  },
+  "206": {
+    "filename": "000000430286.jpg",
+    "caption": "Tres mandos a distancia sobre una colcha.",
+    "caption2": "Los tres mandos están colocados encima de la colchoneta.",
+    "negative_caption": "Un colchón colocado encima de tres mandos a distancia.",
+    "source_caption": "Three remotes sitting on top of a mattress.",
+    "source_negative_caption": "A mattress sitting on top of three remotes.",
+    "source_caption2": "The three remotes are positioned on top of the mattress."
+  },
+  "207": {
+    "filename": "000000159458.jpg",
+    "caption": "Un perro descansa en una cama en un dormitorio donde también hay una persona sentada.",
+    "caption2": "Una persona está sentada en un lugar donde también se encuentra un perro descansando en una cama, en un dormitorio.",
+    "negative_caption": "Una persona descansa en una cama en un dormitorio, donde también hay un perro sentado.",
+    "source_caption": "A dog rests on a bed in a bedroom where one person is also sitting.",
+    "source_negative_caption": "One person rests on a bed in a bedroom where a dog is also sitting.",
+    "source_caption2": "A person is sitting where a dog also rests on a bed in a bedroom."
+  },
+  "208": {
+    "filename": "000000546475.jpg",
+    "caption": "Una persona sosteniendo un bebé y tomando una foto.",
+    "caption2": "Una persona está tomando una fotografía sosteniendo un bebé.",
+    "negative_caption": "Un bebé sosteniendo a una persona que está tomando una foto.",
+    "source_caption": "A person holding a baby taking a picture.",
+    "source_negative_caption": "A baby holding a person taking a picture.",
+    "source_caption2": "A person is taking a photograph while holding a baby ."
+  },
+  "209": {
+    "filename": "000000500565.jpg",
+    "caption": "Una persona sostiene un bebé envuelto en una toalla, y el bebé está sosteniendo un cepillo de dientes.",
+    "caption2": "El bebé, envuelto en una toalla y sosteniendo un cepillo de dientes, está siendo sostenido por una persona.",
+    "negative_caption": "Una persona sostiene un cepillo de dientes mientras un bebé envuelto en una toalla observa.",
+    "source_caption": "A person is holding a baby who is wrapped in a towel and holding a toothbrush",
+    "source_negative_caption": "A person is holding a toothbrush while the baby wrapped in a towel looks on.",
+    "source_caption2": "The baby, who is wrapped in a towel and holding a toothbrush, is being held by a person."
+  },
+  "210": {
+    "filename": "000000300341.jpg",
+    "caption": "Dos personas están jugando en la consola Nintendo Wii, mientras que otras observan.",
+    "caption2": "La consola Nintendo Wii está siendo utilizada por dos personas, mientras que otras personas la observan.",
+    "negative_caption": "Otros juegan en la consola Nintendo Wii, mientras que dos personas observan.",
+    "source_caption": "Two persons play the Nintendo Wii console while others watch",
+    "source_negative_caption": "Others play the Nintendo Wii console while two persons watch.",
+    "source_caption2": "The Nintendo Wii console is being played by two persons while other people watch."
+  },
+  "211": {
+    "filename": "000000324158.jpg",
+    "caption": "Esta persona está montando una patineta detrás de un perro.",
+    "caption2": "La persona está detrás de un perro, practicando skate.",
+    "negative_caption": "Este perro está montando en la parte trasera de una persona que va en patineta.",
+    "source_caption": "This person is riding a skateboard behind a dog.",
+    "source_negative_caption": "This dog is riding behind a person on a skateboard.",
+    "source_caption2": "The person is behind a dog, skateboarding."
+  },
+  "212": {
+    "filename": "000000290592.jpg",
+    "caption": "Un grupo de ovejas está de pie detrás de una valla.",
+    "caption2": "Detrás de un valla, un grupo de ovejas está de pie.",
+    "negative_caption": "Hay un cercado detrás de un grupo de ovejas.",
+    "source_caption": "a bunch of sheep are standing behind a fence",
+    "source_negative_caption": "A fence is standing behind a bunch of sheep.",
+    "source_caption2": "behind a fence, a group of sheep is standing."
+  },
+  "213": {
+    "filename": "000000033638.jpg",
+    "caption": "Una persona preparando comida frente a un horno antiguo y grande.",
+    "caption2": "Una persona está preparando comida frente a un horno antiguo y grande.",
+    "negative_caption": "Un horno antiguo y grande, utilizado para preparar alimentos, con una persona de pie junto a él.",
+    "source_caption": "A person preparing food on a large old oven.",
+    "source_negative_caption": "A large old oven preparing food with a person standing next to it.",
+    "source_caption2": "A person is preparing food on a large old oven."
+  },
+  "214": {
+    "filename": "000000502229.jpg",
+    "caption": "Una escena de un paisaje urbano.",
+    "caption2": "En el primer plano de una escena urbana, se puede ver un depósito de trenes.",
+    "negative_caption": "Una escena de un depósito de trenes con un paisaje urbano en primer plano.",
+    "source_caption": "A city scape scene .",
+    "source_negative_caption": "A train yard scene with a city scape in the foreground.",
+    "source_caption2": "a train yard is visible in the foreground of a cityscape scene."
+  },
+  "215": {
+    "filename": "000000498286.jpg",
+    "caption": "Un primer plano de un perro con un coche de fondo.",
+    "caption2": "Un coche en el fondo de una fotografía de primer plano de un perro.",
+    "negative_caption": "Un primer plano de un coche con un perro en el asiento trasero.",
+    "source_caption": "a close up of a dog with a car in the back",
+    "source_negative_caption": "A close up of a car with a dog in the back.",
+    "source_caption2": "A car in the background of a close-up photo of a dog."
+  },
+  "216": {
+    "filename": "000000136466.jpg",
+    "caption": "Un horno de cocina blanco con dos tetera sobre él.",
+    "caption2": "Dos teteras están colocadas encima de una estufa de color blanco.",
+    "negative_caption": "Dos teteras con una estufa blanca encima.",
+    "source_caption": "A white stove top oven with two tea pots on top of it.",
+    "source_negative_caption": "Two tea pots with a white stove top oven on top of them.",
+    "source_caption2": "two tea pots are positioned on top of a stove top oven that is white in color."
+  },
+  "217": {
+    "filename": "000000471023.jpg",
+    "caption": "Se ve a un grupo de personas caminando, mientras que otros pasajeros viajan en un tren.",
+    "caption2": "Los pasajeros viajan en un tren, mientras que se puede ver un grupo de personas caminando.",
+    "negative_caption": "Se puede ver a un grupo de pasajeros mientras personas caminan a lo largo del tren.",
+    "source_caption": "A group of walkers are seen while passengers ride in a train.",
+    "source_negative_caption": "A group of passengers are seen while walkers walk alongside the train.",
+    "source_caption2": "Passengers are riding in a train while a group of walkers is visible."
+  },
+  "218": {
+    "filename": "000000521719.jpg",
+    "caption": "Un porche con varios elementos para captar el viento, colgados de ganchos.",
+    "caption2": "varias figuras que captan el viento colgadas de ganchos en un porche.",
+    "negative_caption": "Un porche con muchos ganchos colgados de varios elementos para captar el viento.",
+    "source_caption": "A porch with several wind catchers hung from hooks. ",
+    "source_negative_caption": "A porch with many hooks hung from several wind catchers.",
+    "source_caption2": "several wind catchers hanging from hooks on a porch."
+  },
+  "219": {
+    "filename": "000000061584.jpg",
+    "caption": "Una pareja está sentada sobre una estatua de un caballo y algunas plantas.",
+    "caption2": "Algunas plantas están cerca de una pareja que está sentada frente a una estatua de un caballo.",
+    "negative_caption": "Algunas plantas están colocadas sobre una estatua de un caballo y una pareja.",
+    "source_caption": "a couple is sitting on a statue of a horse and some plants",
+    "source_negative_caption": "Some plants are sitting on a statue of a horse and a couple.",
+    "source_caption2": "some plants are close to a couple that is sitting on a statue of a horse."
+  },
+  "220": {
+    "filename": "000000214224.jpg",
+    "caption": "Un letrero con la palabra \"bar\" cuelga de una pared, y debajo, sobre una mesa, hay una batidora y tres botellas con diferentes tipos de alcohol y algunos edulcorantes.",
+    "caption2": "Un letrero de un pub está colgado en una pared, y debajo, sobre una mesa, hay tres botellas de diferentes tipos de alcohol, una batidora y algunos ingredientes.",
+    "negative_caption": "Un letrero con la palabra \"bar\" está sobre una mesa, y debajo de él, en la pared, hay una batidora y tres botellas de diferentes tipos de alcohol, así como algunos ingredientes para preparar cócteles.",
+    "source_caption": "A sign with the word pub sits on a wall and underneath it on a table is a blender and three bottles of variety of alcohol and some flavoring.",
+    "source_negative_caption": "A sign with the word pub sits on a table and underneath it on a wall is a blender and three bottles of variety of alcohol and some flavoring.",
+    "source_caption2": "A pub sign is mounted on a wall, and below it on a table are three bottles of different types of alcohol, a blender and some flavorings."
+  },
+  "221": {
+    "filename": "000000512657.jpg",
+    "caption": "Dos personas están jugando un videojuego, y otra persona está observando.",
+    "caption2": "Una persona está observando a dos individuos que están jugando a un videojuego.",
+    "negative_caption": "Una persona está jugando a un videojuego, y dos personas lo están observando.",
+    "source_caption": "two people are playing a video game and another person is watching",
+    "source_negative_caption": "A person is playing a video game and two people are watching.",
+    "source_caption2": "A person is observing two other individuals that are engaged in a video game."
+  },
+  "222": {
+    "filename": "000000121744.jpg",
+    "caption": "Un hombre de pie junto a una mujer hermosa, con un vestido azul corto, mirando a la multitud.",
+    "caption2": "Una mujer con un vestido azul corto está de pie junto a un hombre que mira hacia la multitud.",
+    "negative_caption": "Una mujer hermosa, de pie lejos de un hombre, con un vestido azul corto, mirando a la multitud.",
+    "source_caption": "A man standing next to a beautiful woman in a short blue skirt facing the crowd.",
+    "source_negative_caption": "A beautiful woman standing far from a man in a short blue skirt facing the crowd.",
+    "source_caption2": "A woman in a short blue skirt is standing next to a man facing the crowd."
+  },
+  "223": {
+    "filename": "000000011813.jpg",
+    "caption": "Se coloca una cámara junto con una computadora sobre un trípode.",
+    "caption2": "Se coloca un trípode debajo de una cámara junto con una computadora.",
+    "negative_caption": "Se coloca una computadora con cámara sobre un trípode.",
+    "source_caption": "A camera with a computer is set up on a tripod",
+    "source_negative_caption": "A computer with a camera is set up on a tripod.",
+    "source_caption2": "A tripod is positioned beneath a camera with a computer."
+  },
+  "224": {
+    "filename": "000000011051.jpg",
+    "caption": "La niña mira hacia atrás mientras coloca una flor en el traje del chico.",
+    "caption2": "La niña mira hacia atrás mientras ajusta la flor en el traje del chico.",
+    "negative_caption": "El niño mira hacia atrás mientras arregla una flor en el traje de la niña.",
+    "source_caption": "Girl looks back as she fixes flower on boy's suit",
+    "source_negative_caption": "Boy looks back as he fixes flower on girl's suit.",
+    "source_caption2": "The girl glances back while adjusting the flower on the boy's suit."
+  },
+  "225": {
+    "filename": "000000508482.jpg",
+    "caption": "Un vagón de tren está abierto, y se puede ver la puerta en el otro lado.",
+    "caption2": "La puerta del otro lado del vagón de tren es visible a través de la puerta abierta.",
+    "negative_caption": "La puerta está abierta y muestra un vagón de tren al otro lado.",
+    "source_caption": "A train car is open and shows the door on the other side.",
+    "source_negative_caption": "The door is open and shows a train car on the other side.",
+    "source_caption2": "The door on the other side of the train car is visible through the open door."
+  },
+  "226": {
+    "filename": "000000082180.jpg",
+    "caption": "Dos peluches están sentados en una silla de madera rota.",
+    "caption2": "La silla de madera, que está rota, tiene dos peluches sentados sobre ella.",
+    "negative_caption": "Una silla de madera rota está sentada sobre dos peluches.",
+    "source_caption": "Two stuffed animals are sitting on a broken wooden chair.",
+    "source_negative_caption": "A broken wooden chair is sitting on two stuffed animals.",
+    "source_caption2": "The wooden chair that is broken has two stuffed animals sitting on it."
+  },
+  "227": {
+    "filename": "000000116206.jpg",
+    "caption": "Los trozos de verduras y el cuchillo están sobre la tabla de cortar. El repollo está sobre la mesa.",
+    "caption2": "Las cuchillas y los trozos de verduras están colocados sobre la tabla de cortar, mientras que la col se encuentra sobre la mesa.",
+    "negative_caption": "Las verduras y el cuchillo están sobre la mesa. El repollo está sobre la tabla de cortar.",
+    "source_caption": "Vegetable pieces and knife are kept on cutting board. Cabbage is on the table.",
+    "source_negative_caption": "Vegetable pieces and knife are kept on table. Cabbage is on the cutting board.",
+    "source_caption2": "Knife and vegetable pieces are positioned on the cutting board, while cabbage is located on the table."
+  },
+  "228": {
+    "filename": "000000117425.jpg",
+    "caption": "Un niño sostiene una cuchara y mira un cupcake.",
+    "caption2": "El niño mira un cupcake mientras sostiene una cuchara.",
+    "negative_caption": "Un niño mira una cuchara y sostiene un cupcake.",
+    "source_caption": "A child holds a spoon and looks at a cupcake.",
+    "source_negative_caption": "A child looks at a spoon and holds a cupcake.",
+    "source_caption2": "The child looks at a cupcake while holding a spoon."
+  },
+  "229": {
+    "filename": "000000577932.jpg",
+    "caption": "Una mujer caminando junto a un hombre que monta una bicicleta rosa.",
+    "caption2": "Un hombre está montando una bicicleta rosa, mientras que una mujer camina a su lado.",
+    "negative_caption": "Un hombre caminando junto a una mujer que monta una bicicleta rosa.",
+    "source_caption": "A woman walking next to a man riding a pink bike.",
+    "source_negative_caption": "A man walking next to a woman riding a pink bike.",
+    "source_caption2": "A man is riding a pink bike while a woman is walking next to him."
+  },
+  "230": {
+    "filename": "000000563349.jpg",
+    "caption": "Un esquiador de nieve está volando en el aire sobre la nieve.",
+    "caption2": "Una persona con esquíes sobre la nieve está volando en el aire.",
+    "negative_caption": "La nieve está cayendo en el aire sobre un esquiador de snowboard.",
+    "source_caption": "A snowboarder is flying in the air over snow.",
+    "source_negative_caption": "Snow is flying in the air over a snowboarder.",
+    "source_caption2": "A person on skis above snow is flying in the air."
+  },
+  "231": {
+    "filename": "000000426372.jpg",
+    "caption": "Se muestra un camión con otro coche en la parte trasera.",
+    "caption2": "Otro coche está situado detrás del camión en la imagen.",
+    "negative_caption": "Se muestra otro coche, con un camión en la parte trasera.",
+    "source_caption": "A truck is shown with another car in the back of it.",
+    "source_negative_caption": "Another car is shown with a truck in the back of it.",
+    "source_caption2": "TAnother car is positioned behind the truck in the image."
+  },
+  "232": {
+    "filename": "000000196141.jpg",
+    "caption": "Un joven golpeando una bate de béisbol frente a un receptor.",
+    "caption2": "Un joven está frente a un receptor, que está golpeando con un bate de béisbol.",
+    "negative_caption": "Un receptor golpeando con un bate de béisbol frente a una persona joven.",
+    "source_caption": "A young person swinging a baseball bat in front of a catcher.",
+    "source_negative_caption": "A catcher swinging a baseball bat in front of a young person.",
+    "source_caption2": "A young person is in front of a catcher swinging a baseball bat."
+  },
+  "233": {
+    "filename": "000000074058.jpg",
+    "caption": "Un acera junto a la zona de estar al aire libre de un restaurante.",
+    "caption2": "La zona de terraza del restaurante está situada junto al acera.",
+    "negative_caption": "Una zona de estar al aire libre, junto al acera de un restaurante.",
+    "source_caption": "A sidewalk next to the outdoor sitting area of a restaurant.",
+    "source_negative_caption": "An outdoor sitting area next to the sidewalk of a restaurant.",
+    "source_caption2": "the restaurant's outdoor seating area is adjacent to the sidewalk."
+  },
+  "234": {
+    "filename": "000000303893.jpg",
+    "caption": "Una niña con un vestido floral, sentada junto a un niño con una camisa azul, comiendo.",
+    "caption2": "Una niña con un vestido floral está sentada junto a un niño con una camisa azul, mientras comen.",
+    "negative_caption": "Un niño con un vestido floral sentado junto a una niña con una camisa azul, comiendo.",
+    "source_caption": "A girl in a floral dress sitting next to a boy in a blue shirt eating food. ",
+    "source_negative_caption": "A boy in a floral dress sitting next to a girl in a blue shirt eating food.",
+    "source_caption2": "A girl in a floral dress sits beside a boy in a blue shirt as they eat."
+  },
+  "235": {
+    "filename": "000000073946.jpg",
+    "caption": "Dos personas mordiendo una tabla de surf con un diseño de tiburón.",
+    "caption2": "Un par de personas están mordiendo una tabla de surf que tiene un dibujo de un tiburón.",
+    "negative_caption": "Un tiburón mordiendo una tabla de surf con dos personas encima.",
+    "source_caption": "Two persons biting a surfboard with a shark on it.",
+    "source_negative_caption": "A shark biting a surfboard with two persons on it.",
+    "source_caption2": "A couple of persons are biting a surfboard that has a shark on it."
+  },
+  "236": {
+    "filename": "000000296969.jpg",
+    "caption": "Un grupo de jirafas de pie en un campo de tierra, con árboles de fondo.",
+    "caption2": "con árboles de fondo, un grupo de jirafas está de pie en un campo de tierra.",
+    "negative_caption": "Un grupo de árboles en un campo de tierra, con jirafas al fondo.",
+    "source_caption": "A group of giraffes standing in dirt field with trees in background.",
+    "source_negative_caption": "A group of trees standing in dirt field with giraffes in background.",
+    "source_caption2": "with trees in the background, a group of giraffes are standing in a dirt field."
+  },
+  "237": {
+    "filename": "000000533536.jpg",
+    "caption": "Un gato mirando una pantalla de televisión sobre un escritorio.",
+    "caption2": "El monitor de televisión está colocado sobre un escritorio, y un gato está mirando hacia él.",
+    "negative_caption": "Una pantalla de televisión mostrando una imagen de un gato sobre un escritorio.",
+    "source_caption": "A cat looking at a tv monitor on a desk",
+    "source_negative_caption": "A tv monitor looking at a cat on a desk.",
+    "source_caption2": "The TV monitor is positioned on a desk, and a cat is looking at it."
+  },
+  "238": {
+    "filename": "000000078420.jpg",
+    "caption": "Un gato marrón y negro, acostado sobre un portátil, junto a una silla.",
+    "caption2": "Un gato, de color negro y marrón, está posado encima de un portátil que está junto a una silla.",
+    "negative_caption": "Un gato marrón y negro, tumbado sobre una silla junto a una computadora portátil.",
+    "source_caption": "A brown and black cat laying on laptop next to a chair.",
+    "source_negative_caption": "A brown and black cat laying on a chair next to a laptop.",
+    "source_caption2": "A cat, which is black and brown, is positioned on top of a laptop that is adjacent to a chair."
+  },
+  "239": {
+    "filename": "000000295713.jpg",
+    "caption": "Una estatua está sentada en un banco, y una persona está sentada sobre un bloque de hormigón.",
+    "caption2": "Una persona está sentada sobre un bloque de hormigón, mientras que una estatua está colocada en un banco.",
+    "negative_caption": "Una persona está sentada en un banco, y hay una estatua colocada sobre un bloque de hormigón.",
+    "source_caption": "A statue is sitting on a bench and a person sits on a cement block.",
+    "source_negative_caption": "A person is sitting on a bench and a statue sits on a cement block.",
+    "source_caption2": "A person is sitting on a cement block while a statue is positioned on a bench."
+  },
+  "240": {
+    "filename": "000000256868.jpg",
+    "caption": "Una persona filma a un patinador realizando una maniobra.",
+    "caption2": "Se está grabando a un patinador por una persona que está realizando una maniobra.",
+    "negative_caption": "Un patinador filma a una persona realizando una maniobra.",
+    "source_caption": "a person films a skate boarder doing a trick ",
+    "source_negative_caption": "A skate boarder films a person doing a trick.",
+    "source_caption2": "A skateboarder is being filmed by a person doing a trick."
+  },
+  "241": {
+    "filename": "000000094157.jpg",
+    "caption": "Un grupo de personas en un parque, con una alta torre de reloj de fondo.",
+    "caption2": "En el fondo de un grupo de personas en un parque, se puede ver una alta torre de reloj.",
+    "negative_caption": "Una alta torre de reloj en un parque, con un grupo de personas en el fondo.",
+    "source_caption": "A group of people in a park with a tall clock tower in the background.",
+    "source_negative_caption": "A tall clock tower in a park with a group of people in the background.",
+    "source_caption2": "A tall clock tower is in the background of a group of people in a park."
+  },
+  "242": {
+    "filename": "000000174371.jpg",
+    "caption": "Una persona con uniforme muestra algo en su teléfono móvil a un grupo de niños.",
+    "caption2": "Una persona con uniforme está mostrando algo en su teléfono móvil a un grupo de niños.",
+    "negative_caption": "Un grupo de niños con uniforme están mostrando algo en sus teléfonos móviles a una persona.",
+    "source_caption": "A person in uniform shows something on their cell phone to a group of children.",
+    "source_negative_caption": "A group of children in uniform show something on their cell phone to a person.",
+    "source_caption2": "A person wearing uniform is displaying something on their cell phone to a group of kids."
+  },
+  "243": {
+    "filename": "000000384527.jpg",
+    "caption": "La habitación está llena de objetos, incluyendo sillas, una bicicleta y una mesa con vasos.",
+    "caption2": "La habitación está llena de diversos objetos, incluyendo una bicicleta, sillas y una mesa con vasos.",
+    "negative_caption": "La habitación está llena de objetos, incluyendo vasos, una bicicleta y una mesa con sillas.",
+    "source_caption": "The room is crowded with many things including chairs, a bicycle, and a table with cups on it.",
+    "source_negative_caption": "The room is crowded with many things including cups, a bicycle, and a table with chairs on it.",
+    "source_caption2": "The room is filled with numerous items, including a bicycle, chairs and a table with cups on it."
+  },
+  "244": {
+    "filename": "000000482436.jpg",
+    "caption": "La mujer en el restaurante y el hombre que mira por la ventana están manteniendo contacto visual.",
+    "caption2": "El hombre en la ventana está mirando a la mujer en el restaurante, y ambos se están fijando en los ojos.",
+    "negative_caption": "El hombre en el restaurante y la mujer que mira por la ventana están manteniendo contacto visual.",
+    "source_caption": "The woman in the diner and the man looking into the window are making eye contact.",
+    "source_negative_caption": "The man in the diner and the woman looking into the window are making eye contact.",
+    "source_caption2": "The man in the window is facing the woman in the diner, and they are making eye contact."
+  }
+}

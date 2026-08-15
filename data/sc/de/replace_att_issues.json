@@ -1,0 +1,14 @@
+[
+  {
+    "sample_id": "260",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Gruppenfoto von jungen Jungen und jungen Männern.",
+    "negative_caption": "Ein Gruppenfoto von jungen Jungen und jungen Männern."
+  },
+  {
+    "sample_id": "432",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Tür führt zu einem weißen Badezimmer, in dem ein schwarzer Mülleimer auf dem Boden steht.",
+    "negative_caption": "Eine Tür führt zu einem weißen Badezimmer, in dem ein schwarzer Mülleimer auf dem Boden steht."
+  }
+]

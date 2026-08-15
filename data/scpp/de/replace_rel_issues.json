@@ -1,0 +1,314 @@
+[
+  {
+    "sample_id": "7",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Mehrere Personen stehen an einem Bahnhof, während ein Zug einfährt.",
+    "caption2": "Mehrere Personen stehen an einem Bahnhof, während ein Zug einfährt."
+  },
+  {
+    "sample_id": "11",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Luftaufnahme eines Flugzeugs, das in den Himmel aufsteigt.",
+    "negative_caption": "Luftaufnahme eines Flugzeugs, das in den Himmel aufsteigt."
+  },
+  {
+    "sample_id": "32",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines Giraffen steht im Gras in der Nähe einer Straße.",
+    "caption2": "Ein kleines Giraffen steht im Gras in der Nähe einer Straße."
+  },
+  {
+    "sample_id": "40",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "Ein Nahaufnahme eines Ofens, in dem Essen zubereitet wird.",
+    "caption2": "Ein Nahaufnahme eines Ofens, in dem Essen zubereitet wird."
+  },
+  {
+    "sample_id": "68",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person in einem blauen Kleid, ohne Schuhe, sitzt mit verschränkten Beinen auf einem Stuhl in der Mitte eines Raumes.",
+    "negative_caption": "Eine Person in einem blauen Kleid, ohne Schuhe, sitzt mit verschränkten Beinen auf einem Stuhl in der Mitte eines Raumes."
+  },
+  {
+    "sample_id": "74",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Das Basketballspiel wird von Mannschaften mit weißen oder blauen Uniformen ausgetragen.",
+    "negative_caption": "Das Basketballspiel wird von Mannschaften mit weißen oder blauen Uniformen ausgetragen."
+  },
+  {
+    "sample_id": "100",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Drei Teddybären, die nebeneinander sitzen.",
+    "caption2": "Drei Teddybären, die nebeneinander sitzen."
+  },
+  {
+    "sample_id": "118",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines Kind steht auf einer Wiese und hält ein Drachen über seinem Kopf.",
+    "caption2": "Ein kleines Kind steht auf einer Wiese und hält ein Drachen über seinem Kopf."
+  },
+  {
+    "sample_id": "148",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Gruppe von Hunden, die im Gras stehen.",
+    "caption2": "Eine Gruppe von Hunden, die im Gras stehen."
+  },
+  {
+    "sample_id": "243",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Dell Inspiron-Laptop steht auf einem Schreibtisch.",
+    "caption2": "Ein Dell Inspiron-Laptop steht auf einem Schreibtisch."
+  },
+  {
+    "sample_id": "257",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Kind bläst die Kerzen auf einer Geburtstagstorte aus.",
+    "caption2": "Ein Kind bläst die Kerzen auf einer Geburtstagstorte aus."
+  },
+  {
+    "sample_id": "259",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Hund, der auf einem Stuhl unter einem Gemälde sitzt.",
+    "caption2": "Ein Hund, der auf einem Stuhl unter einem Gemälde sitzt."
+  },
+  {
+    "sample_id": "264",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Rinder grasen auf einer grünen Wiese, die sich entlang eines Flusses und von Bergen erstreckt.",
+    "negative_caption": "Rinder grasen auf einer grünen Wiese, die sich entlang eines Flusses und von Bergen erstreckt."
+  },
+  {
+    "sample_id": "292",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein graues und weißes Hund, der auf der Beifahrerseite eines Autos sitzt.",
+    "negative_caption": "Ein graues und weißes Hund, der auf der Beifahrerseite eines Autos sitzt."
+  },
+  {
+    "sample_id": "331",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Schatten entstehen auf der Seite eines Zuges aufgrund der Sonne.",
+    "negative_caption": "Schatten entstehen auf der Seite eines Zuges aufgrund der Sonne."
+  },
+  {
+    "sample_id": "369",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Gruppe von Kindern in Anzügen, die eine Tafeldarstellung halten.",
+    "caption2": "Eine Gruppe von Kindern in Anzügen, die eine Tafeldarstellung halten."
+  },
+  {
+    "sample_id": "415",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Schulkinder sitzen mit verschränkten Beinen vor einer Tafeldarstellung in einem alten Schwarz-Weiß-Foto.",
+    "negative_caption": "Schulkinder sitzen mit verschränkten Beinen vor einer Tafeldarstellung in einem alten Schwarz-Weiß-Foto."
+  },
+  {
+    "sample_id": "416",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person hält ein Telefon in einem Auto, wobei das Fenster geöffnet ist.",
+    "caption2": "Eine Person hält ein Telefon in einem Auto, wobei das Fenster geöffnet ist."
+  },
+  {
+    "sample_id": "446",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines Kind isst einen Stück Pizza in einem Raum.",
+    "caption2": "Ein kleines Kind isst einen Stück Pizza in einem Raum."
+  },
+  {
+    "sample_id": "458",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kommerzielles Flugzeug mit Propellern, das durch die Luft fliegt.",
+    "caption2": "Ein kommerzielles Flugzeug mit Propellern, das durch die Luft fliegt."
+  },
+  {
+    "sample_id": "461",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Katze hat ihre Vorderpfoten auf die Toilettenschüssel gelegt.",
+    "negative_caption": "Eine Katze hat ihre Vorderpfoten auf die Toilettenschüssel gelegt."
+  },
+  {
+    "sample_id": "497",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person hält ein braunes Pferd, während eine andere Person zusieht.",
+    "caption2": "Eine Person hält ein braunes Pferd, während eine andere Person zusieht."
+  },
+  {
+    "sample_id": "498",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein Schwarz-Weiß-Foto einer Person, die DC-Schuhe trägt und auf einem Skateboard in der Sonne steht.",
+    "negative_caption": "Ein Schwarz-Weiß-Foto einer Person, die DC-Schuhe trägt und auf einem Skateboard in der Sonne steht."
+  },
+  {
+    "sample_id": "504",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person trinkt Wasser aus einer roten Flasche.",
+    "caption2": "Eine Person trinkt Wasser aus einer roten Flasche."
+  },
+  {
+    "sample_id": "542",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Straßenschilder, die in alle Richtungen zeigen, vor einem gelben Gebäude.",
+    "caption2": "Straßenschilder, die in alle Richtungen zeigen, vor einem gelben Gebäude."
+  },
+  {
+    "sample_id": "587",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person mit dicken, schwarzen Brillen isst einen Hotdog.",
+    "caption2": "Eine Person mit dicken, schwarzen Brillen isst einen Hotdog."
+  },
+  {
+    "sample_id": "610",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei Frauen sitzen nebeneinander auf einer Parkbank.",
+    "caption2": "Zwei Frauen sitzen nebeneinander auf einer Parkbank."
+  },
+  {
+    "sample_id": "616",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person, die einen Hut trägt und vor einem Badezimmerspiegel steht.",
+    "negative_caption": "Eine Person, die einen Hut trägt und vor einem Badezimmerspiegel steht."
+  },
+  {
+    "sample_id": "629",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine weiße Toilette, die in einem Badezimmer neben einer Dusche steht.",
+    "negative_caption": "Eine weiße Toilette, die in einem Badezimmer neben einer Dusche steht."
+  },
+  {
+    "sample_id": "669",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein junges, getigertes Kätzchen, das hinter einem Fahrrad herläuft, das an einer Wand lehnt.",
+    "negative_caption": "Ein junges, getigertes Kätzchen, das hinter einem Fahrrad herläuft, das an einer Wand lehnt."
+  },
+  {
+    "sample_id": "672",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Menschen gehen auf einer Gehwoche in einer Stadt entlang.",
+    "negative_caption": "Menschen gehen auf einer Gehwoche in einer Stadt entlang."
+  },
+  {
+    "sample_id": "701",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person sitzt auf einem Motorrad mit einem Seitenwagen.",
+    "caption2": "Eine Person sitzt auf einem Motorrad mit einem Seitenwagen."
+  },
+  {
+    "sample_id": "741",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person, die ein Telefon in jeder Hand hält und ein Headset vor einem Weihnachtsbaum trägt.",
+    "negative_caption": "Eine Person, die ein Telefon in jeder Hand hält und ein Headset vor einem Weihnachtsbaum trägt."
+  },
+  {
+    "sample_id": "795",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Herde Elefanten zieht triumphierend durch ein Feld.",
+    "caption2": "Eine Herde Elefanten zieht triumphierend durch ein Feld."
+  },
+  {
+    "sample_id": "817",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines Schaf steht unter einem Holzzaunpfosten.",
+    "caption2": "Ein kleines Schaf steht unter einem Holzzaunpfosten."
+  },
+  {
+    "sample_id": "826",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus.",
+    "caption2": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus."
+  },
+  {
+    "sample_id": "854",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person, die ein Kleid trägt und blasses Make-up, sitzt an einem Tisch.",
+    "caption2": "Eine Person, die ein Kleid trägt und blasses Make-up, sitzt an einem Tisch."
+  },
+  {
+    "sample_id": "886",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Jemand bereitet eine vegetarische Pfannengerichte zu.",
+    "negative_caption": "Jemand bereitet eine vegetarische Pfannengerichte zu."
+  },
+  {
+    "sample_id": "892",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Männer in blauen Hemden schieben Koffer in einem Flughafen.",
+    "caption2": "Männer in blauen Hemden schieben Koffer in einem Flughafen."
+  },
+  {
+    "sample_id": "931",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Skifahrer steht auf einer kleinen Kante im Schnee.",
+    "caption2": "Ein Skifahrer steht auf einer kleinen Kante im Schnee."
+  },
+  {
+    "sample_id": "934",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Einige Pferde stehen in der Straße.",
+    "caption2": "Einige Pferde stehen in der Straße."
+  },
+  {
+    "sample_id": "1121",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei Handys unterschiedlicher Qualität liegen nebeneinander auf einem Tisch.",
+    "caption2": "Zwei Handys unterschiedlicher Qualität liegen nebeneinander auf einem Tisch."
+  },
+  {
+    "sample_id": "1124",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Das glänzende Motorrad wurde ausgestellt.",
+    "negative_caption": "Das glänzende Motorrad wurde ausgestellt."
+  },
+  {
+    "sample_id": "1134",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Alle Mitglieder der Gruppe verwenden elektronische Geräte.",
+    "caption2": "Alle Mitglieder der Gruppe verwenden elektronische Geräte."
+  },
+  {
+    "sample_id": "1149",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine junge Person, die ein formelles Kleid trägt, und eine weitere junge Person, die einen Krawatte trägt.",
+    "negative_caption": "Eine junge Person, die ein formelles Kleid trägt, und eine weitere junge Person, die einen Krawatte trägt."
+  },
+  {
+    "sample_id": "1233",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person sitzt auf einer Bank vor einem Turm mit einem Schrein.",
+    "caption2": "Eine Person sitzt auf einer Bank vor einem Turm mit einem Schrein."
+  },
+  {
+    "sample_id": "1248",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Der Deckel des Toilettenbecken ist offen.",
+    "caption2": "Der Deckel des Toilettenbecken ist offen."
+  },
+  {
+    "sample_id": "1279",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein großes Verkehrsflugzeug steht neben einem Kuppelturm.",
+    "caption2": "Ein großes Verkehrsflugzeug steht neben einem Kuppelturm."
+  },
+  {
+    "sample_id": "1288",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Mehrere Kühe und ein Pferd fressen Heu.",
+    "caption2": "Mehrere Kühe und ein Pferd fressen Heu."
+  },
+  {
+    "sample_id": "1305",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Person, die einen Ball wirft, dabei lächelt und sich auf einem Spielfeld befindet.",
+    "negative_caption": "Eine Person, die einen Ball wirft, dabei lächelt und sich auf einem Spielfeld befindet."
+  },
+  {
+    "sample_id": "1336",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person, die aus dem Fenster eines Busses schaut.",
+    "caption2": "Eine Person, die aus dem Fenster eines Busses schaut."
+  },
+  {
+    "sample_id": "1341",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Hund und eine Person schauen gemeinsam fern.",
+    "caption2": "Ein Hund und eine Person schauen gemeinsam fern."
+  }
+]

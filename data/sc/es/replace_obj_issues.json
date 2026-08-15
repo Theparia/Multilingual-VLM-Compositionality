@@ -1,0 +1,44 @@
+[
+  {
+    "sample_id": "177",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un semáforo con señales de advertencia adicionales pegadas.",
+    "negative_caption": "Un semáforo con señales de advertencia adicionales pegadas."
+  },
+  {
+    "sample_id": "280",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un semáforo con algunos papeles encima.",
+    "negative_caption": "Un semáforo con algunos papeles encima."
+  },
+  {
+    "sample_id": "456",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Una mujer golpea una pelota con una raqueta.",
+    "negative_caption": "Una mujer golpea una pelota con una raqueta."
+  },
+  {
+    "sample_id": "742",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "El semáforo está en una intersección de cuatro vías.",
+    "negative_caption": "El semáforo está en una intersección de cuatro vías."
+  },
+  {
+    "sample_id": "1099",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un baño y un inodoro en una habitación pequeña.",
+    "negative_caption": "Un baño y un inodoro en una habitación pequeña."
+  },
+  {
+    "sample_id": "1127",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Hay varios pasteles sobre la encimera.",
+    "negative_caption": "Hay varios pasteles sobre la encimera."
+  },
+  {
+    "sample_id": "1378",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Dos jóvenes están lavando dos motocicletas con mangueras.",
+    "negative_caption": "Dos jóvenes están lavando dos motocicletas con mangueras."
+  }
+]

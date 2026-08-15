@@ -1,0 +1,146 @@
+[
+  {
+    "sample_id": "44",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک پسر نوجوان در حال اسکیت سواری در کنار یک دیوار سیمانی است.",
+    "negative_caption": "یک پسر نوجوان در حال اسکیت سواری در کنار یک دیوار سیمانی است."
+  },
+  {
+    "sample_id": "114",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک حمام با دیوارها به رنگ آبی و کاشی‌های به رنگ صورتی.",
+    "negative_caption": "یک حمام با دیوارها به رنگ آبی و کاشی‌های به رنگ صورتی."
+  },
+  {
+    "sample_id": "223",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک پیتزا با سبزیجات و پنیر که روی یک تخته قرار دارد.",
+    "negative_caption": "یک پیتزا با سبزیجات و پنیر که روی یک تخته قرار دارد."
+  },
+  {
+    "sample_id": "243",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد.",
+    "negative_caption": "یک لپ‌تاپ دل Inspiron روی یک میز قرار دارد."
+  },
+  {
+    "sample_id": "257",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک کودک شمع‌های کیک تولد را خاموش می‌کند.",
+    "negative_caption": "یک کودک شمع‌های کیک تولد را خاموش می‌کند."
+  },
+  {
+    "sample_id": "307",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "در کنار یک علامت \"توقف\"، تابلی با نوشته \"باکانالیا\" قرار دارد.",
+    "negative_caption": "در کنار یک علامت \"توقف\"، تابلی با نوشته \"باکانالیا\" قرار دارد."
+  },
+  {
+    "sample_id": "313",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک بازیکن تنیس، یک توپ اضافی را از جیب خود بیرون می‌آورد.",
+    "negative_caption": "یک بازیکن تنیس، یک توپ اضافی را از جیب خود بیرون می‌آورد."
+  },
+  {
+    "sample_id": "339",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک فرد در حال اسکیت سواری در خیابان است.",
+    "negative_caption": "یک فرد در حال اسکیت سواری در خیابان است."
+  },
+  {
+    "sample_id": "345",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "دو عروسک پر شده روی یک صندلی چوبی شکسته قرار دارند.",
+    "negative_caption": "دو عروسک پر شده روی یک صندلی چوبی شکسته قرار دارند."
+  },
+  {
+    "sample_id": "354",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک اسباب‌بازی نرم و سیاه که روی در توالت قرار دارد.",
+    "negative_caption": "یک اسباب‌بازی نرم و سیاه که روی در توالت قرار دارد."
+  },
+  {
+    "sample_id": "444",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "سه صندلی که در یک اتاق، نزدیک یک آینه، قرار دارند.",
+    "negative_caption": "سه صندلی که در یک اتاق، نزدیک یک آینه، قرار دارند."
+  },
+  {
+    "sample_id": "461",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک گربه، پاهای جلویی خود را روی نشیمنگاه توالت قرار داده است.",
+    "negative_caption": "یک گربه، پاهای جلویی خود را روی نشیمنگاه توالت قرار داده است."
+  },
+  {
+    "sample_id": "507",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک مرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است.",
+    "negative_caption": "یک مرد مسن در حال اسکی بر روی یک کوه پوشیده از برف است."
+  },
+  {
+    "sample_id": "514",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک لپ‌تاپ که روی یک میز سفید قرار دارد.",
+    "negative_caption": "یک لپ‌تاپ که روی یک میز سفید قرار دارد."
+  },
+  {
+    "sample_id": "549",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک زن که در کنار پیاده‌رو ایستاده و با فرزندش.",
+    "negative_caption": "یک زن که در کنار پیاده‌رو ایستاده و با فرزندش."
+  },
+  {
+    "sample_id": "669",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک گربه تبی کوچک که پشت یک دوچرخه ایستاده و در مقابل یک دیوار قرار دارد.",
+    "negative_caption": "یک گربه تبی کوچک که پشت یک دوچرخه ایستاده و در مقابل یک دیوار قرار دارد."
+  },
+  {
+    "sample_id": "819",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد.",
+    "negative_caption": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد."
+  },
+  {
+    "sample_id": "1019",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "برخی از بازیکنان بیسبال که در سکوی استراحت نشسته و در حال تماشای یک مسابقه هستند.",
+    "negative_caption": "برخی از بازیکنان بیسبال که در سکوی استراحت نشسته و در حال تماشای یک مسابقه هستند."
+  },
+  {
+    "sample_id": "1190",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک تکه پیتزا با یک لایه سس روی آن.",
+    "negative_caption": "یک تکه پیتزا با یک لایه سس روی آن."
+  },
+  {
+    "sample_id": "1201",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک حمام خالی با دیوارهای آبی، با نور روشن.",
+    "negative_caption": "یک حمام خالی با دیوارهای آبی، با نور روشن."
+  },
+  {
+    "sample_id": "1305",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "مردی که در حال پرتاب توپ است، لبخند می‌زند و در یک زمین قرار دارد.",
+    "negative_caption": "مردی که در حال پرتاب توپ است، لبخند می‌زند و در یک زمین قرار دارد."
+  },
+  {
+    "sample_id": "1309",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک گوسفند در حال بالا رفتن از یک تپه است.",
+    "negative_caption": "یک گوسفند در حال بالا رفتن از یک تپه است."
+  },
+  {
+    "sample_id": "1355",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "سه مرد که دور یک میز نشسته‌اند و صبحانه می‌خورند.",
+    "negative_caption": "سه مرد که دور یک میز نشسته‌اند و صبحانه می‌خورند."
+  },
+  {
+    "sample_id": "1367",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "یک گربه کوچک که روی سینک دراز کشیده است.",
+    "negative_caption": "یک گربه کوچک که روی سینک دراز کشیده است."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "sample_id": "22",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک میز که روی آن سیب، پرتقال و موز قرار دارند.",
+    "negative_caption": "یک میز که روی آن سیب، پرتقال و موز قرار دارند."
+  },
+  {
+    "sample_id": "79",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "این ورزشکار از برنده شدن در مسابقه بسیار خوشحال است.",
+    "negative_caption": "این ورزشکار از برنده شدن در مسابقه بسیار خوشحال است."
+  },
+  {
+    "sample_id": "196",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "مردی که یک ژاکت و کلاه پوشیده، به دوربین نگاه می‌کند.",
+    "negative_caption": "مردی که یک ژاکت و کلاه پوشیده، به دوربین نگاه می‌کند."
+  },
+  {
+    "sample_id": "208",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "مردی که یک کت مشکی پوشیده، در حال ورق زدن یک کتاب بزرگ است.",
+    "caption2": "مردی که یک کت مشکی پوشیده، در حال ورق زدن یک کتاب بزرگ است."
+  },
+  {
+    "sample_id": "227",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک شیرآب آتش‌نشانی قرمز در کنار یک تابلو، در امتداد پیاده‌رو قرار دارد.",
+    "caption2": "یک شیرآب آتش‌نشانی قرمز در کنار یک تابلو، در امتداد پیاده‌رو قرار دارد."
+  },
+  {
+    "sample_id": "388",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک وعده غذایی متنوع که روی یک بشقاب قرار دارد و در کنار آن یک لیوان شیر سفید دیده می‌شود.",
+    "negative_caption": "یک وعده غذایی متنوع که روی یک بشقاب قرار دارد و در کنار آن یک لیوان شیر سفید دیده می‌شود."
+  },
+  {
+    "sample_id": "398",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فیل در حال عبور از میان درختچه‌های سبز است.",
+    "caption2": "یک فیل در حال عبور از میان درختچه‌های سبز است."
+  },
+  {
+    "sample_id": "463",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "گله‌ای از گوسفندان که در کنار یک توده علوفه در حال چرا هستند.",
+    "negative_caption": "گله‌ای از گوسفندان که در کنار یک توده علوفه در حال چرا هستند."
+  },
+  {
+    "sample_id": "511",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک گوسفند کوچک زیر یک ستون چوبی حصار ایستاده است.",
+    "negative_caption": "یک گوسفند کوچک زیر یک ستون چوبی حصار ایستاده است."
+  },
+  {
+    "sample_id": "611",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "مردان بر روی گروهی از گوسفندان نظارت دارند.",
+    "negative_caption": "مردان بر روی گروهی از گوسفندان نظارت دارند."
+  },
+  {
+    "sample_id": "654",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک سینک و آینه بزرگ در حمام، همراه با یک سشوار که روی دیوار نصب شده است.",
+    "negative_caption": "یک سینک و آینه بزرگ در حمام، همراه با یک سشوار که روی دیوار نصب شده است."
+  },
+  {
+    "sample_id": "663",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک زن ایستاده و به چیزی خیره شده است.",
+    "caption2": "یک زن ایستاده و به چیزی خیره شده است."
+  },
+  {
+    "sample_id": "692",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک قابلمه پر از سوپ حاوی مقدار زیادی هویج.",
+    "negative_caption": "یک قابلمه پر از سوپ حاوی مقدار زیادی هویج."
+  },
+  {
+    "sample_id": "759",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اسب با موهای طلایی در یک مزرعه ایستاده است.",
+    "caption2": "یک اسب با موهای طلایی در یک مزرعه ایستاده است."
+  },
+  {
+    "sample_id": "762",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گوزن در سایه درخت ایستاده است.",
+    "caption2": "گوزن در سایه درخت ایستاده است."
+  },
+  {
+    "sample_id": "765",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اسکی‌برد که چرخ‌های آن روی زمین قرار دارند.",
+    "caption2": "یک اسکی‌برد که چرخ‌های آن روی زمین قرار دارند."
+  },
+  {
+    "sample_id": "784",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اسباب‌بازی پشمی روی توالت قرار دارد.",
+    "caption2": "یک اسباب‌بازی پشمی روی توالت قرار دارد."
+  },
+  {
+    "sample_id": "812",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "سه اسکی‌باز در حال بالا رفتن از یک تپه پوشیده از برف هستند.",
+    "caption2": "سه اسکی‌باز در حال بالا رفتن از یک تپه پوشیده از برف هستند."
+  },
+  {
+    "sample_id": "904",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "تصویری از یک فضای باز که بسیار زیبا و چشم‌نواز است.",
+    "caption2": "تصویری از یک فضای باز که بسیار زیبا و چشم‌نواز است."
+  },
+  {
+    "sample_id": "907",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دو تکه پیتزا روی یک بشقاب کاغذی قرار دارند.",
+    "caption2": "دو تکه پیتزا روی یک بشقاب کاغذی قرار دارند."
+  },
+  {
+    "sample_id": "934",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "تصویری از یک جفت کفش که در گوشه‌ای قرار دارند، همراه با یک چتر.",
+    "caption2": "تصویری از یک جفت کفش که در گوشه‌ای قرار دارند، همراه با یک چتر."
+  },
+  {
+    "sample_id": "987",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک قایق که در آب شناور است.",
+    "negative_caption": "یک قایق که در آب شناور است."
+  },
+  {
+    "sample_id": "1007",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دو مرد در جنگل ایستاده‌اند، یکی از آن‌ها در حال پرتاب یک Frisbee است.",
+    "caption2": "دو مرد در جنگل ایستاده‌اند، یکی از آن‌ها در حال پرتاب یک Frisbee است."
+  },
+  {
+    "sample_id": "1023",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک زوج تازه عروسی که در کنار یک کیک عروسی چهار لایه ایستاده‌اند.",
+    "caption2": "یک زوج تازه عروسی که در کنار یک کیک عروسی چهار لایه ایستاده‌اند."
+  },
+  {
+    "sample_id": "1074",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک مسابقه بسکتبال در حال برگزاری است.",
+    "caption2": "یک مسابقه بسکتبال در حال برگزاری است."
+  },
+  {
+    "sample_id": "1099",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک حمام و یک سرویس بهداشتی در یک اتاق کوچک.",
+    "negative_caption": "یک حمام و یک سرویس بهداشتی در یک اتاق کوچک."
+  },
+  {
+    "sample_id": "1104",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "مدل‌های اسباب‌بازی روی میز قرار گرفته‌اند.",
+    "caption2": "مدل‌های اسباب‌بازی روی میز قرار گرفته‌اند."
+  },
+  {
+    "sample_id": "1155",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "دو پرنده روی ظرف غذا ایستاده‌اند.",
+    "negative_caption": "دو پرنده روی ظرف غذا ایستاده‌اند."
+  },
+  {
+    "sample_id": "1222",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "گوسفندی با موهای کوتاه، زیر یک حصار ایستاده است.",
+    "caption2": "گوسفندی با موهای کوتاه، زیر یک حصار ایستاده است."
+  },
+  {
+    "sample_id": "1308",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک مرد در حال پیاده‌روی با سگش در شهر است.",
+    "caption2": "یک مرد در حال پیاده‌روی با سگش در شهر است."
+  },
+  {
+    "sample_id": "1339",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک گربه روی نشیمنگاه توالت نشسته است.",
+    "caption2": "یک گربه روی نشیمنگاه توالت نشسته است."
+  },
+  {
+    "sample_id": "1342",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دختر، یک گل را روی یقه کت پسر قرار می‌دهد.",
+    "caption2": "دختر، یک گل را روی یقه کت پسر قرار می‌دهد."
+  },
+  {
+    "sample_id": "1399",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد.",
+    "caption2": "یک اسکی‌باز که در حاشیه یک چاه، حرکات نمایشی انجام می‌دهد."
+  },
+  {
+    "sample_id": "1403",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند.",
+    "caption2": "دسته های نارنجی قیچی از یک نگهدارنده بیرون زده‌اند."
+  },
+  {
+    "sample_id": "1469",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک کودک کوچک در حال خوردن از یک ظرف است.",
+    "caption2": "یک کودک کوچک در حال خوردن از یک ظرف است."
+  },
+  {
+    "sample_id": "1483",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "قطار قدیمی در حال عبور از پل است.",
+    "caption2": "قطار قدیمی در حال عبور از پل است."
+  },
+  {
+    "sample_id": "1506",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک فرد ایستاده و پیراهنش را به نمایش می‌گذارد.",
+    "caption2": "یک فرد ایستاده و پیراهنش را به نمایش می‌گذارد."
+  },
+  {
+    "sample_id": "1526",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "این خرس بزرگ، روی یک صخره قدم می‌زند.",
+    "caption2": "این خرس بزرگ، روی یک صخره قدم می‌زند."
+  },
+  {
+    "sample_id": "1550",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "یک اتوبوس سفید با نشان \"41 Crosstown\" روی قسمت جلویی.",
+    "caption2": "یک اتوبوس سفید با نشان \"41 Crosstown\" روی قسمت جلویی."
+  },
+  {
+    "sample_id": "1617",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "این کاسه سوپ حاوی مقدار زیادی کلم بروکلی است.",
+    "negative_caption": "این کاسه سوپ حاوی مقدار زیادی کلم بروکلی است."
+  }
+]

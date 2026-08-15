@@ -1,0 +1,200 @@
+[
+  {
+    "sample_id": "95",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos camiones grandes se desplazan por una carretera bordeada de árboles.",
+    "caption2": "Dos camiones grandes se desplazan por una carretera bordeada de árboles."
+  },
+  {
+    "sample_id": "162",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una mujer habla por teléfono y mira hacia la distancia.",
+    "caption2": "Una mujer habla por teléfono y mira hacia la distancia."
+  },
+  {
+    "sample_id": "180",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos personas están andando en bicicleta por la calle, entre el tráfico.",
+    "caption2": "Dos personas están andando en bicicleta por la calle, entre el tráfico."
+  },
+  {
+    "sample_id": "280",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un semáforo con algunos papeles encima.",
+    "negative_caption": "Un semáforo con algunos papeles encima."
+  },
+  {
+    "sample_id": "280",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un semáforo con algunos papeles encima.",
+    "caption2": "Un semáforo con algunos papeles encima."
+  },
+  {
+    "sample_id": "280",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "Un semáforo con algunos papeles encima.",
+    "caption2": "Un semáforo con algunos papeles encima."
+  },
+  {
+    "sample_id": "341",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "El niño está mirando hacia atrás, hacia una ola en el océano.",
+    "caption2": "El niño está mirando hacia atrás, hacia una ola en el océano."
+  },
+  {
+    "sample_id": "394",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "La cocina está limpia y lista para que la veamos.",
+    "caption2": "La cocina está limpia y lista para que la veamos."
+  },
+  {
+    "sample_id": "407",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Los motociclistas están circulando por la calle juntos.",
+    "caption2": "Los motociclistas están circulando por la calle juntos."
+  },
+  {
+    "sample_id": "456",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una mujer golpea una pelota con una raqueta.",
+    "negative_caption": "Una mujer golpea una pelota con una raqueta."
+  },
+  {
+    "sample_id": "566",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de personas está sentado alrededor de una mesa, con un pastel.",
+    "caption2": "Un grupo de personas está sentado alrededor de una mesa, con un pastel."
+  },
+  {
+    "sample_id": "640",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "La mujer observa al elefante con asombro.",
+    "caption2": "La mujer observa al elefante con asombro."
+  },
+  {
+    "sample_id": "652",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "La gente está esperando el autobús con paraguas.",
+    "caption2": "La gente está esperando el autobús con paraguas."
+  },
+  {
+    "sample_id": "663",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "UNA MUJER está de pie, mirando algo.",
+    "caption2": "Una mujer está de pie, mirando algo."
+  },
+  {
+    "sample_id": "742",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "El semáforo está en una intersección de cuatro vías.",
+    "negative_caption": "El semáforo está en una intersección de cuatro vías."
+  },
+  {
+    "sample_id": "771",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Esta es una imagen de dos pájaros picoteando los restos de una hamburguesa en un restaurante al aire libre.",
+    "caption2": "Esta es una imagen de dos pájaros picoteando los restos de una hamburguesa en un restaurante al aire libre."
+  },
+  {
+    "sample_id": "812",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Tres esquiadores suben una colina cubierta de nieve.",
+    "caption2": "Tres esquiadores suben una colina cubierta de nieve."
+  },
+  {
+    "sample_id": "818",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de motociclistas circulando por una calle concurrida de la ciudad.",
+    "caption2": "Un grupo de motociclistas circulando por una calle concurrida de la ciudad."
+  },
+  {
+    "sample_id": "953",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un jugador de tenis que acaba de realizar una jugada.",
+    "caption2": "Un jugador de tenis que acaba de realizar una jugada."
+  },
+  {
+    "sample_id": "1042",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un reloj colgado en el exterior de un edificio de piedra de color marrón.",
+    "caption2": "Un reloj colgado en el exterior de un edificio de piedra de color marrón."
+  },
+  {
+    "sample_id": "1071",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un gato sentado en una silla de oficina.",
+    "caption2": "Un gato sentado en una silla de oficina."
+  },
+  {
+    "sample_id": "1099",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un baño y un inodoro en una habitación pequeña.",
+    "negative_caption": "Un baño y un inodoro en una habitación pequeña."
+  },
+  {
+    "sample_id": "1127",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Hay varios pasteles sobre la encimera.",
+    "negative_caption": "Hay varios pasteles sobre la encimera."
+  },
+  {
+    "sample_id": "1222",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una oveja con el pelo corto está de pie debajo de una cerca.",
+    "caption2": "Una oveja con el pelo corto está de pie debajo de una cerca."
+  },
+  {
+    "sample_id": "1308",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un hombre está paseando a su perro por la ciudad.",
+    "caption2": "Un hombre está paseando a su perro por la ciudad."
+  },
+  {
+    "sample_id": "1378",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Dos jóvenes están lavando dos motocicletas con mangueras.",
+    "negative_caption": "Dos jóvenes están lavando dos motocicletas con mangueras."
+  },
+  {
+    "sample_id": "1411",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un equipo deportivo está posando en un parque.",
+    "caption2": "Un equipo deportivo está posando en un parque."
+  },
+  {
+    "sample_id": "1469",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un niño pequeño está comiendo desde un plato.",
+    "caption2": "Un niño pequeño está comiendo desde un plato."
+  },
+  {
+    "sample_id": "1483",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "El tren antiguo está cruzando el puente.",
+    "caption2": "El tren antiguo está cruzando el puente."
+  },
+  {
+    "sample_id": "1542",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está subiendo una montaña cubierta de nieve.",
+    "caption2": "Una persona está subiendo una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "1546",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un hombre está alimentando a un elefante a través de una valla.",
+    "caption2": "Un hombre está alimentando a un elefante a través de una valla."
+  },
+  {
+    "sample_id": "1547",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una fotografía de un oso grizzly en su hábitat natural.",
+    "caption2": "Una fotografía de un oso grizzly en su hábitat natural."
+  },
+  {
+    "sample_id": "1617",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "El tazón de sopa contiene una gran cantidad de brócoli.",
+    "caption2": "El tazón de sopa contiene una gran cantidad de brócoli."
+  }
+]

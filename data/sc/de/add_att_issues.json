@@ -1,0 +1,14 @@
+[
+  {
+    "sample_id": "325",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Katze in einem Badezimmer mit einer Badewanne und einer Toilette.",
+    "negative_caption": "Eine Katze in einem Badezimmer mit einer Badewanne und einer Toilette."
+  },
+  {
+    "sample_id": "418",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Katze, die neben einer geöffneten Kühlschranktür steht.",
+    "negative_caption": "Eine Katze, die neben einer geöffneten Kühlschranktür steht."
+  }
+]

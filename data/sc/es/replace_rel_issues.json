@@ -1,0 +1,116 @@
+[
+  {
+    "sample_id": "40",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un primer plano de un horno con comida cocinándose en su interior.",
+    "negative_caption": "Un primer plano de un horno con comida cocinándose en su interior."
+  },
+  {
+    "sample_id": "78",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un hombre montando un caballo marrón, vestido con uniforme, junto a árboles altos y verdes.",
+    "negative_caption": "Un hombre montando un caballo marrón, vestido con uniforme, junto a árboles altos y verdes."
+  },
+  {
+    "sample_id": "210",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un hot dog con mostaza, colocado sobre una servilleta blanca.",
+    "negative_caption": "Un hot dog con mostaza, colocado sobre una servilleta blanca."
+  },
+  {
+    "sample_id": "243",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Una portátil Dell Inspiron está sobre una mesa.",
+    "negative_caption": "Una portátil Dell Inspiron está sobre una mesa."
+  },
+  {
+    "sample_id": "312",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un grupo de personas caminando por una carretera de montaña.",
+    "negative_caption": "Un grupo de personas caminando por una carretera de montaña."
+  },
+  {
+    "sample_id": "313",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un jugador de tenis saca una pelota adicional de su bolsillo.",
+    "negative_caption": "Un jugador de tenis saca una pelota adicional de su bolsillo."
+  },
+  {
+    "sample_id": "331",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Las sombras se proyectan en el lado de un tren debido a la luz del sol.",
+    "negative_caption": "Las sombras se proyectan en el lado de un tren debido a la luz del sol."
+  },
+  {
+    "sample_id": "444",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Tres sillas colocadas en una habitación, cerca de un espejo.",
+    "negative_caption": "Tres sillas colocadas en una habitación, cerca de un espejo."
+  },
+  {
+    "sample_id": "507",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un hombre mayor está esquiando por una montaña cubierta de nieve.",
+    "negative_caption": "Un hombre mayor está esquiando por una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "518",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un primer plano de un plato de comida sobre una alfombra.",
+    "negative_caption": "Un primer plano de un plato de comida sobre una alfombra."
+  },
+  {
+    "sample_id": "588",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Una anciana sentada en un banco junto a una valla.",
+    "negative_caption": "Una anciana sentada en un banco junto a una valla."
+  },
+  {
+    "sample_id": "672",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "La gente camina por un acera en una ciudad.",
+    "negative_caption": "La gente camina por un acera en una ciudad."
+  },
+  {
+    "sample_id": "718",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Una barcaza navegando por un río, con el horizonte en el fondo.",
+    "negative_caption": "Una barcaza navegando por un río, con el horizonte en el fondo."
+  },
+  {
+    "sample_id": "886",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Alguien está preparando un wok de comida vegetariana en una sartén.",
+    "negative_caption": "Alguien está preparando un wok de comida vegetariana en una sartén."
+  },
+  {
+    "sample_id": "893",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un plato con fideos y brócoli, junto a un cuchillo y un tenedor.",
+    "negative_caption": "Un plato con fideos y brócoli, junto a un cuchillo y un tenedor."
+  },
+  {
+    "sample_id": "1027",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un plato con una banana y rebanadas de queso.",
+    "negative_caption": "Un plato con una banana y rebanadas de queso."
+  },
+  {
+    "sample_id": "1203",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Platos que contienen una hamburguesa, papas fritas y salsas.",
+    "negative_caption": "Platos que contienen una hamburguesa, papas fritas y salsas."
+  },
+  {
+    "sample_id": "1305",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un hombre lanzando una pelota mientras sonríe y está en un campo.",
+    "negative_caption": "Un hombre lanzando una pelota mientras sonríe y está en un campo."
+  },
+  {
+    "sample_id": "1394",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Un hombre montando una tabla de skate por el lado de una rampa.",
+    "negative_caption": "Un hombre montando una tabla de skate por el lado de una rampa."
+  }
+]

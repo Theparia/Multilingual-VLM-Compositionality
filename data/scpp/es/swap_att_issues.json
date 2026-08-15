@@ -1,0 +1,62 @@
+[
+  {
+    "sample_id": "22",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está sentada en una mesa junto a dos niños pequeños.",
+    "caption2": "Una persona está sentada en una mesa junto a dos niños pequeños."
+  },
+  {
+    "sample_id": "32",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona con una camisa verde está de pie junto a otra persona que sostiene un trozo de pastel en un plato.",
+    "caption2": "Una persona con una camisa verde está de pie junto a otra persona que sostiene un trozo de pastel en un plato."
+  },
+  {
+    "sample_id": "35",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Tres osos de peluche están colocados en una escena de picnic de juguete.",
+    "caption2": "Tres osos de peluche están colocados en una escena de picnic de juguete."
+  },
+  {
+    "sample_id": "120",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una pareja está sentada sobre una estatua de un caballo, junto a algunas plantas.",
+    "caption2": "Una pareja está sentada sobre una estatua de un caballo, junto a algunas plantas."
+  },
+  {
+    "sample_id": "143",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un pequeño baño con un inodoro azul, un suelo de baldosas de varios colores y una toalla de colores.",
+    "caption2": "Un pequeño baño con un inodoro azul, un suelo de baldosas de varios colores y una toalla de colores."
+  },
+  {
+    "sample_id": "188",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está sentada en una silla en un salón, junto a algunas ventanas.",
+    "caption2": "Una persona está sentada en una silla en un salón, junto a algunas ventanas."
+  },
+  {
+    "sample_id": "225",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona con pantalones vaqueros y zapatos de dos colores está sentada en la parte trasera de un banco.",
+    "caption2": "Una persona con pantalones vaqueros y zapatos de dos colores está sentada en la parte trasera de un banco."
+  },
+  {
+    "sample_id": "261",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un pequeño jarrón con flores está colocado sobre una mesa de madera, cerca de revistas.",
+    "caption2": "Un pequeño jarrón con flores está colocado sobre una mesa de madera, cerca de revistas."
+  },
+  {
+    "sample_id": "268",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un restaurante con taburetes rojos junto a una barra y una mesa azul.",
+    "caption2": "Un restaurante con taburetes rojos junto a una barra y una mesa azul."
+  },
+  {
+    "sample_id": "310",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Tres personas intentan guiar a un caballo hacia un remolque.",
+    "caption2": "Tres personas intentan guiar a un caballo hacia un remolque."
+  }
+]

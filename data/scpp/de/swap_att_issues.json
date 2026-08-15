@@ -1,0 +1,128 @@
+[
+  {
+    "sample_id": "32",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person in einem grünen Hemd steht neben einer anderen Person, die ein Stück Kuchen auf einem Teller hält.",
+    "caption2": "Eine Person in einem grünen Hemd steht neben einer anderen Person, die ein Stück Kuchen auf einem Teller hält."
+  },
+  {
+    "sample_id": "71",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person fährt mit einem Snowboard und einem Drachen.",
+    "caption2": "Eine Person fährt mit einem Snowboard und einem Drachen."
+  },
+  {
+    "sample_id": "91",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Zug, der mit schwarzem Schlamm bedeckt ist, steht in einem luxuriösen Bahnhof.",
+    "caption2": "Ein Zug, der mit schwarzem Schlamm bedeckt ist, steht in einem luxuriösen Bahnhof."
+  },
+  {
+    "sample_id": "97",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person, die eine Hemd und einen orangefarbenen Krawatte trägt, steht im Inneren eines Gebäudes.",
+    "caption2": "Eine Person, die eine Hemd und einen orangefarbenen Krawatte trägt, steht im Inneren eines Gebäudes."
+  },
+  {
+    "sample_id": "120",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Paar sitzt auf einem Statuen eines Pferdes, in der Nähe von einigen Pflanzen.",
+    "caption2": "Ein Paar sitzt auf einem Statuen eines Pferdes, in der Nähe von einigen Pflanzen."
+  },
+  {
+    "sample_id": "144",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Tisch mit Brotstücken und drei teilweise gefüllte Weingläser sowie eine Weinflasche.",
+    "caption2": "Ein Tisch mit Brotstücken und drei teilweise gefüllte Weingläser sowie eine Weinflasche."
+  },
+  {
+    "sample_id": "161",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine schwarze Person, die weiße Kleidung und Schuhe trägt, rennt auf einem Tennisplatz.",
+    "caption2": "Eine schwarze Person, die weiße Kleidung und Schuhe trägt, rennt auf einem Tennisplatz."
+  },
+  {
+    "sample_id": "225",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person, die Jeans und Schuhe in zwei verschiedenen Farben trägt, sitzt auf der Rückseite eines Bänkes.",
+    "caption2": "Eine Person, die Jeans und Schuhe in zwei verschiedenen Farben trägt, sitzt auf der Rückseite eines Bänkes."
+  },
+  {
+    "sample_id": "228",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine junge Person mit rotem Haar, die eine Sonnenbrille und ein schwarzes Tanktop trägt, hält eine schwarze Ledertasche und einen weißen Regenschirm in der Hand.",
+    "caption2": "Eine junge Person mit rotem Haar, die eine Sonnenbrille und ein schwarzes Tanktop trägt, hält eine schwarze Ledertasche und einen weißen Regenschirm in der Hand."
+  },
+  {
+    "sample_id": "230",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine junge Person mit rotem Haar, die eine Sonnenbrille und ein schwarzes Tanktop trägt, hält eine schwarze Ledertasche und einen weißen Regenschirm in der Hand.",
+    "caption2": "Eine junge Person mit rotem Haar, die eine Sonnenbrille und ein schwarzes Tanktop trägt, hält eine schwarze Ledertasche und einen weißen Regenschirm in der Hand."
+  },
+  {
+    "sample_id": "261",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine kleine Vase mit Blumen steht auf einem Holztisch, in der Nähe von Zeitschriften.",
+    "caption2": "Eine kleine Vase mit Blumen steht auf einem Holztisch, in der Nähe von Zeitschriften."
+  },
+  {
+    "sample_id": "293",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "Eine weiße und braune Katze liegt auf einer orangefarbenen Katze auf einem Bett.",
+    "caption2": "Eine weiße und braune Katze liegt auf einer orangefarbenen Katze auf einem Bett."
+  },
+  {
+    "sample_id": "306",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein großer Metallstuhl mit einem braunen Teddybär darauf.",
+    "caption2": "Ein großer Metallstuhl mit einem braunen Teddybär darauf."
+  },
+  {
+    "sample_id": "308",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person in weißen Shorts springt in die Luft, um einen grünen Frisbee zu fangen.",
+    "caption2": "Eine Person in weißen Shorts springt in die Luft, um einen grünen Frisbee zu fangen."
+  },
+  {
+    "sample_id": "310",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Drei Personen versuchen, ein Pferd in einen Anhänger zu bringen.",
+    "caption2": "Drei Personen versuchen, ein Pferd in einen Anhänger zu bringen."
+  },
+  {
+    "sample_id": "341",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Schlafzimmer mit einem großen Bett, das neben einem schwarzen Schrank steht.",
+    "caption2": "Ein Schlafzimmer mit einem großen Bett, das neben einem schwarzen Schrank steht."
+  },
+  {
+    "sample_id": "382",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei kleine Kinder sitzen an der Seite eines weißen Bootes.",
+    "caption2": "Zwei kleine Kinder sitzen an der Seite eines weißen Bootes."
+  },
+  {
+    "sample_id": "414",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Flasche in einem Eimer mit Eis steht auf dem Boden, neben einem Gepäckträger.",
+    "caption2": "Eine Flasche in einem Eimer mit Eis steht auf dem Boden, neben einem Gepäckträger."
+  },
+  {
+    "sample_id": "458",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Kind streichelt eine Schaf, während ein anderes Schaf zusieht.",
+    "caption2": "Ein Kind streichelt eine Schaf, während ein anderes Schaf zusieht."
+  },
+  {
+    "sample_id": "547",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Auf dem Schreibtisch befinden sich zwei Desktop-Computer und ein Laptop.",
+    "caption2": "Auf dem Schreibtisch befinden sich zwei Desktop-Computer und ein Laptop."
+  },
+  {
+    "sample_id": "568",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person mit grünen Skiern, die einen steilen Hang hinunterfährt.",
+    "caption2": "Eine Person mit grünen Skiern, die einen steilen Hang hinunterfährt."
+  }
+]

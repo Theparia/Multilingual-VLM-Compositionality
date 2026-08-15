@@ -1,0 +1,50 @@
+[
+  {
+    "sample_id": "14",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines, mit Fliesen ausgekleidetes Badezimmer, mit einer schwarzen Toilettenschüssel.",
+    "caption2": "Ein kleines, mit Fliesen ausgekleidetes Badezimmer, mit einer schwarzen Toilettenschüssel."
+  },
+  {
+    "sample_id": "52",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus.",
+    "caption2": "Die orangefarbenen Griffe der Schere ragen aus einem Halter heraus."
+  },
+  {
+    "sample_id": "178",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein kleines Schaf steht unter einem Holzzaunpfosten.",
+    "caption2": "Ein kleines Schaf steht unter einem Holzzaunpfosten."
+  },
+  {
+    "sample_id": "260",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Ein Gruppenfoto von jungen Jungen und jungen Männern.",
+    "negative_caption": "Ein Gruppenfoto von jungen Jungen und jungen Männern."
+  },
+  {
+    "sample_id": "314",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Eine Person, die einen Anzug trägt, steht in der Nähe eines Tisches, auf dem Computer-Ausrüstung steht.",
+    "caption2": "Eine Person, die einen Anzug trägt, steht in der Nähe eines Tisches, auf dem Computer-Ausrüstung steht."
+  },
+  {
+    "sample_id": "432",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Eine Tür führt zu einem weißen Badezimmer, in dem ein schwarzer Mülleimer auf dem Boden steht.",
+    "negative_caption": "Eine Tür führt zu einem weißen Badezimmer, in dem ein schwarzer Mülleimer auf dem Boden steht."
+  },
+  {
+    "sample_id": "560",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Ein Stofftierbär sitzt vor einem Restaurant.",
+    "caption2": "Ein Stofftierbär sitzt vor einem Restaurant."
+  },
+  {
+    "sample_id": "734",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Zwei Handys unterschiedlicher Qualität liegen nebeneinander auf einem Tisch.",
+    "caption2": "Zwei Handys unterschiedlicher Qualität liegen nebeneinander auf einem Tisch."
+  }
+]

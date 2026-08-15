@@ -1,0 +1,344 @@
+[
+  {
+    "sample_id": "40",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un primer plano de un horno con comida cocinándose en su interior.",
+    "negative_caption": "Un primer plano de un horno con comida cocinándose en su interior."
+  },
+  {
+    "sample_id": "48",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una familia está jugando al frisbee en la playa.",
+    "caption2": "Una familia está jugando al frisbee en la playa."
+  },
+  {
+    "sample_id": "60",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de personas cruzando una calle junto a un semáforo en una curva.",
+    "caption2": "Un grupo de personas cruzando una calle junto a un semáforo en una curva."
+  },
+  {
+    "sample_id": "68",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona vestida con un vestido azul, sin zapatos, sentada con las piernas cruzadas en una silla en el centro de una habitación.",
+    "negative_caption": "Una persona vestida con un vestido azul, sin zapatos, sentada con las piernas cruzadas en una silla en el centro de una habitación."
+  },
+  {
+    "sample_id": "94",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona esquiando desciende por una pendiente.",
+    "caption2": "Una persona esquiando desciende por una pendiente."
+  },
+  {
+    "sample_id": "120",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Se está alimentando a un elefante mientras está dentro de un camión.",
+    "caption2": "Se está alimentando a un elefante mientras está dentro de un camión."
+  },
+  {
+    "sample_id": "138",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona sentada en una silla, junto a un gato y una computadora portátil.",
+    "negative_caption": "Una persona sentada en una silla, junto a un gato y una computadora portátil."
+  },
+  {
+    "sample_id": "140",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Vista aérea de varios aviones volando en formación en el cielo.",
+    "caption2": "Vista aérea de varios aviones volando en formación en el cielo."
+  },
+  {
+    "sample_id": "148",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de perros que están de pie en la hierba.",
+    "caption2": "Un grupo de perros que están de pie en la hierba."
+  },
+  {
+    "sample_id": "186",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un gato negro con ojos verdes sentado en el lavabo del baño.",
+    "caption2": "Un gato negro con ojos verdes sentado en el lavabo del baño."
+  },
+  {
+    "sample_id": "210",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un hot dog con mostaza, colocado sobre una servilleta blanca.",
+    "negative_caption": "Un hot dog con mostaza, colocado sobre una servilleta blanca."
+  },
+  {
+    "sample_id": "242",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un oso marrón está durmiendo en una hamaca.",
+    "caption2": "Un oso marrón está durmiendo en una hamaca."
+  },
+  {
+    "sample_id": "243",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una portátil Dell Inspiron está sobre una mesa.",
+    "negative_caption": "Una portátil Dell Inspiron está sobre una mesa."
+  },
+  {
+    "sample_id": "259",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un perro sentado en una silla debajo de un cuadro.",
+    "caption2": "Un perro sentado en una silla debajo de un cuadro."
+  },
+  {
+    "sample_id": "312",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un grupo de personas caminando por una carretera de montaña.",
+    "negative_caption": "Un grupo de personas caminando por una carretera de montaña."
+  },
+  {
+    "sample_id": "313",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un jugador de tenis saca una pelota adicional de su bolsillo.",
+    "negative_caption": "Un jugador de tenis saca una pelota adicional de su bolsillo."
+  },
+  {
+    "sample_id": "331",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Las sombras se proyectan en el lado de un tren debido a la luz del sol.",
+    "negative_caption": "Las sombras se proyectan en el lado de un tren debido a la luz del sol."
+  },
+  {
+    "sample_id": "369",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de niños con trajes, sosteniendo una pizarra.",
+    "caption2": "Un grupo de niños con trajes, sosteniendo una pizarra."
+  },
+  {
+    "sample_id": "415",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Niños de la escuela están sentados con las piernas cruzadas frente a una pizarra, en una fotografía en blanco y negro de estilo vintage.",
+    "negative_caption": "Niños de la escuela están sentados con las piernas cruzadas frente a una pizarra, en una fotografía en blanco y negro de estilo vintage."
+  },
+  {
+    "sample_id": "435",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Varios niños pequeños están posando juntos en la fotografía en blanco y negro.",
+    "caption2": "Varios niños pequeños están posando juntos en la fotografía en blanco y negro."
+  },
+  {
+    "sample_id": "444",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Tres sillas colocadas en una habitación, cerca de un espejo.",
+    "negative_caption": "Tres sillas colocadas en una habitación, cerca de un espejo."
+  },
+  {
+    "sample_id": "457",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un niño con ropa amarilla está sosteniendo una pizza en una caja.",
+    "caption2": "Un niño con ropa amarilla está sosteniendo una pizza en una caja."
+  },
+  {
+    "sample_id": "504",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está bebiendo agua de una botella roja.",
+    "caption2": "Una persona está bebiendo agua de una botella roja."
+  },
+  {
+    "sample_id": "506",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Algunas vacas negras están pastando en un campo verde.",
+    "negative_caption": "Algunas vacas negras están pastando en un campo verde."
+  },
+  {
+    "sample_id": "507",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona mayor está esquiando por una montaña cubierta de nieve.",
+    "negative_caption": "Una persona mayor está esquiando por una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "507",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona mayor está esquiando por una montaña cubierta de nieve.",
+    "caption2": "Una persona mayor está esquiando por una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "507",
+    "reason": "negative_caption_collapsed_with_caption2",
+    "negative_caption": "Una persona mayor está esquiando por una montaña cubierta de nieve.",
+    "caption2": "Una persona mayor está esquiando por una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "508",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un pequeño gato está sentado en la mesa, mirando la televisión.",
+    "caption2": "Un pequeño gato está sentado en la mesa, mirando la televisión."
+  },
+  {
+    "sample_id": "518",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un primer plano de un plato de comida sobre una alfombra.",
+    "negative_caption": "Un primer plano de un plato de comida sobre una alfombra."
+  },
+  {
+    "sample_id": "585",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona sentada en un banco, con una iglesia de fondo.",
+    "negative_caption": "Una persona sentada en un banco, con una iglesia de fondo."
+  },
+  {
+    "sample_id": "588",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona mayor sentada en un banco junto a una valla.",
+    "negative_caption": "Una persona mayor sentada en un banco junto a una valla."
+  },
+  {
+    "sample_id": "609",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está de pie en una colina cubierta de nieve, con sus esquíes.",
+    "caption2": "Una persona está de pie en una colina cubierta de nieve, con sus esquíes."
+  },
+  {
+    "sample_id": "610",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos mujeres están sentadas una al lado de la otra en un banco del parque.",
+    "caption2": "Dos mujeres están sentadas una al lado de la otra en un banco del parque."
+  },
+  {
+    "sample_id": "672",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "La gente camina por un acera en una ciudad.",
+    "negative_caption": "La gente camina por un acera en una ciudad."
+  },
+  {
+    "sample_id": "701",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está sentada en una motocicleta con un sidecar.",
+    "caption2": "Una persona está sentada en una motocicleta con un sidecar."
+  },
+  {
+    "sample_id": "718",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una barcaza navegando por un río, con el horizonte en el fondo.",
+    "negative_caption": "Una barcaza navegando por un río, con el horizonte en el fondo."
+  },
+  {
+    "sample_id": "731",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "El avión está estacionado en la pista del aeropuerto.",
+    "caption2": "El avión está estacionado en la pista del aeropuerto."
+  },
+  {
+    "sample_id": "738",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "La gente está volando cometas y paseando por el parque.",
+    "caption2": "La gente está volando cometas y paseando por el parque."
+  },
+  {
+    "sample_id": "770",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un jugador de tenis golpea una pelota alta frente a un público.",
+    "caption2": "Un jugador de tenis golpea una pelota alta frente a un público."
+  },
+  {
+    "sample_id": "893",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un plato con fideos y brócoli, junto a un cuchillo y un tenedor.",
+    "negative_caption": "Un plato con fideos y brócoli, junto a un cuchillo y un tenedor."
+  },
+  {
+    "sample_id": "994",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de coches estacionados en un aparcamiento.",
+    "caption2": "Un grupo de coches estacionados en un aparcamiento."
+  },
+  {
+    "sample_id": "1020",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un elefante que se encuentra separado del resto del grupo, bebiendo agua.",
+    "caption2": "Un elefante que se encuentra separado del resto del grupo, bebiendo agua."
+  },
+  {
+    "sample_id": "1027",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Un plato con una banana y rebanadas de queso.",
+    "negative_caption": "Un plato con una banana y rebanadas de queso."
+  },
+  {
+    "sample_id": "1056",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un gato está bebiendo algo de un vaso.",
+    "caption2": "Un gato está bebiendo algo de un vaso."
+  },
+  {
+    "sample_id": "1090",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de personas camina por un pasillo cubierto.",
+    "caption2": "Un grupo de personas camina por un pasillo cubierto."
+  },
+  {
+    "sample_id": "1121",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos teléfonos móviles de diferente calidad están colocados uno al lado del otro sobre una mesa.",
+    "caption2": "Dos teléfonos móviles de diferente calidad están colocados uno al lado del otro sobre una mesa."
+  },
+  {
+    "sample_id": "1124",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "La motocicleta brillante ha sido exhibida.",
+    "caption2": "La motocicleta brillante ha sido exhibida."
+  },
+  {
+    "sample_id": "1131",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una mesa con un teclado, un ratón y dos monitores.",
+    "negative_caption": "Una mesa con un teclado, un ratón y dos monitores."
+  },
+  {
+    "sample_id": "1134",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Todos los miembros del grupo están utilizando dispositivos electrónicos.",
+    "caption2": "Todos los miembros del grupo están utilizando dispositivos electrónicos."
+  },
+  {
+    "sample_id": "1155",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona con una falda muestra sus tatuajes.",
+    "caption2": "Una persona con una falda muestra sus tatuajes."
+  },
+  {
+    "sample_id": "1192",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un grupo de personas está jugando videojuegos en Best Buy.",
+    "caption2": "Un grupo de personas está jugando videojuegos en Best Buy."
+  },
+  {
+    "sample_id": "1203",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Platos que contienen una hamburguesa, papas fritas y salsas.",
+    "negative_caption": "Platos que contienen una hamburguesa, papas fritas y salsas."
+  },
+  {
+    "sample_id": "1220",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un letrero plegable colocado en una acera mojada.",
+    "caption2": "Un letrero plegable colocado en una acera mojada."
+  },
+  {
+    "sample_id": "1260",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona con el cabello ralo le ofrece una porción de pizza a un niño pequeño.",
+    "caption2": "Una persona con el cabello ralo le ofrece una porción de pizza a un niño pequeño."
+  },
+  {
+    "sample_id": "1285",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un barco está aparcado en la arena, cerca del agua.",
+    "caption2": "Un barco está aparcado en la arena, cerca del agua."
+  },
+  {
+    "sample_id": "1336",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona mirando por la ventana de un autobús.",
+    "caption2": "Una persona mirando por la ventana de un autobús."
+  },
+  {
+    "sample_id": "1355",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Tres personas sentadas alrededor de una mesa, desayunando.",
+    "negative_caption": "Tres personas sentadas alrededor de una mesa, desayunando."
+  }
+]

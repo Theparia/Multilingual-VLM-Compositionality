@@ -1,0 +1,86 @@
+[
+  {
+    "sample_id": "14",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un pequeño baño con azulejos, que incluye un inodoro con asiento negro.",
+    "caption2": "Un pequeño baño con azulejos, que incluye un inodoro con asiento negro."
+  },
+  {
+    "sample_id": "24",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos jirafas de pie, una al lado de la otra.",
+    "caption2": "Dos jirafas de pie, una al lado de la otra."
+  },
+  {
+    "sample_id": "71",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un niño con ropa amarilla está sosteniendo una pizza en una caja.",
+    "caption2": "Un niño con ropa amarilla está sosteniendo una pizza en una caja."
+  },
+  {
+    "sample_id": "104",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Vista aérea de varios aviones volando en formación en el cielo.",
+    "caption2": "Vista aérea de varios aviones volando en formación en el cielo."
+  },
+  {
+    "sample_id": "207",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "El baño está pintado de un azul claro y tiene baldosas de cerámica rosa que adornan la pared de la ducha, junto con un lavabo y una puerta de color maple.",
+    "caption2": "El baño está pintado de un azul claro y tiene baldosas de cerámica rosa que adornan la pared de la ducha, junto con un lavabo y una puerta de color maple."
+  },
+  {
+    "sample_id": "234",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos camiones grandes se desplazan por una carretera bordeada de árboles.",
+    "caption2": "Dos camiones grandes se desplazan por una carretera bordeada de árboles."
+  },
+  {
+    "sample_id": "260",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Niños y jóvenes varones en una foto de grupo.",
+    "negative_caption": "Niños y jóvenes varones en una foto de grupo."
+  },
+  {
+    "sample_id": "263",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Fotografía en blanco y negro de un tractor en una playa, junto a barcos.",
+    "negative_caption": "Fotografía en blanco y negro de un tractor en una playa, junto a barcos."
+  },
+  {
+    "sample_id": "364",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un oso negro adulto extiende su larga lengua.",
+    "caption2": "Un oso negro adulto extiende su larga lengua."
+  },
+  {
+    "sample_id": "519",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Una persona está subiendo una montaña cubierta de nieve.",
+    "caption2": "Una persona está subiendo una montaña cubierta de nieve."
+  },
+  {
+    "sample_id": "597",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Un perro mojado está jugando con una cuerda de pelotas.",
+    "caption2": "Un perro mojado está jugando con una cuerda de pelotas."
+  },
+  {
+    "sample_id": "645",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "Una persona con un traje de neopreno está de pie sobre una tabla de surf y remando con una pala.",
+    "negative_caption": "Una persona con un traje de neopreno está de pie sobre una tabla de surf y remando con una pala."
+  },
+  {
+    "sample_id": "734",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos teléfonos móviles de diferente calidad están colocados uno al lado del otro sobre una mesa.",
+    "caption2": "Dos teléfonos móviles de diferente calidad están colocados uno al lado del otro sobre una mesa."
+  },
+  {
+    "sample_id": "780",
+    "reason": "caption_collapsed_with_caption2",
+    "caption": "Dos personas están tumbadas en una cama.",
+    "caption2": "Dos personas están tumbadas en una cama."
+  }
+]

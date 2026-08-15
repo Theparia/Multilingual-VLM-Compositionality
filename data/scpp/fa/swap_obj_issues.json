@@ -1,0 +1,14 @@
+[
+  {
+    "sample_id": "2",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "یک فرد در حال آماده‌سازی پیتزا است، در حالی که فرد دیگری در حال تماشای او است.",
+    "negative_caption": "یک فرد در حال آماده‌سازی پیتزا است، در حالی که فرد دیگری در حال تماشای او است."
+  },
+  {
+    "sample_id": "8",
+    "reason": "caption_collapsed_with_negative_caption",
+    "caption": "شخصی که یک کنترلر بازی در دست دارد و شخص دیگری در حال تماشای او است.",
+    "negative_caption": "شخصی که یک کنترلر بازی در دست دارد و شخص دیگری در حال تماشای او است."
+  }
+]

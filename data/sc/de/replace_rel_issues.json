@@ -1,0 +1,152 @@
+[
+  {
+    "sample_id": "11",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Luftaufnahme eines Flugzeugs, das in den Himmel aufsteigt.",
+    "negative_caption": "Luftaufnahme eines Flugzeugs, das in den Himmel aufsteigt."
+  },
+  {
+    "sample_id": "68",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Frau in einem blauen Kleid, ohne Schuhe, sitzt mit verschränkten Beinen auf einem Stuhl in der Mitte eines Raumes.",
+    "negative_caption": "Eine Frau in einem blauen Kleid, ohne Schuhe, sitzt mit verschränkten Beinen auf einem Stuhl in der Mitte eines Raumes."
+  },
+  {
+    "sample_id": "74",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Das Basketballspiel wird von Mannschaften mit weißen oder blauen Uniformen ausgetragen.",
+    "negative_caption": "Das Basketballspiel wird von Mannschaften mit weißen oder blauen Uniformen ausgetragen."
+  },
+  {
+    "sample_id": "260",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Mann geht mit einem Hund an einer Gehwoche entlang.",
+    "negative_caption": "Ein Mann geht mit einem Hund an einer Gehwoche entlang."
+  },
+  {
+    "sample_id": "264",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Rinder grasen auf einer grünen Wiese, die sich entlang eines Flusses und von Bergen erstreckt.",
+    "negative_caption": "Rinder grasen auf einer grünen Wiese, die sich entlang eines Flusses und von Bergen erstreckt."
+  },
+  {
+    "sample_id": "292",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein graues und weißes Hund, der auf der Beifahrerseite eines Autos sitzt.",
+    "negative_caption": "Ein graues und weißes Hund, der auf der Beifahrerseite eines Autos sitzt."
+  },
+  {
+    "sample_id": "331",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Schatten entstehen auf der Seite eines Zuges aufgrund der Sonne.",
+    "negative_caption": "Schatten entstehen auf der Seite eines Zuges aufgrund der Sonne."
+  },
+  {
+    "sample_id": "332",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Mann hält ein silbernes, zusammenklappbares Handy vor sein Gesicht.",
+    "negative_caption": "Ein Mann hält ein silbernes, zusammenklappbares Handy vor sein Gesicht."
+  },
+  {
+    "sample_id": "354",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein schwarzes, weiches Kuscheltier, das auf dem Deckel einer Toilette liegt.",
+    "negative_caption": "Ein schwarzes, weiches Kuscheltier, das auf dem Deckel einer Toilette liegt."
+  },
+  {
+    "sample_id": "415",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Schulkinder sitzen mit verschränkten Beinen vor einer Tafeldarstellung in einem alten Schwarz-Weiß-Foto.",
+    "negative_caption": "Schulkinder sitzen mit verschränkten Beinen vor einer Tafeldarstellung in einem alten Schwarz-Weiß-Foto."
+  },
+  {
+    "sample_id": "461",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Katze hat ihre Vorderpfoten auf die Toilettenschüssel gelegt.",
+    "negative_caption": "Eine Katze hat ihre Vorderpfoten auf die Toilettenschüssel gelegt."
+  },
+  {
+    "sample_id": "491",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Mann, der sich in der Nähe eines Tisches mit Videotechnik befindet.",
+    "negative_caption": "Ein Mann, der sich in der Nähe eines Tisches mit Videotechnik befindet."
+  },
+  {
+    "sample_id": "498",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Schwarz-Weiß-Foto einer Person, die DC-Schuhe trägt und auf einem Skateboard in der Sonne steht.",
+    "negative_caption": "Ein Schwarz-Weiß-Foto einer Person, die DC-Schuhe trägt und auf einem Skateboard in der Sonne steht."
+  },
+  {
+    "sample_id": "585",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Mann, der auf einer Bank sitzt, mit einer Kirche im Hintergrund.",
+    "negative_caption": "Ein Mann, der auf einer Bank sitzt, mit einer Kirche im Hintergrund."
+  },
+  {
+    "sample_id": "629",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine weiße Toilette, die in einem Badezimmer neben einer Dusche steht.",
+    "negative_caption": "Eine weiße Toilette, die in einem Badezimmer neben einer Dusche steht."
+  },
+  {
+    "sample_id": "644",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine weibliche Tennisspielerin, die einen Ball vor sich hält und den Schläger zurückgezogen hat.",
+    "negative_caption": "Eine weibliche Tennisspielerin, die einen Ball vor sich hält und den Schläger zurückgezogen hat."
+  },
+  {
+    "sample_id": "669",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein junges, getigertes Kätzchen, das hinter einem Fahrrad herläuft, das an einer Wand lehnt.",
+    "negative_caption": "Ein junges, getigertes Kätzchen, das hinter einem Fahrrad herläuft, das an einer Wand lehnt."
+  },
+  {
+    "sample_id": "672",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Menschen gehen auf einer Gehwoche in einer Stadt entlang.",
+    "negative_caption": "Menschen gehen auf einer Gehwoche in einer Stadt entlang."
+  },
+  {
+    "sample_id": "678",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein freundliches Paar Skifahrer vor einem riesigen, mit Schnee bedeckten Berg.",
+    "negative_caption": "Ein freundliches Paar Skifahrer vor einem riesigen, mit Schnee bedeckten Berg."
+  },
+  {
+    "sample_id": "741",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Person, die ein Telefon in jeder Hand hält und ein Headset vor einem Weihnachtsbaum trägt.",
+    "negative_caption": "Eine Person, die ein Telefon in jeder Hand hält und ein Headset vor einem Weihnachtsbaum trägt."
+  },
+  {
+    "sample_id": "782",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Dieses Badezimmer hat rosa Fliesen in der Dusche und ist blau gestrichen.",
+    "negative_caption": "Dieses Badezimmer hat rosa Fliesen in der Dusche und ist blau gestrichen."
+  },
+  {
+    "sample_id": "886",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Jemand bereitet eine vegetarische Pfannengerichte zu.",
+    "negative_caption": "Jemand bereitet eine vegetarische Pfannengerichte zu."
+  },
+  {
+    "sample_id": "1124",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Das glänzende Motorrad wurde ausgestellt.",
+    "negative_caption": "Das glänzende Motorrad wurde ausgestellt."
+  },
+  {
+    "sample_id": "1345",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Teller mit zwei Pizzastücken darauf.",
+    "negative_caption": "Ein Teller mit zwei Pizzastücken darauf."
+  },
+  {
+    "sample_id": "1355",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Drei Männer sitzen an einem Tisch und frühstücken.",
+    "negative_caption": "Drei Männer sitzen an einem Tisch und frühstücken."
+  }
+]

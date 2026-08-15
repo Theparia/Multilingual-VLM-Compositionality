@@ -1,0 +1,44 @@
+[
+  {
+    "sample_id": "9",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Katze steht auf einem Tisch und trinkt Wasser aus einer Glas.",
+    "negative_caption": "Eine Katze steht auf einem Tisch und trinkt Wasser aus einer Glas."
+  },
+  {
+    "sample_id": "304",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Schüssel enthält eine Suppe mit Brokkoli und anderen Gemüsesorten.",
+    "negative_caption": "Ein Schüssel enthält eine Suppe mit Brokkoli und anderen Gemüsesorten."
+  },
+  {
+    "sample_id": "386",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein großer, runder Kuchen liegt auf einer Platte.",
+    "negative_caption": "Ein großer, runder Kuchen liegt auf einer Platte."
+  },
+  {
+    "sample_id": "456",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Frau schlägt mit einem Schläger einen Ball.",
+    "negative_caption": "Eine Frau schlägt mit einem Schläger einen Ball."
+  },
+  {
+    "sample_id": "807",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein leerer Teller mit einem Gabel liegt zwischen zwei Kindern.",
+    "negative_caption": "Ein leerer Teller mit einem Gabel liegt zwischen zwei Kindern."
+  },
+  {
+    "sample_id": "841",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Eine Katze auf einem Stuhl, mit etwas auf dem Kopf.",
+    "negative_caption": "Eine Katze auf einem Stuhl, mit etwas auf dem Kopf."
+  },
+  {
+    "sample_id": "1326",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Ein Teller mit verschiedenen Arten von Speisen.",
+    "negative_caption": "Ein Teller mit verschiedenen Arten von Speisen."
+  }
+]

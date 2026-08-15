@@ -1,0 +1,8 @@
+[
+  {
+    "sample_id": "116",
+    "reason": "positive_and_negative_collapsed",
+    "caption": "Hay un plato con una ensalada sobre un mantel de lino blanco.",
+    "negative_caption": "Hay un plato con una ensalada sobre un mantel de lino blanco."
+  }
+]
